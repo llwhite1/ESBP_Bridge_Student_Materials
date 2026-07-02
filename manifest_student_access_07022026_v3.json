@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-02T14:45:17",
-  "version": "07022026_v2_calendar_day_structure",
+  "generated": "2026-07-02T17:29:00",
+  "version": "07022026_v3_day20_ceremony_no_class_meeting",
   "structure": "weekXX/dayYY_topic",
-  "student_access_pdf_count": 38,
+  "student_access_pdf_count": 37,
   "included": [
     {
       "old_rel": "week01/workbooklets/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf",
@@ -262,13 +262,6 @@
       "bytes": 295673,
       "sha256": "285acc1cd823bc230ab94ca7f8cf560521092c093968fc2d576ee6aa99905220",
       "type": "support/transition packet"
-    },
-    {
-      "old_rel": "final_stretch/day20/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf",
-      "dest_rel": "week04/day20_closeout_readiness_reflection/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf",
-      "bytes": 293059,
-      "sha256": "843dbc9d90e2898520c04b4063a42c8e477c846491acd2dafe38d5e85e2dc24a",
-      "type": "closeout/readiness reflection packet"
     }
   ],
   "release_cautions": [
@@ -277,6 +270,9 @@
     "Week 3 quiz packet v2 selected; v1 excluded.",
     "Week 1 closeout housed in Day 5 as checkpoint/practice, not separate grade category.",
     "Exam 1 readiness rehearsal is optional/practice addendum, not Ally-final main packet unless rebuilt.",
-    "Record Canvas/LMS accessibility outcomes after upload."
-  ]
+    "Record Canvas/LMS accessibility outcomes after upload.",
+    "Day 20 is ceremony-only/no bridge class meeting; no Day 20 student class packet is staged.",
+    "The previous Day 20 closeout/readiness reflection packet is superseded/held and not part of student release."
+  ],
+  "day20_release_correction": "Day 20 is ceremony-only/no bridge class meeting. The previous Day 20 closeout/readiness reflection packet is superseded/held and not staged for student release."
 }

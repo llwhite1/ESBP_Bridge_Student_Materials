@@ -8,4 +8,4 @@ Date: Thu Jul 30
 
 ## Final stretch note
 
-This is part of the Week 4 final synthesis/support/closeout sequence.
+This is part of the Week 4 post-Exam-2 sequence. Day 20 is ceremony-only and has no normal bridge class meeting.

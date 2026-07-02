@@ -1,10 +1,6 @@
-# Student Access Manifest 07022026 v2
+# Student Access Manifest 07022026 v3
 
-Generated: 2026-07-02T14:45:17
-
-## Calendar-first structure
-
-Materials are organized as `weekXX/dayYY_topic/` so the repository homepage can serve as a course calendar.
+Day 20 correction: Day 20 is ceremony-only/no bridge class meeting. No Day 20 student class packet is staged.
 
 ## Included files
 
@@ -45,4 +41,3 @@ Materials are organized as `weekXX/dayYY_topic/` so the repository homepage can 
 - `week04/day18_synthesis/DAY18_SYNTHESIS_QUIZ_STUDENT_07012026_v1.pdf` — quiz
 - `week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf` — workbooklet
 - `week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf` — support/transition packet
-- `week04/day20_closeout_readiness_reflection/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf` — closeout/readiness reflection packet

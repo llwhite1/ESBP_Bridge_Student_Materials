@@ -25,14 +25,14 @@ Student-facing PDFs are organized by the course calendar. Start with the calenda
 | Week 04 | 17 | Tue Jul 28 | Exam 2 | [Open day folder](week04/day17_exam2/) |
 | Week 04 | 18 | Wed Jul 29 | Synthesis workbook + daily quiz | [Open day folder](week04/day18_synthesis/) |
 | Week 04 | 19 | Thu Jul 30 | Support and transition | [Open day folder](week04/day19_support_transition/) |
-| Week 04 | 20 | Fri Jul 31 | Closeout and readiness reflection | [Open day folder](week04/day20_closeout_readiness_reflection/) |
+| Week 04 | 20 | Fri Jul 31 | Ceremony day / no bridge class meeting | [Open day folder](week04/day20_ceremony_no_class_meeting/) |
 
 ## Release/navigation notes
 
 - Day 9 is Exam 1; there is no separate Day 9 daily workbooklet here.
 - The Week 1 closeout is inside Day 5 as a checkpoint/practice item, not as a separate surprise grade bucket.
 - Day 16 is Week 4 Day 16, the bridge before Exam 2.
-- Days 18--20 are Week 4 final synthesis/support/closeout days.
+- Days 18--19 carry final synthesis/support work; Day 20 is ceremony-only with no bridge class meeting.
 - The Exam 1 readiness rehearsal is optional practice, not an Ally-final main packet unless rebuilt.
 
 ## Week folders
