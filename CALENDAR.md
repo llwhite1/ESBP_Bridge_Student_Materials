@@ -1,8 +1,4 @@
-# ESBP Bridge Student Materials
-
-Student-facing PDFs are organized by the course calendar. Start with the calendar below, then open the folder for the class day you need.
-
-## Calendar navigation
+# Student materials calendar
 
 | Week | Day | Date | Focus | Materials |
 |---|---:|---|---|---|
@@ -27,19 +23,3 @@ Student-facing PDFs are organized by the course calendar. Start with the calenda
 | Week 04 | 19 | Thu Jul 30 | Support and transition | [Open day folder](week04/day19_support_transition/) |
 | Week 04 | 20 | Fri Jul 31 | Closeout and readiness reflection | [Open day folder](week04/day20_closeout_readiness_reflection/) |
 
-## Release/navigation notes
-
-- Day 9 is Exam 1; there is no separate Day 9 daily workbooklet here.
-- The Week 1 closeout is inside Day 5 as a checkpoint/practice item, not as a separate surprise grade bucket.
-- Day 16 is Week 4 Day 16, the bridge before Exam 2.
-- Days 18--20 are Week 4 final synthesis/support/closeout days.
-- The Exam 1 readiness rehearsal is optional practice, not an Ally-final main packet unless rebuilt.
-
-## Week folders
-
-- [Week 1](week01/)
-- [Week 2](week02/)
-- [Week 3](week03/)
-- [Week 4](week04/)
-
-See `CALENDAR.md` for the same schedule in a standalone page.

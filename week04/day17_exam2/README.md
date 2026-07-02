@@ -1,0 +1,7 @@
+# Day 17 — Exam 2
+
+Date: Tue Jul 28
+
+## Materials in this folder
+
+- [EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf](EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf) — exam
