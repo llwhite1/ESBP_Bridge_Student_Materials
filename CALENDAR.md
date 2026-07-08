@@ -1,5 +1,7 @@
 # Student materials calendar
 
+Start with the [Bridge-to-ENGR 102 Journey: how each bridge day builds semester success habits](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md) to see how each bridge day builds toward regular-semester ENGR 102 success.
+
 | Week | Day | Date | Focus | Materials |
 |---|---:|---|---|---|
 | Week 01 | 1 | Mon Jul 6 | Visible output evidence | [Open day folder](week01/day01_visible_output_evidence/) |

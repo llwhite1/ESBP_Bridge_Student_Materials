@@ -2,6 +2,8 @@
 
 Student-facing PDFs are organized by the course calendar. Start with the calendar below, then open the folder for the class day you need.
 
+Before you open a day folder, read the [Bridge-to-ENGR 102 Journey: how each bridge day builds semester success habits](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md). It shows how the bridge sequence maps to the ENGR 102 habits students need in the regular semester.
+
 ## Calendar navigation
 
 | Week | Day | Date | Focus | Materials |

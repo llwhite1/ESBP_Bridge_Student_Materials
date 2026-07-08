@@ -2,6 +2,8 @@
 
 Use the course calendar on the repository homepage as the primary navigation surface.
 
+Read the [Bridge-to-ENGR 102 Journey: how each bridge day builds semester success habits](../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md) for the throughline from visible output to state to type-aware calculation.
+
 | Day | Date | Focus | Folder |
 |---|---|---|---|
 | Day 01 | Mon Jul 6 | Visible output evidence | [`day01_visible_output_evidence/`](day01_visible_output_evidence/) |
