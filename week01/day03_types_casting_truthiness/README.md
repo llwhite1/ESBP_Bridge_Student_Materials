@@ -2,9 +2,40 @@
 
 Date: Wed Jul 8
 
-Journey connection: Day 3 continues the bridge journey by asking what kind of value Python is using before a calculation or decision is trusted. See the [Bridge-to-ENGR 102 Journey: how each bridge day builds semester success habits](../../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md).
+## Start here for this day
 
-## Materials in this folder
+Check value type before trusting calculation, comparison, or condition behavior.
 
-- [DAY03_TYPES_CASTING_TRUTHINESS_QUIZ_STUDENT_06202026_v1.pdf](DAY03_TYPES_CASTING_TRUTHINESS_QUIZ_STUDENT_06202026_v1.pdf) — quiz
+Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+
+## Current student-facing files
+
 - [DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf](DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
+
+## What you are learning today
+
+- Focus: Types, casting, and truthiness.
+- Main evidence to keep: type checks, cast results, truthiness notes.
+- Why it matters: Check value type before trusting calculation, comparison, or condition behavior.
+
+## Before class / during class / after class
+
+- Before class: Look for places where a value may be text, number, or Boolean.
+- During class: Write the value and its type together.
+- After class: Write one sentence explaining why a conversion was safe or risky.
+
+## If you get stuck
+
+If stuck, ask: what type is this value right now?
+
+Try to name the kind of evidence you need before asking for help: output, state, type, route, test, loop pass, list state, or support plan.
+
+## How this connects to ENGR 102
+
+This supports later debugging when output looks right but the value type is wrong.
+
+## Related collection pages
+
+- [Bridge-to-ENGR 102 Journey](../../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
+- [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md)
+- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md)

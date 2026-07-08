@@ -1,0 +1,922 @@
+{
+  "generated": "2026-07-08T13:08:37",
+  "version": "07082026_v5_student_learning_collection_no_quizzes",
+  "repository": "ESBP_Bridge_Student_Materials",
+  "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
+  "collection_rule": "Current student-facing learning materials are included; daily quiz PDFs, instructor-only materials, answer-bearing files, source files, and build logs are excluded.",
+  "notebook_practice": "Approved notebook practice is linked through NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md and remains in the companion notebook repository rather than copied into this PDF collection.",
+  "summary": {
+    "root_navigation_file_count": 9,
+    "week_readme_count": 4,
+    "day_folder_count": 20,
+    "day_readme_count": 20,
+    "current_student_pdf_count": 23,
+    "quiz_pdf_count_in_current_repo": 0,
+    "workbooklet_pdf_count": 17,
+    "exam_or_assessment_pdf_count": 2,
+    "optional_support_or_checkpoint_pdf_count": 5
+  },
+  "root_navigation_files": [
+    {
+      "rel": "README.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 3802,
+      "sha256": "e8c0ce3a732c74765a4bc016094242d4be9df2d46e612848bae8e699a16c4ce4"
+    },
+    {
+      "rel": "CALENDAR.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 2692,
+      "sha256": "990c375070c738a154e83e8c87669b61b42421248f2574a7b7b95ab70cf0bbb6"
+    },
+    {
+      "rel": "START_HERE_STUDENTS.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 1738,
+      "sha256": "d8f300da6779e2c7975f0c691aabf5cbc8448023e2f437884da395f668854472"
+    },
+    {
+      "rel": "BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 9651,
+      "sha256": "32ebc2eafb88a619c81e009a8c9a6c0b01248803e4b2c7fa76b95d48f50379f3"
+    },
+    {
+      "rel": "CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 5868,
+      "sha256": "9aa7dbd8ae3baad994b79c3dbdea6b1bdd4e31aebec5b709e7a86aad92a2fdba"
+    },
+    {
+      "rel": "STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 5203,
+      "sha256": "203e25b0534fb83b9c3f7459b50671cd3089688f23df6327947653bb07311966"
+    },
+    {
+      "rel": "NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 1195,
+      "sha256": "bc2c207d9a0ef5bd68a23a60cb2bc38dc23749b46cabc7373fe6831d307ee11f"
+    },
+    {
+      "rel": "STUDENT_COLLECTION_SCOPE_07082026_v1.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 1221,
+      "sha256": "acf3463fa17be3e058c3b2b86ee5303e658c87b4b1190421ac81a623e450b66d"
+    },
+    {
+      "rel": "STUDENT_COLLECTION_V5_VERIFICATION_07082026_v1.md",
+      "type": "student guidance/navigation or verification document",
+      "category": "student_navigation",
+      "bytes": 2697,
+      "sha256": "fbba9c056583c6f044b011079fe074a1c99eaa36057a46b164be6b95accc1f69"
+    }
+  ],
+  "week_readmes": [
+    {
+      "rel": "week01/README.md",
+      "type": "week README",
+      "category": "week_readme",
+      "bytes": 1502,
+      "sha256": "ccf2d20143a3c01bc0bb6a12fbfcfe300985afae9713c4a2a386109f1c86e21c"
+    },
+    {
+      "rel": "week02/README.md",
+      "type": "week README",
+      "category": "week_readme",
+      "bytes": 1318,
+      "sha256": "23b90fd5ea4fec335fc1d08a9097c32b80fe5c84efcab28f91592f7a09fcaf46"
+    },
+    {
+      "rel": "week03/README.md",
+      "type": "week README",
+      "category": "week_readme",
+      "bytes": 1426,
+      "sha256": "eb86b3c3f033df93acceb024e435b4bf4ad73e800429f721007adedbdc127201"
+    },
+    {
+      "rel": "week04/README.md",
+      "type": "week README",
+      "category": "week_readme",
+      "bytes": 1328,
+      "sha256": "7d830ad376725fe6aa5c8b9c23f6898a933c92d121f718bbb05e568a411d4952"
+    }
+  ],
+  "days": [
+    {
+      "week": "week01",
+      "day": "1",
+      "date": "Mon Jul 6",
+      "focus": "Visible output evidence",
+      "student_purpose": "Use printed output as evidence instead of guessing what code did.",
+      "folder": "week01/day01_visible_output_evidence",
+      "readme": {
+        "rel": "week01/day01_visible_output_evidence/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1630,
+        "sha256": "ec2b5b47f5def67042b69bcd58ac24ad29d140b6ba05462c6d02b0dd53a6b10b",
+        "week": "week01",
+        "day": "1"
+      },
+      "current_student_files": [
+        {
+          "rel": "week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 374380,
+          "sha256": "be27482f4ea4952b02e904bf46b0ded04dfc8bfea1cc599d01f85468feb9441d",
+          "week": "week01",
+          "day": "1"
+        }
+      ]
+    },
+    {
+      "week": "week01",
+      "day": "2",
+      "date": "Tue Jul 7",
+      "focus": "Variables, expressions, and state",
+      "student_purpose": "Track what value is stored now after assignment and expression evaluation.",
+      "folder": "week01/day02_variables_expressions_state",
+      "readme": {
+        "rel": "week01/day02_variables_expressions_state/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1667,
+        "sha256": "44e8e53e475d045e2b42c0cec45704d23214b574e865377b28d5955f322e0f6c",
+        "week": "week01",
+        "day": "2"
+      },
+      "current_student_files": [
+        {
+          "rel": "week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 363089,
+          "sha256": "c7790edf9b1ced17f533ea58249494489a39931f2b5d3b77aa409c611dbcd6ac",
+          "week": "week01",
+          "day": "2"
+        }
+      ]
+    },
+    {
+      "week": "week01",
+      "day": "3",
+      "date": "Wed Jul 8",
+      "focus": "Types, casting, and truthiness",
+      "student_purpose": "Check value type before trusting calculation, comparison, or condition behavior.",
+      "folder": "week01/day03_types_casting_truthiness",
+      "readme": {
+        "rel": "week01/day03_types_casting_truthiness/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1664,
+        "sha256": "88997f1465c16bc1b42c93608243700ee9e0759a4295fe4e45412d5967f75b5f",
+        "week": "week01",
+        "day": "3"
+      },
+      "current_student_files": [
+        {
+          "rel": "week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 373579,
+          "sha256": "0e00f5e49ad1e7959133b14e912d8a64f12c1fa23183ab10ad59e2f88eadd513",
+          "week": "week01",
+          "day": "3"
+        }
+      ]
+    },
+    {
+      "week": "week01",
+      "day": "4",
+      "date": "Thu Jul 9",
+      "focus": "Comparisons and boundaries",
+      "student_purpose": "Reason about exact thresholds, boundary cases, and comparison outcomes.",
+      "folder": "week01/day04_comparisons_boundaries",
+      "readme": {
+        "rel": "week01/day04_comparisons_boundaries/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1651,
+        "sha256": "302ebde6fe538c55e45528061fae79b6b9b4d4f243ec049423210bbc00cdc732",
+        "week": "week01",
+        "day": "4"
+      },
+      "current_student_files": [
+        {
+          "rel": "week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 358924,
+          "sha256": "78b87befaeb39b53f793122e164902be1522cb621495bb3866c1cce594159a62",
+          "week": "week01",
+          "day": "4"
+        }
+      ]
+    },
+    {
+      "week": "week01",
+      "day": "5",
+      "date": "Fri Jul 10",
+      "focus": "Boolean combinations + Week 1 checkpoint/closeout practice",
+      "student_purpose": "Combine several true/false conditions and use the checkpoint as a low-stakes readiness check.",
+      "folder": "week01/day05_boolean_combinations_and_week1_closeout",
+      "readme": {
+        "rel": "week01/day05_boolean_combinations_and_week1_closeout/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 2133,
+        "sha256": "63fed32364dcd7523f109b6b458d3c7b00c35c840f712523fa7e02cc5547b3ee",
+        "week": "week01",
+        "day": "5"
+      },
+      "current_student_files": [
+        {
+          "rel": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 366138,
+          "sha256": "05de793a57bf72e06a737c08602d55714d111b02ed2b0e1dce6ba3fc678f575c",
+          "week": "week01",
+          "day": "5"
+        },
+        {
+          "rel": "week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf",
+          "type": "Week 1 checkpoint/practice PDF",
+          "category": "current_student_pdf",
+          "bytes": 368830,
+          "sha256": "5fc1366dd0c35375b184ed0532b7b4d63feb45bf1fbc92f8c5335653764ee009",
+          "week": "week01",
+          "day": "5"
+        }
+      ]
+    },
+    {
+      "week": "week02",
+      "day": "6",
+      "date": "Mon Jul 13",
+      "focus": "Branch routing",
+      "student_purpose": "Identify which route runs and explain why that route was selected.",
+      "folder": "week02/day06_branch_routing",
+      "readme": {
+        "rel": "week02/day06_branch_routing/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1619,
+        "sha256": "ffcf7f5c00757919c9cc6705f680a439aa75f6a0818bd72dd0782e00972a2351",
+        "week": "week02",
+        "day": "6"
+      },
+      "current_student_files": [
+        {
+          "rel": "week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 337051,
+          "sha256": "4ebcb1e9f66a6ce8aec8a6aac9bae3e47035ee4a79f70a0d70e7663f79b2541b",
+          "week": "week02",
+          "day": "6"
+        }
+      ]
+    },
+    {
+      "week": "week02",
+      "day": "7",
+      "date": "Tue Jul 14",
+      "focus": "Ordered validation",
+      "student_purpose": "Preserve rule order and reject invalid evidence safely.",
+      "folder": "week02/day07_ordered_validation",
+      "readme": {
+        "rel": "week02/day07_ordered_validation/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1556,
+        "sha256": "d727a5d6b4023754a92612f85add372d656a83f1ebd141b7b09c8395e58e73a4",
+        "week": "week02",
+        "day": "7"
+      },
+      "current_student_files": [
+        {
+          "rel": "week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 335938,
+          "sha256": "5b5f0af1c9e5b7bc5dcbf50fedbdfb455a088e9be645d1478dff2a2fdeebb87c",
+          "week": "week02",
+          "day": "7"
+        }
+      ]
+    },
+    {
+      "week": "week02",
+      "day": "8",
+      "date": "Wed Jul 15",
+      "focus": "Debug/test design",
+      "student_purpose": "Use expected-versus-actual evidence and protective tests to diagnose behavior.",
+      "folder": "week02/day08_debug_test_design",
+      "readme": {
+        "rel": "week02/day08_debug_test_design/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1642,
+        "sha256": "baa038d1094d4831b327c2c9c1deca163e1752475dfd369e0b95313e9c10e951",
+        "week": "week02",
+        "day": "8"
+      },
+      "current_student_files": [
+        {
+          "rel": "week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 334829,
+          "sha256": "68b5a290fa05b4a06efbd2f9b57a647fa2fdb1df6aaacfd3a50603db8095b5d8",
+          "week": "week02",
+          "day": "8"
+        }
+      ]
+    },
+    {
+      "week": "week02",
+      "day": "9",
+      "date": "Thu Jul 16",
+      "focus": "Exam 1 and optional support",
+      "student_purpose": "Use Exam 1 as the Week 1-2 assessment boundary; optional support files help review route/debug evidence.",
+      "folder": "week02/day09_exam1",
+      "readme": {
+        "rel": "week02/day09_exam1/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 2426,
+        "sha256": "26e3cb494c8382df9822db8921c38dee943d634d120f1bd81e151fbd6237da5b",
+        "week": "week02",
+        "day": "9"
+      },
+      "current_student_files": [
+        {
+          "rel": "week02/day09_exam1/DAY09_ROUTE_REPAIR_SYNTHESIS_OPTIONAL_EXAM1_SUPPORT_STUDENT_06202026_v1.pdf",
+          "type": "optional Exam 1 route-repair support workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 314923,
+          "sha256": "9461c198b5c32dfad38d6f41eb05e506f46870df73605c5696d5e397c47ef8e9",
+          "week": "week02",
+          "day": "9"
+        },
+        {
+          "rel": "week02/day09_exam1/EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf",
+          "type": "Exam 1 student assessment PDF",
+          "category": "current_student_pdf",
+          "bytes": 394720,
+          "sha256": "6624e05f4ac99539b9103e3f0d9af5c448d30fe66c15c20fe6dc971e002d36ae",
+          "week": "week02",
+          "day": "9"
+        },
+        {
+          "rel": "week02/day09_exam1/EXAM1_READINESS_REHEARSAL_OPTIONAL_PRACTICE_ADDENDUM_STUDENT_07012026_v1.pdf",
+          "type": "optional Exam 1 readiness practice PDF",
+          "category": "current_student_pdf",
+          "bytes": 164449,
+          "sha256": "d317365d69f0c69f64366b64c7f3bd036ace918ba50109c34b5de0d67b972230",
+          "week": "week02",
+          "day": "9"
+        }
+      ]
+    },
+    {
+      "week": "week02",
+      "day": "10",
+      "date": "Fri Jul 17",
+      "focus": "Week 2 decision evidence",
+      "student_purpose": "Consolidate branch and debug evidence before loops begin.",
+      "folder": "week02/day10_decision_evidence",
+      "readme": {
+        "rel": "week02/day10_decision_evidence/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1636,
+        "sha256": "48635499705c558fd6894b8328df07aab95e0328a3b9e17255485aab18cc2708",
+        "week": "week02",
+        "day": "10"
+      },
+      "current_student_files": [
+        {
+          "rel": "week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 330128,
+          "sha256": "58aa205ea140f53e244b01b68bc52df48bf0ccd0231f1cc36d9aab942c983e23",
+          "week": "week02",
+          "day": "10"
+        }
+      ]
+    },
+    {
+      "week": "week03",
+      "day": "11",
+      "date": "Mon Jul 20",
+      "focus": "For loops, range, and counters",
+      "student_purpose": "Trace repeated state changes pass by pass.",
+      "folder": "week03/day11_for_loops_range_counters",
+      "readme": {
+        "rel": "week03/day11_for_loops_range_counters/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1596,
+        "sha256": "18ae63c5b40a27dc6a3601cdfc6953a86f4aa34cb02cb1f676fa43f73b55b5f2",
+        "week": "week03",
+        "day": "11"
+      },
+      "current_student_files": [
+        {
+          "rel": "week03/day11_for_loops_range_counters/DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 373801,
+          "sha256": "187d9f4211c36a37c02a5b933e8c5bea8db2306f4babbf2081a466ebaba5d597",
+          "week": "week03",
+          "day": "11"
+        }
+      ]
+    },
+    {
+      "week": "week03",
+      "day": "12",
+      "date": "Tue Jul 21",
+      "focus": "While loops, update, and termination",
+      "student_purpose": "Prove that repeated work eventually stops.",
+      "folder": "week03/day12_while_loops_update_termination",
+      "readme": {
+        "rel": "week03/day12_while_loops_update_termination/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1600,
+        "sha256": "02eb7e3b2062b654ffb54268ac73d391d8dc1a843b0409769e83a402bd23b951",
+        "week": "week03",
+        "day": "12"
+      },
+      "current_student_files": [
+        {
+          "rel": "week03/day12_while_loops_update_termination/DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 369782,
+          "sha256": "6631ada0bbf7edde1270f28a17e43b8510de4bd833ca56b7d3f1ab222636caf1",
+          "week": "week03",
+          "day": "12"
+        }
+      ]
+    },
+    {
+      "week": "week03",
+      "day": "13",
+      "date": "Wed Jul 22",
+      "focus": "Break/continue and loop debugging",
+      "student_purpose": "Distinguish skipped work from stopped work.",
+      "folder": "week03/day13_break_continue_loop_debugging",
+      "readme": {
+        "rel": "week03/day13_break_continue_loop_debugging/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1657,
+        "sha256": "e45c85ae6b4065fb8853c098bf41c3b8feb936435f43f71e60b94339676c4c01",
+        "week": "week03",
+        "day": "13"
+      },
+      "current_student_files": [
+        {
+          "rel": "week03/day13_break_continue_loop_debugging/DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 369500,
+          "sha256": "355d08dde2e1969183b93597e21ec7df97636251b62f08815964a85aa9608027",
+          "week": "week03",
+          "day": "13"
+        }
+      ]
+    },
+    {
+      "week": "week03",
+      "day": "14",
+      "date": "Thu Jul 23",
+      "focus": "Nested loop tracing",
+      "student_purpose": "Trace grouped repetition in actual output order.",
+      "folder": "week03/day14_nested_loop_tracing",
+      "readme": {
+        "rel": "week03/day14_nested_loop_tracing/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1539,
+        "sha256": "e2eadb879fbcfd6b547557c7eef1c2ea0758f0b2395ab18d82432ed060f733e4",
+        "week": "week03",
+        "day": "14"
+      },
+      "current_student_files": [
+        {
+          "rel": "week03/day14_nested_loop_tracing/DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 363020,
+          "sha256": "e292d4d674395a295b522f6e3db6a70dccc47d3ae233123476e13a2a0c25db73",
+          "week": "week03",
+          "day": "14"
+        }
+      ]
+    },
+    {
+      "week": "week03",
+      "day": "15",
+      "date": "Fri Jul 24",
+      "focus": "Lists, indexing, and list state",
+      "student_purpose": "Separate index, value, and list state evidence.",
+      "folder": "week03/day15_lists_indexing_state",
+      "readme": {
+        "rel": "week03/day15_lists_indexing_state/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1588,
+        "sha256": "a83ff857a544479a7598912a17f69f3b8ce52633d69c70e5e3cbfcc353466d0a",
+        "week": "week03",
+        "day": "15"
+      },
+      "current_student_files": [
+        {
+          "rel": "week03/day15_lists_indexing_state/DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 370531,
+          "sha256": "8a3df5c4e8ecb3350be50bc313b6b16d02789a7c5ecc4cebf65c759cb0e5796a",
+          "week": "week03",
+          "day": "15"
+        }
+      ]
+    },
+    {
+      "week": "week04",
+      "day": "16",
+      "date": "Mon Jul 27",
+      "focus": "List mutation and indexed processing bridge",
+      "student_purpose": "Update list state intentionally and verify the changed list.",
+      "folder": "week04/day16_list_mutation_indexed_processing",
+      "readme": {
+        "rel": "week04/day16_list_mutation_indexed_processing/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1640,
+        "sha256": "474d41f66daf235241fe3b481710954f352ff60140860a78299292b1c477170c",
+        "week": "week04",
+        "day": "16"
+      },
+      "current_student_files": [
+        {
+          "rel": "week04/day16_list_mutation_indexed_processing/DAY16_LIST_MUTATION_INDEXED_PROCESSING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 375416,
+          "sha256": "03e270a873151c41542d51ed078a1b4762af642150021dda5ea71d7ff070fc4e",
+          "week": "week04",
+          "day": "16"
+        }
+      ]
+    },
+    {
+      "week": "week04",
+      "day": "17",
+      "date": "Tue Jul 28",
+      "focus": "Exam 2",
+      "student_purpose": "Use Exam 2 as the loop/list assessment boundary.",
+      "folder": "week04/day17_exam2",
+      "readme": {
+        "rel": "week04/day17_exam2/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1756,
+        "sha256": "cfa2300635caf6dbbfde02b43089228627250a53152bd80ec9e32a04dda8ec39",
+        "week": "week04",
+        "day": "17"
+      },
+      "current_student_files": [
+        {
+          "rel": "week04/day17_exam2/EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf",
+          "type": "Exam 2 student assessment PDF",
+          "category": "current_student_pdf",
+          "bytes": 394218,
+          "sha256": "8ff8f2b442b0b43340242e0e763f718aa0adcfc8fb5880e7e7cb88595b234d7f",
+          "week": "week04",
+          "day": "17"
+        }
+      ]
+    },
+    {
+      "week": "week04",
+      "day": "18",
+      "date": "Wed Jul 29",
+      "focus": "Synthesis workbook",
+      "student_purpose": "Combine planning, tracing, testing, debugging, and explanation routines.",
+      "folder": "week04/day18_synthesis",
+      "readme": {
+        "rel": "week04/day18_synthesis/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1579,
+        "sha256": "e43376531a845eb2fa643e0fe5b94fed1790bcf0fdb58ccf343be02f6eb681be",
+        "week": "week04",
+        "day": "18"
+      },
+      "current_student_files": [
+        {
+          "rel": "week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+          "type": "student workbooklet PDF",
+          "category": "current_student_pdf",
+          "bytes": 374035,
+          "sha256": "a2dee926a7a446dc251a7c010f5e78219890373ec01a80e16049eaf8762f3f55",
+          "week": "week04",
+          "day": "18"
+        }
+      ]
+    },
+    {
+      "week": "week04",
+      "day": "19",
+      "date": "Thu Jul 30",
+      "focus": "Support and transition",
+      "student_purpose": "Identify remaining support needs and build a transfer plan for ENGR 102.",
+      "folder": "week04/day19_support_transition",
+      "readme": {
+        "rel": "week04/day19_support_transition/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1669,
+        "sha256": "fbee9b4a424c6c19afa9c4e6bf1785e95b5a5bacb183f604e11f3ffc6de2f969",
+        "week": "week04",
+        "day": "19"
+      },
+      "current_student_files": [
+        {
+          "rel": "week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
+          "type": "support and transition packet PDF",
+          "category": "current_student_pdf",
+          "bytes": 296146,
+          "sha256": "bb6ece5e52d051949d1c92ebbf091823514b4a6100ab501b1b30735ed9a898e0",
+          "week": "week04",
+          "day": "19"
+        }
+      ]
+    },
+    {
+      "week": "week04",
+      "day": "20",
+      "date": "Fri Jul 31",
+      "focus": "Ceremony / readiness reflection",
+      "student_purpose": "Close the bridge by collecting growth evidence and writing a realistic readiness statement.",
+      "folder": "week04/day20_ceremony_no_class_meeting",
+      "readme": {
+        "rel": "week04/day20_ceremony_no_class_meeting/README.md",
+        "type": "student-first day README",
+        "category": "day_readme",
+        "bytes": 1914,
+        "sha256": "daf3a3917c6f315d9af74f418463cf331fd1f90b6c0c76693a54adca910a947f",
+        "week": "week04",
+        "day": "20"
+      },
+      "current_student_files": [
+        {
+          "rel": "week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf",
+          "type": "closeout readiness reflection packet PDF",
+          "category": "current_student_pdf",
+          "bytes": 293743,
+          "sha256": "6fed04005aa641f3c9b8209562601faf61c58a8326440ec0227fa057c02491ae",
+          "week": "week04",
+          "day": "20"
+        }
+      ]
+    }
+  ],
+  "current_student_pdfs": [
+    {
+      "rel": "week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 374380,
+      "sha256": "be27482f4ea4952b02e904bf46b0ded04dfc8bfea1cc599d01f85468feb9441d",
+      "week": "week01",
+      "day": "1"
+    },
+    {
+      "rel": "week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 363089,
+      "sha256": "c7790edf9b1ced17f533ea58249494489a39931f2b5d3b77aa409c611dbcd6ac",
+      "week": "week01",
+      "day": "2"
+    },
+    {
+      "rel": "week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 373579,
+      "sha256": "0e00f5e49ad1e7959133b14e912d8a64f12c1fa23183ab10ad59e2f88eadd513",
+      "week": "week01",
+      "day": "3"
+    },
+    {
+      "rel": "week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 358924,
+      "sha256": "78b87befaeb39b53f793122e164902be1522cb621495bb3866c1cce594159a62",
+      "week": "week01",
+      "day": "4"
+    },
+    {
+      "rel": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 366138,
+      "sha256": "05de793a57bf72e06a737c08602d55714d111b02ed2b0e1dce6ba3fc678f575c",
+      "week": "week01",
+      "day": "5"
+    },
+    {
+      "rel": "week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf",
+      "type": "Week 1 checkpoint/practice PDF",
+      "category": "current_student_pdf",
+      "bytes": 368830,
+      "sha256": "5fc1366dd0c35375b184ed0532b7b4d63feb45bf1fbc92f8c5335653764ee009",
+      "week": "week01",
+      "day": "5"
+    },
+    {
+      "rel": "week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 337051,
+      "sha256": "4ebcb1e9f66a6ce8aec8a6aac9bae3e47035ee4a79f70a0d70e7663f79b2541b",
+      "week": "week02",
+      "day": "6"
+    },
+    {
+      "rel": "week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 335938,
+      "sha256": "5b5f0af1c9e5b7bc5dcbf50fedbdfb455a088e9be645d1478dff2a2fdeebb87c",
+      "week": "week02",
+      "day": "7"
+    },
+    {
+      "rel": "week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 334829,
+      "sha256": "68b5a290fa05b4a06efbd2f9b57a647fa2fdb1df6aaacfd3a50603db8095b5d8",
+      "week": "week02",
+      "day": "8"
+    },
+    {
+      "rel": "week02/day09_exam1/DAY09_ROUTE_REPAIR_SYNTHESIS_OPTIONAL_EXAM1_SUPPORT_STUDENT_06202026_v1.pdf",
+      "type": "optional Exam 1 route-repair support workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 314923,
+      "sha256": "9461c198b5c32dfad38d6f41eb05e506f46870df73605c5696d5e397c47ef8e9",
+      "week": "week02",
+      "day": "9"
+    },
+    {
+      "rel": "week02/day09_exam1/EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf",
+      "type": "Exam 1 student assessment PDF",
+      "category": "current_student_pdf",
+      "bytes": 394720,
+      "sha256": "6624e05f4ac99539b9103e3f0d9af5c448d30fe66c15c20fe6dc971e002d36ae",
+      "week": "week02",
+      "day": "9"
+    },
+    {
+      "rel": "week02/day09_exam1/EXAM1_READINESS_REHEARSAL_OPTIONAL_PRACTICE_ADDENDUM_STUDENT_07012026_v1.pdf",
+      "type": "optional Exam 1 readiness practice PDF",
+      "category": "current_student_pdf",
+      "bytes": 164449,
+      "sha256": "d317365d69f0c69f64366b64c7f3bd036ace918ba50109c34b5de0d67b972230",
+      "week": "week02",
+      "day": "9"
+    },
+    {
+      "rel": "week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 330128,
+      "sha256": "58aa205ea140f53e244b01b68bc52df48bf0ccd0231f1cc36d9aab942c983e23",
+      "week": "week02",
+      "day": "10"
+    },
+    {
+      "rel": "week03/day11_for_loops_range_counters/DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 373801,
+      "sha256": "187d9f4211c36a37c02a5b933e8c5bea8db2306f4babbf2081a466ebaba5d597",
+      "week": "week03",
+      "day": "11"
+    },
+    {
+      "rel": "week03/day12_while_loops_update_termination/DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 369782,
+      "sha256": "6631ada0bbf7edde1270f28a17e43b8510de4bd833ca56b7d3f1ab222636caf1",
+      "week": "week03",
+      "day": "12"
+    },
+    {
+      "rel": "week03/day13_break_continue_loop_debugging/DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 369500,
+      "sha256": "355d08dde2e1969183b93597e21ec7df97636251b62f08815964a85aa9608027",
+      "week": "week03",
+      "day": "13"
+    },
+    {
+      "rel": "week03/day14_nested_loop_tracing/DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 363020,
+      "sha256": "e292d4d674395a295b522f6e3db6a70dccc47d3ae233123476e13a2a0c25db73",
+      "week": "week03",
+      "day": "14"
+    },
+    {
+      "rel": "week03/day15_lists_indexing_state/DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 370531,
+      "sha256": "8a3df5c4e8ecb3350be50bc313b6b16d02789a7c5ecc4cebf65c759cb0e5796a",
+      "week": "week03",
+      "day": "15"
+    },
+    {
+      "rel": "week04/day16_list_mutation_indexed_processing/DAY16_LIST_MUTATION_INDEXED_PROCESSING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 375416,
+      "sha256": "03e270a873151c41542d51ed078a1b4762af642150021dda5ea71d7ff070fc4e",
+      "week": "week04",
+      "day": "16"
+    },
+    {
+      "rel": "week04/day17_exam2/EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf",
+      "type": "Exam 2 student assessment PDF",
+      "category": "current_student_pdf",
+      "bytes": 394218,
+      "sha256": "8ff8f2b442b0b43340242e0e763f718aa0adcfc8fb5880e7e7cb88595b234d7f",
+      "week": "week04",
+      "day": "17"
+    },
+    {
+      "rel": "week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "type": "student workbooklet PDF",
+      "category": "current_student_pdf",
+      "bytes": 374035,
+      "sha256": "a2dee926a7a446dc251a7c010f5e78219890373ec01a80e16049eaf8762f3f55",
+      "week": "week04",
+      "day": "18"
+    },
+    {
+      "rel": "week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
+      "type": "support and transition packet PDF",
+      "category": "current_student_pdf",
+      "bytes": 296146,
+      "sha256": "bb6ece5e52d051949d1c92ebbf091823514b4a6100ab501b1b30735ed9a898e0",
+      "week": "week04",
+      "day": "19"
+    },
+    {
+      "rel": "week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf",
+      "type": "closeout readiness reflection packet PDF",
+      "category": "current_student_pdf",
+      "bytes": 293743,
+      "sha256": "6fed04005aa641f3c9b8209562601faf61c58a8326440ec0227fa057c02491ae",
+      "week": "week04",
+      "day": "20"
+    }
+  ],
+  "external_student_practice_links": [
+    {
+      "label": "ESBP Bridge Notebooks Student Repo",
+      "url": "https://github.com/llwhite1/ESBP_Bridge_Notebooks_Student_Repo"
+    }
+  ],
+  "excluded_current_files": {
+    "quiz_pdfs": [],
+    "superseded_manifests": "Earlier manifest snapshots were removed from the current tree; they remain available in git history and are superseded by v5."
+  }
+}

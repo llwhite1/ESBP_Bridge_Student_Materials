@@ -1,11 +1,20 @@
-# WEEK02 — Week 2: Branching, debugging, and Exam 1
+# Week 02 Student Materials
 
-Use the course calendar on the repository homepage as the primary navigation surface.
+Use this page to choose the day folder for the week. Each day folder gives the current student-facing files and the evidence habit to keep.
 
-| Day | Date | Focus | Folder |
-|---|---|---|---|
-| Day 06 | Mon Jul 13 | Branch routing | [`day06_branch_routing/`](day06_branch_routing/) |
-| Day 07 | Tue Jul 14 | Ordered validation | [`day07_ordered_validation/`](day07_ordered_validation/) |
-| Day 08 | Wed Jul 15 | Debug/test design | [`day08_debug_test_design/`](day08_debug_test_design/) |
-| Day 09 | Thu Jul 16 | Exam 1 | [`day09_exam1/`](day09_exam1/) |
-| Day 10 | Fri Jul 17 | Week 2 decision evidence | [`day10_decision_evidence/`](day10_decision_evidence/) |
+Daily quiz PDFs are not part of this current collection.
+
+| Day | Focus | Evidence habit | Folder |
+|---:|---|---|---|
+| 6 | Branch routing | condition order, selected route, route reason | [day06_branch_routing](day06_branch_routing/) |
+| 7 | Ordered validation | validation order, rejected cases, accepted route | [day07_ordered_validation](day07_ordered_validation/) |
+| 8 | Debug/test design | expected result, actual result, test case, likely cause | [day08_debug_test_design](day08_debug_test_design/) |
+| 9 | Exam 1 and optional support | assessment evidence, optional route-repair review, readiness rehearsal | [day09_exam1](day09_exam1/) |
+| 10 | Week 2 decision evidence | decision route, support tag, repair evidence | [day10_decision_evidence](day10_decision_evidence/) |
+
+## Root guidance
+
+- [Start Here for Students](../START_HERE_STUDENTS.md)
+- [Bridge-to-ENGR 102 Journey](../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
+- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md)
+- [Student Learning Collections by Competency](../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md)
