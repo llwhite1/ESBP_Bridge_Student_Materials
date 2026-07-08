@@ -6,7 +6,7 @@ Date: Mon Jul 13
 
 Identify which route runs and explain why that route was selected.
 
-Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
 ## Current student-facing files
 

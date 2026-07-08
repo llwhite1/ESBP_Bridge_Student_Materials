@@ -1,30 +1,28 @@
-# Day 9 — Exam 1 and optional support
+# Day 9 — Exam 1 boundary
 
 Date: Thu Jul 16
 
 ## Start here for this day
 
-Use Exam 1 as the Week 1-2 assessment boundary; optional support files help review route/debug evidence.
+Recognize the Week 1-2 assessment boundary without publishing exam files in this repository.
 
-Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
 ## Current student-facing files
 
-- [DAY09_ROUTE_REPAIR_SYNTHESIS_OPTIONAL_EXAM1_SUPPORT_STUDENT_06202026_v1.pdf](DAY09_ROUTE_REPAIR_SYNTHESIS_OPTIONAL_EXAM1_SUPPORT_STUDENT_06202026_v1.pdf) — optional Exam 1 route-repair support workbooklet
-- [EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf](EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf) — Exam 1 assessment
-- [EXAM1_READINESS_REHEARSAL_OPTIONAL_PRACTICE_ADDENDUM_STUDENT_07012026_v1.pdf](EXAM1_READINESS_REHEARSAL_OPTIONAL_PRACTICE_ADDENDUM_STUDENT_07012026_v1.pdf) — optional Exam 1 readiness practice
+- No public PDF is staged for this assessment/boundary day.
 
 ## What you are learning today
 
-- Focus: Exam 1 and optional support.
-- Main evidence to keep: assessment evidence, optional route-repair review, readiness rehearsal.
-- Why it matters: Use Exam 1 as the Week 1-2 assessment boundary; optional support files help review route/debug evidence.
+- Focus: Exam 1 boundary.
+- Main evidence to keep: review habits only; no public exam PDF.
+- Why it matters: Recognize the Week 1-2 assessment boundary without publishing exam files in this repository.
 
 ## Before class / during class / after class
 
-- Before class: Use the index to distinguish the exam from optional support.
-- During class: During assessment time, follow the directions given in class.
-- After class: Afterward, use optional support only for review and repair practice.
+- Before class: Use prior day folders and competency collections for review.
+- During class: Follow the assessment directions provided through the course.
+- After class: Afterward, return to the learning collection for support and repair practice.
 
 ## If you get stuck
 
@@ -44,4 +42,4 @@ This marks the transition from pre-loop evidence habits into repeated-process wo
 
 ## Exam 1 boundary
 
-Day 9 is the Exam 1 assessment boundary. The route-repair synthesis file and readiness rehearsal are optional support/review surfaces; they are not a normal daily workbook requirement for this day.
+Day 9 is the Exam 1 assessment boundary. Exam PDFs are not published in this repository. Use the earlier day folders and competency collections for review and follow course-platform/class directions for assessment access.

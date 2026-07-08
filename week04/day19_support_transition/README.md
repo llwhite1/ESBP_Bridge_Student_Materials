@@ -6,7 +6,7 @@ Date: Thu Jul 30
 
 Identify remaining support needs and build a transfer plan for ENGR 102.
 
-Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
 ## Current student-facing files
 

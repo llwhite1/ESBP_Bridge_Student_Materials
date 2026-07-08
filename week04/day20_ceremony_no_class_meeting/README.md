@@ -6,7 +6,7 @@ Date: Fri Jul 31
 
 Close the bridge by collecting growth evidence and writing a realistic readiness statement.
 
-Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
 ## Current student-facing files
 

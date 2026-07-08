@@ -1,27 +1,27 @@
-# Day 17 — Exam 2
+# Day 17 — Exam 2 boundary
 
 Date: Tue Jul 28
 
 ## Start here for this day
 
-Use Exam 2 as the loop/list assessment boundary.
+Recognize the loop/list assessment boundary without publishing exam files in this repository.
 
-Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
 ## Current student-facing files
 
-- [EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf](EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf) — Exam 2 assessment
+- No public PDF is staged for this assessment/boundary day.
 
 ## What you are learning today
 
-- Focus: Exam 2.
-- Main evidence to keep: assessment evidence, loop/list reasoning.
-- Why it matters: Use Exam 2 as the loop/list assessment boundary.
+- Focus: Exam 2 boundary.
+- Main evidence to keep: review habits only; no public exam PDF.
+- Why it matters: Recognize the loop/list assessment boundary without publishing exam files in this repository.
 
 ## Before class / during class / after class
 
-- Before class: Use the calendar to recognize this as an assessment day.
-- During class: During assessment time, follow the directions given in class.
+- Before class: Use the loop/list day folders for review.
+- During class: Follow the assessment directions provided through the course.
 - After class: Afterward, review which evidence habits felt secure.
 
 ## If you get stuck
@@ -42,4 +42,4 @@ This checks transfer from repeated-work practice into assessment conditions.
 
 ## Exam 2 boundary
 
-Day 17 is the Exam 2 assessment boundary. Use earlier loop/list materials for review and follow the directions given in class for assessment use.
+Day 17 is the Exam 2 assessment boundary. Exam PDFs are not published in this repository. Use earlier loop/list materials for review and follow course-platform/class directions for assessment access.

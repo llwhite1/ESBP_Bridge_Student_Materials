@@ -21,7 +21,7 @@ This collection includes the current student-facing learning materials:
 - final synthesis, support, and reflection packets;
 - student guidance and learning-path documents.
 
-Daily quiz PDFs are intentionally not part of this collection. Quiz delivery, timing, and use should follow the course directions you receive in class or in the course platform.
+Daily quiz PDFs and exam/assessment PDFs are intentionally not part of this published collection. Quiz and exam delivery, timing, and use should follow the course directions you receive in class or in the course platform.
 
 ## How to use a day folder
 

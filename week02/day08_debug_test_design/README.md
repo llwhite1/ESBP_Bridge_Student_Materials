@@ -6,7 +6,7 @@ Date: Wed Jul 15
 
 Use expected-versus-actual evidence and protective tests to diagnose behavior.
 
-Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
 ## Current student-facing files
 

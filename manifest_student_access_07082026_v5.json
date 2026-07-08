@@ -1,84 +1,93 @@
 {
-  "generated": "2026-07-08T13:08:37",
-  "version": "07082026_v5_student_learning_collection_no_quizzes",
+  "generated": "2026-07-08T13:45:52",
+  "version": "07082026_v5_student_learning_collection_no_quizzes_no_exams",
   "repository": "ESBP_Bridge_Student_Materials",
   "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
-  "collection_rule": "Current student-facing learning materials are included; daily quiz PDFs, instructor-only materials, answer-bearing files, source files, and build logs are excluded.",
+  "collection_rule": "Current student-facing learning materials are included; daily quiz PDFs, exam/assessment PDFs, instructor-only materials, answer-bearing files, source files, and build logs are excluded.",
+  "license": "Unless otherwise noted, repository materials are licensed under CC BY-NC-ND 4.0; see LICENSE.md.",
   "notebook_practice": "Approved notebook practice is linked through NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md and remains in the companion notebook repository rather than copied into this PDF collection.",
   "summary": {
-    "root_navigation_file_count": 9,
+    "root_navigation_file_count": 10,
     "week_readme_count": 4,
     "day_folder_count": 20,
     "day_readme_count": 20,
-    "current_student_pdf_count": 23,
+    "current_student_pdf_count": 19,
     "quiz_pdf_count_in_current_repo": 0,
-    "workbooklet_pdf_count": 17,
-    "exam_or_assessment_pdf_count": 2,
-    "optional_support_or_checkpoint_pdf_count": 5
+    "exam_or_assessment_pdf_count_in_current_repo": 0,
+    "workbooklet_pdf_count": 16,
+    "support_or_checkpoint_pdf_count": 3,
+    "license": "CC BY-NC-ND 4.0"
   },
   "root_navigation_files": [
     {
       "rel": "README.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 3802,
-      "sha256": "e8c0ce3a732c74765a4bc016094242d4be9df2d46e612848bae8e699a16c4ce4"
+      "bytes": 4210,
+      "sha256": "f7d1ac53139d7749b2998b459c2829e041b3210fe3d5e974a876279812753e0c"
     },
     {
       "rel": "CALENDAR.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 2692,
-      "sha256": "990c375070c738a154e83e8c87669b61b42421248f2574a7b7b95ab70cf0bbb6"
+      "bytes": 2724,
+      "sha256": "298e4425e7a758a7045433b68f1f1b9943d756f82ff3cb2a45c8f34afe6c464a"
+    },
+    {
+      "rel": "LICENSE.md",
+      "type": "student guidance/navigation/license/verification document",
+      "category": "student_navigation",
+      "bytes": 20064,
+      "sha256": "bc5e819d28b060cde9751d6ff91627f84854508abc2241f3066321eeae80f329"
     },
     {
       "rel": "START_HERE_STUDENTS.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 1738,
-      "sha256": "d8f300da6779e2c7975f0c691aabf5cbc8448023e2f437884da395f668854472"
+      "bytes": 1782,
+      "sha256": "99076207196efbe6bdca204a87d9083c530be976aca9f018f6b6c5abdc360462"
     },
     {
       "rel": "BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
       "bytes": 9651,
       "sha256": "32ebc2eafb88a619c81e009a8c9a6c0b01248803e4b2c7fa76b95d48f50379f3"
     },
     {
       "rel": "CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 5868,
-      "sha256": "9aa7dbd8ae3baad994b79c3dbdea6b1bdd4e31aebec5b709e7a86aad92a2fdba"
+      "bytes": 5289,
+      "sha256": "001fe84a19a63653541b984023b5bcdbad55633e62672e33bf2d0cffbf567632"
     },
     {
       "rel": "STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 5203,
-      "sha256": "203e25b0534fb83b9c3f7459b50671cd3089688f23df6327947653bb07311966"
+      "bytes": 5295,
+      "sha256": "6a73f9fad000a7de2104e1da20afe7ebf8a2fb1598150f70d344c409cf8a2cf6"
     },
     {
       "rel": "NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
       "bytes": 1195,
       "sha256": "bc2c207d9a0ef5bd68a23a60cb2bc38dc23749b46cabc7373fe6831d307ee11f"
     },
     {
       "rel": "STUDENT_COLLECTION_SCOPE_07082026_v1.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 1221,
-      "sha256": "acf3463fa17be3e058c3b2b86ee5303e658c87b4b1190421ac81a623e450b66d"
+      "bytes": 1105,
+      "sha256": "89abc25358a95472b1928874012248e3379526b72ab3962bbbc408406228ad0d"
     },
     {
       "rel": "STUDENT_COLLECTION_V5_VERIFICATION_07082026_v1.md",
-      "type": "student guidance/navigation or verification document",
+      "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 2697,
-      "sha256": "fbba9c056583c6f044b011079fe074a1c99eaa36057a46b164be6b95accc1f69"
+      "bytes": 2789,
+      "sha256": "52bec25782585ee2abae0727ef8acd01510e1f28b2dafcbae90f74bc642e7eb7"
     }
   ],
   "week_readmes": [
@@ -86,29 +95,29 @@
       "rel": "week01/README.md",
       "type": "week README",
       "category": "week_readme",
-      "bytes": 1502,
-      "sha256": "ccf2d20143a3c01bc0bb6a12fbfcfe300985afae9713c4a2a386109f1c86e21c"
+      "bytes": 1537,
+      "sha256": "3d355de3295ed659fb14349a8f163fd9d5d1f55cfa5ca864e08f6bdfe9a94920"
     },
     {
       "rel": "week02/README.md",
       "type": "week README",
       "category": "week_readme",
-      "bytes": 1318,
-      "sha256": "23b90fd5ea4fec335fc1d08a9097c32b80fe5c84efcab28f91592f7a09fcaf46"
+      "bytes": 1309,
+      "sha256": "5da24298e956c5e91c30ea5a1c42e4fa167a92e05e4f33db824da0c1710b68e9"
     },
     {
       "rel": "week03/README.md",
       "type": "week README",
       "category": "week_readme",
-      "bytes": 1426,
-      "sha256": "eb86b3c3f033df93acceb024e435b4bf4ad73e800429f721007adedbdc127201"
+      "bytes": 1461,
+      "sha256": "0dbd2fda092926eeb49f25684f7778f402de614c27b4d8f27fb6f7128fd365c4"
     },
     {
       "rel": "week04/README.md",
       "type": "week README",
       "category": "week_readme",
-      "bytes": 1328,
-      "sha256": "7d830ad376725fe6aa5c8b9c23f6898a933c92d121f718bbb05e568a411d4952"
+      "bytes": 1370,
+      "sha256": "2793e1b1dfe2226c01ea1e8f28fe1d2d1aafefcecac6e34e83e542e77e0d94b8"
     }
   ],
   "days": [
@@ -123,8 +132,8 @@
         "rel": "week01/day01_visible_output_evidence/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1630,
-        "sha256": "ec2b5b47f5def67042b69bcd58ac24ad29d140b6ba05462c6d02b0dd53a6b10b",
+        "bytes": 1626,
+        "sha256": "481069b36c2999e58dccba6e8cb3875d0eda9a79041c9e95a4d378c675dbcef3",
         "week": "week01",
         "day": "1"
       },
@@ -151,8 +160,8 @@
         "rel": "week01/day02_variables_expressions_state/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1667,
-        "sha256": "44e8e53e475d045e2b42c0cec45704d23214b574e865377b28d5955f322e0f6c",
+        "bytes": 1663,
+        "sha256": "5163f5ca4aa9d91473fd25fdc48b8dc1ad30c44eeecf8787a33af4cbd10705c0",
         "week": "week01",
         "day": "2"
       },
@@ -179,8 +188,8 @@
         "rel": "week01/day03_types_casting_truthiness/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1664,
-        "sha256": "88997f1465c16bc1b42c93608243700ee9e0759a4295fe4e45412d5967f75b5f",
+        "bytes": 1660,
+        "sha256": "b6f1799c92cc30c412eea3ccca5a49ef0ac4d9bb55f9978b95d6fb4821ae0f5e",
         "week": "week01",
         "day": "3"
       },
@@ -207,8 +216,8 @@
         "rel": "week01/day04_comparisons_boundaries/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1651,
-        "sha256": "302ebde6fe538c55e45528061fae79b6b9b4d4f243ec049423210bbc00cdc732",
+        "bytes": 1647,
+        "sha256": "5f5e6bafc8b2493d0766caadce61d974e385b9bf97d7d80cdd5dfa1711c09923",
         "week": "week01",
         "day": "4"
       },
@@ -235,8 +244,8 @@
         "rel": "week01/day05_boolean_combinations_and_week1_closeout/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 2133,
-        "sha256": "63fed32364dcd7523f109b6b458d3c7b00c35c840f712523fa7e02cc5547b3ee",
+        "bytes": 2129,
+        "sha256": "dbff230221b3289732381dd8664529031968d89bf1232b114ecabe27023c5247",
         "week": "week01",
         "day": "5"
       },
@@ -272,8 +281,8 @@
         "rel": "week02/day06_branch_routing/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1619,
-        "sha256": "ffcf7f5c00757919c9cc6705f680a439aa75f6a0818bd72dd0782e00972a2351",
+        "bytes": 1615,
+        "sha256": "8cd639cc0a0833c65d8c3b1cd163daacf991460cbcef44c2a2b15bedc534e228",
         "week": "week02",
         "day": "6"
       },
@@ -300,8 +309,8 @@
         "rel": "week02/day07_ordered_validation/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1556,
-        "sha256": "d727a5d6b4023754a92612f85add372d656a83f1ebd141b7b09c8395e58e73a4",
+        "bytes": 1552,
+        "sha256": "f9b725d4bc77ed663489fb23517a4a48f415d2819a2b169dc9b5087283b3e963",
         "week": "week02",
         "day": "7"
       },
@@ -328,8 +337,8 @@
         "rel": "week02/day08_debug_test_design/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1642,
-        "sha256": "baa038d1094d4831b327c2c9c1deca163e1752475dfd369e0b95313e9c10e951",
+        "bytes": 1638,
+        "sha256": "e11a1b59745d8fb042fe9f810d8bb1170891a36e737d6b8581432153c3dab6c2",
         "week": "week02",
         "day": "8"
       },
@@ -349,47 +358,19 @@
       "week": "week02",
       "day": "9",
       "date": "Thu Jul 16",
-      "focus": "Exam 1 and optional support",
-      "student_purpose": "Use Exam 1 as the Week 1-2 assessment boundary; optional support files help review route/debug evidence.",
+      "focus": "Exam 1 boundary",
+      "student_purpose": "Recognize the Week 1-2 assessment boundary without publishing exam files in this repository.",
       "folder": "week02/day09_exam1",
       "readme": {
         "rel": "week02/day09_exam1/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 2426,
-        "sha256": "26e3cb494c8382df9822db8921c38dee943d634d120f1bd81e151fbd6237da5b",
+        "bytes": 1882,
+        "sha256": "502d54104300895697bf799af348236e076928b1774ccd077444afb2a1377945",
         "week": "week02",
         "day": "9"
       },
-      "current_student_files": [
-        {
-          "rel": "week02/day09_exam1/DAY09_ROUTE_REPAIR_SYNTHESIS_OPTIONAL_EXAM1_SUPPORT_STUDENT_06202026_v1.pdf",
-          "type": "optional Exam 1 route-repair support workbooklet PDF",
-          "category": "current_student_pdf",
-          "bytes": 314923,
-          "sha256": "9461c198b5c32dfad38d6f41eb05e506f46870df73605c5696d5e397c47ef8e9",
-          "week": "week02",
-          "day": "9"
-        },
-        {
-          "rel": "week02/day09_exam1/EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf",
-          "type": "Exam 1 student assessment PDF",
-          "category": "current_student_pdf",
-          "bytes": 394720,
-          "sha256": "6624e05f4ac99539b9103e3f0d9af5c448d30fe66c15c20fe6dc971e002d36ae",
-          "week": "week02",
-          "day": "9"
-        },
-        {
-          "rel": "week02/day09_exam1/EXAM1_READINESS_REHEARSAL_OPTIONAL_PRACTICE_ADDENDUM_STUDENT_07012026_v1.pdf",
-          "type": "optional Exam 1 readiness practice PDF",
-          "category": "current_student_pdf",
-          "bytes": 164449,
-          "sha256": "d317365d69f0c69f64366b64c7f3bd036ace918ba50109c34b5de0d67b972230",
-          "week": "week02",
-          "day": "9"
-        }
-      ]
+      "current_student_files": []
     },
     {
       "week": "week02",
@@ -402,8 +383,8 @@
         "rel": "week02/day10_decision_evidence/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1636,
-        "sha256": "48635499705c558fd6894b8328df07aab95e0328a3b9e17255485aab18cc2708",
+        "bytes": 1632,
+        "sha256": "b903e7ea19b8a70dda4ebc3bb3ae360793de85db1bf73ae512fae650baaa3e1f",
         "week": "week02",
         "day": "10"
       },
@@ -430,8 +411,8 @@
         "rel": "week03/day11_for_loops_range_counters/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1596,
-        "sha256": "18ae63c5b40a27dc6a3601cdfc6953a86f4aa34cb02cb1f676fa43f73b55b5f2",
+        "bytes": 1592,
+        "sha256": "63bed730f7f6e4b2f375faf12fa843e4a3b724cb328f53edf2002ef0421697b5",
         "week": "week03",
         "day": "11"
       },
@@ -458,8 +439,8 @@
         "rel": "week03/day12_while_loops_update_termination/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1600,
-        "sha256": "02eb7e3b2062b654ffb54268ac73d391d8dc1a843b0409769e83a402bd23b951",
+        "bytes": 1596,
+        "sha256": "73fe0d62a99c40f30b083760d3a95294325a277ab23a1706f07f736fc1c90b5f",
         "week": "week03",
         "day": "12"
       },
@@ -486,8 +467,8 @@
         "rel": "week03/day13_break_continue_loop_debugging/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1657,
-        "sha256": "e45c85ae6b4065fb8853c098bf41c3b8feb936435f43f71e60b94339676c4c01",
+        "bytes": 1653,
+        "sha256": "9e0fc5f55a60bccadc684161b6cca26f8b09a49307aa296b36d82bc1c875f90e",
         "week": "week03",
         "day": "13"
       },
@@ -514,8 +495,8 @@
         "rel": "week03/day14_nested_loop_tracing/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1539,
-        "sha256": "e2eadb879fbcfd6b547557c7eef1c2ea0758f0b2395ab18d82432ed060f733e4",
+        "bytes": 1535,
+        "sha256": "eb4461dfd9efbb28abe5d5d99c117d57c87dfd988ae67de8ad8fc91726828631",
         "week": "week03",
         "day": "14"
       },
@@ -542,8 +523,8 @@
         "rel": "week03/day15_lists_indexing_state/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1588,
-        "sha256": "a83ff857a544479a7598912a17f69f3b8ce52633d69c70e5e3cbfcc353466d0a",
+        "bytes": 1584,
+        "sha256": "74c4e944cb9a4b5174146935186782a75c7f730f0d17bd532461c57b666b9cdf",
         "week": "week03",
         "day": "15"
       },
@@ -570,8 +551,8 @@
         "rel": "week04/day16_list_mutation_indexed_processing/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1640,
-        "sha256": "474d41f66daf235241fe3b481710954f352ff60140860a78299292b1c477170c",
+        "bytes": 1651,
+        "sha256": "39c783b7b1b00a54c7c5bd295f101957ac265666b4a072c5067f6c6f2a5e05aa",
         "week": "week04",
         "day": "16"
       },
@@ -591,29 +572,19 @@
       "week": "week04",
       "day": "17",
       "date": "Tue Jul 28",
-      "focus": "Exam 2",
-      "student_purpose": "Use Exam 2 as the loop/list assessment boundary.",
+      "focus": "Exam 2 boundary",
+      "student_purpose": "Recognize the loop/list assessment boundary without publishing exam files in this repository.",
       "folder": "week04/day17_exam2",
       "readme": {
         "rel": "week04/day17_exam2/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1756,
-        "sha256": "cfa2300635caf6dbbfde02b43089228627250a53152bd80ec9e32a04dda8ec39",
+        "bytes": 1808,
+        "sha256": "667d00076cad42f2301b3aa7c9c2eaccad3231524032a3efa73860c5f017650e",
         "week": "week04",
         "day": "17"
       },
-      "current_student_files": [
-        {
-          "rel": "week04/day17_exam2/EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf",
-          "type": "Exam 2 student assessment PDF",
-          "category": "current_student_pdf",
-          "bytes": 394218,
-          "sha256": "8ff8f2b442b0b43340242e0e763f718aa0adcfc8fb5880e7e7cb88595b234d7f",
-          "week": "week04",
-          "day": "17"
-        }
-      ]
+      "current_student_files": []
     },
     {
       "week": "week04",
@@ -626,8 +597,8 @@
         "rel": "week04/day18_synthesis/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1579,
-        "sha256": "e43376531a845eb2fa643e0fe5b94fed1790bcf0fdb58ccf343be02f6eb681be",
+        "bytes": 1575,
+        "sha256": "0283641f4812cde84dcb464510d4ab28091956d61ce279fa42e1841d103a04ad",
         "week": "week04",
         "day": "18"
       },
@@ -654,8 +625,8 @@
         "rel": "week04/day19_support_transition/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1669,
-        "sha256": "fbee9b4a424c6c19afa9c4e6bf1785e95b5a5bacb183f604e11f3ffc6de2f969",
+        "bytes": 1665,
+        "sha256": "ce4f3388d1b018ad5a76e66a54ba9258915b8f8f2c257b256d146530e97eaabf",
         "week": "week04",
         "day": "19"
       },
@@ -682,8 +653,8 @@
         "rel": "week04/day20_ceremony_no_class_meeting/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1914,
-        "sha256": "daf3a3917c6f315d9af74f418463cf331fd1f90b6c0c76693a54adca910a947f",
+        "bytes": 1910,
+        "sha256": "807057fff6c865377ab4e8d03e0341b9615012b4783eb0f00f04971bdda8c6e9",
         "week": "week04",
         "day": "20"
       },
@@ -783,33 +754,6 @@
       "day": "8"
     },
     {
-      "rel": "week02/day09_exam1/DAY09_ROUTE_REPAIR_SYNTHESIS_OPTIONAL_EXAM1_SUPPORT_STUDENT_06202026_v1.pdf",
-      "type": "optional Exam 1 route-repair support workbooklet PDF",
-      "category": "current_student_pdf",
-      "bytes": 314923,
-      "sha256": "9461c198b5c32dfad38d6f41eb05e506f46870df73605c5696d5e397c47ef8e9",
-      "week": "week02",
-      "day": "9"
-    },
-    {
-      "rel": "week02/day09_exam1/EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf",
-      "type": "Exam 1 student assessment PDF",
-      "category": "current_student_pdf",
-      "bytes": 394720,
-      "sha256": "6624e05f4ac99539b9103e3f0d9af5c448d30fe66c15c20fe6dc971e002d36ae",
-      "week": "week02",
-      "day": "9"
-    },
-    {
-      "rel": "week02/day09_exam1/EXAM1_READINESS_REHEARSAL_OPTIONAL_PRACTICE_ADDENDUM_STUDENT_07012026_v1.pdf",
-      "type": "optional Exam 1 readiness practice PDF",
-      "category": "current_student_pdf",
-      "bytes": 164449,
-      "sha256": "d317365d69f0c69f64366b64c7f3bd036ace918ba50109c34b5de0d67b972230",
-      "week": "week02",
-      "day": "9"
-    },
-    {
       "rel": "week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "type": "student workbooklet PDF",
       "category": "current_student_pdf",
@@ -873,15 +817,6 @@
       "day": "16"
     },
     {
-      "rel": "week04/day17_exam2/EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf",
-      "type": "Exam 2 student assessment PDF",
-      "category": "current_student_pdf",
-      "bytes": 394218,
-      "sha256": "8ff8f2b442b0b43340242e0e763f718aa0adcfc8fb5880e7e7cb88595b234d7f",
-      "week": "week04",
-      "day": "17"
-    },
-    {
       "rel": "week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "type": "student workbooklet PDF",
       "category": "current_student_pdf",
@@ -917,6 +852,7 @@
   ],
   "excluded_current_files": {
     "quiz_pdfs": [],
-    "superseded_manifests": "Earlier manifest snapshots were removed from the current tree; they remain available in git history and are superseded by v5."
+    "exam_or_assessment_pdfs": [],
+    "superseded_manifests": "Earlier manifest snapshots were removed from the current tree; they remain available only in local/private pre-sanitization history backups and are superseded by v5."
   }
 }

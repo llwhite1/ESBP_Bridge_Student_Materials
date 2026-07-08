@@ -2,7 +2,7 @@
 
 Version: 07082026 v1
 
-Use this page when you know the skill you need but not the day number. Each collection points back to the day folders and current student-facing materials.
+Use this page when you know the skill you need but not the day number. Each collection points back to the day folders and current student-facing materials. Quiz and exam PDFs are not included in this published collection.
 
 ## Output evidence and exact visible results
 
@@ -35,7 +35,6 @@ Use these when code chooses one route from several possible routes.
 
 - Day 6: [Branch routing](week02/day06_branch_routing/) — Identify which route runs and explain why that route was selected.
 - Day 7: [Ordered validation](week02/day07_ordered_validation/) — Preserve rule order and reject invalid evidence safely.
-- Day 9: [Exam 1 and optional support](week02/day09_exam1/) — Use Exam 1 as the Week 1-2 assessment boundary; optional support files help review route/debug evidence.
 - Day 10: [Week 2 decision evidence](week02/day10_decision_evidence/) — Consolidate branch and debug evidence before loops begin.
 
 ## Debugging and test evidence
@@ -43,7 +42,6 @@ Use these when code chooses one route from several possible routes.
 Use these when expected behavior and actual behavior disagree.
 
 - Day 8: [Debug/test design](week02/day08_debug_test_design/) — Use expected-versus-actual evidence and protective tests to diagnose behavior.
-- Day 9: [Exam 1 and optional support](week02/day09_exam1/) — Use Exam 1 as the Week 1-2 assessment boundary; optional support files help review route/debug evidence.
 - Day 10: [Week 2 decision evidence](week02/day10_decision_evidence/) — Consolidate branch and debug evidence before loops begin.
 - Day 18: [Synthesis workbook](week04/day18_synthesis/) — Combine planning, tracing, testing, debugging, and explanation routines.
 
@@ -62,7 +60,6 @@ Use these when position, element value, or changed list state matters.
 
 - Day 15: [Lists, indexing, and list state](week03/day15_lists_indexing_state/) — Separate index, value, and list state evidence.
 - Day 16: [List mutation and indexed processing bridge](week04/day16_list_mutation_indexed_processing/) — Update list state intentionally and verify the changed list.
-- Day 17: [Exam 2](week04/day17_exam2/) — Use Exam 2 as the loop/list assessment boundary.
 
 ## Synthesis, support, and transition
 
@@ -71,3 +68,10 @@ Use these when you need to connect bridge routines to ENGR 102 habits and suppor
 - Day 18: [Synthesis workbook](week04/day18_synthesis/) — Combine planning, tracing, testing, debugging, and explanation routines.
 - Day 19: [Support and transition](week04/day19_support_transition/) — Identify remaining support needs and build a transfer plan for ENGR 102.
 - Day 20: [Ceremony / readiness reflection](week04/day20_ceremony_no_class_meeting/) — Close the bridge by collecting growth evidence and writing a realistic readiness statement.
+
+## Assessment boundaries without public exam files
+
+Use these pages only to orient review and transition across assessment days; exam PDFs are not published here.
+
+- Day 9: [Exam 1 boundary](week02/day09_exam1/) — Recognize the Week 1-2 assessment boundary without publishing exam files in this repository.
+- Day 17: [Exam 2 boundary](week04/day17_exam2/) — Recognize the loop/list assessment boundary without publishing exam files in this repository.

@@ -10,15 +10,13 @@ The current collection includes student-facing learning materials that students 
 
 - daily workbooklets;
 - Week 1 checkpoint/practice;
-- Exam 1 and Exam 2 student assessment surfaces;
-- optional Exam 1 readiness and route-repair support materials;
 - Day 19 support/transition packet;
 - Day 20 closeout/readiness reflection packet;
 - student guidance, calendar, journey, and competency navigation files.
 
 ## Excluded from this repository view
 
-Daily quiz PDFs are excluded from the current collection. They are not listed in the current index or v5 manifest and have been removed from the current day folders.
+Daily quiz PDFs and exam/assessment PDFs are excluded from the current collection and from the repository history prepared for public or organization publication.
 
 Instructor-only materials, answers, keys, source files, build logs, and grading notes are not part of the student collection.
 

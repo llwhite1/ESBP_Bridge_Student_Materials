@@ -5,25 +5,29 @@ Repository: ESBP_Bridge_Student_Materials
 
 ## Scope
 
-This verification covers the v5 student learning collection pass.
+This verification covers the v5 student learning collection pass after the public/org-publication sanitization update.
 
-The v5 collection keeps the repo calendar-first, adds a student-first navigation layer, removes daily quiz PDFs from the current collection, and adds the remaining approved non-quiz student-facing support surfaces:
-
-- Day 9 optional route-repair support workbooklet.
-- Day 20 closeout/readiness reflection packet.
+The v5 collection keeps the repo calendar-first, adds a student-first navigation layer, removes daily quiz PDFs and exam/assessment PDFs from the current collection, and keeps only non-assessment student-facing learning/support surfaces.
 
 Notebook practice remains linked through the companion notebook repository rather than copied into this PDF collection.
 
+## License check
+
+- Conservative license file present: `LICENSE.md`
+- License selected: `CC BY-NC-ND 4.0`
+- README includes license/use section: PASS.
+
 ## Current collection checks
 
-- Manifest version: `07082026_v5_student_learning_collection_no_quizzes`
-- Manifest records checked: `56`
-- Unique manifest records: `56`
-- Current PDF count: `23`
-- Manifest PDF count: `23`
+- Manifest version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
+- Manifest records checked: `53`
+- Unique manifest records: `53`
+- Current PDF count: `19`
+- Manifest PDF count: `19`
 - Quiz PDF count in current repo: `0`
+- Exam/assessment PDF count in current repo: `0`
 - Day README count: `20`
-- Markdown file count checked: `34`
+- Markdown file count checked: `35`
 
 ## Day README structure checks
 
@@ -55,25 +59,23 @@ Result: PASS.
 - Instructor-only/answer-bearing marker hits: `[]`
 - Process/source marker hits: `[]`
 - Quiz PDFs remaining in current folders: `[]`
+- Exam/assessment PDFs remaining in current folders: `[]`
 
 ## PDF render/text checks
 
-All 23 current PDFs opened successfully and had at least one page.
+All 19 current PDFs opened successfully and had at least one page.
 
-First-page visual QA contact sheet:
-
-`/Users/lancewhite/Library/CloudStorage/Dropbox/GU501backup/Storage Drive/samsung Drive/Documents/Engineering Education/ENGR 102/Summer 2026/Bridge_Daily_Materials/STUDENT_COLLECTION_V5_07082026_v1/STUDENT_COLLECTION_V5_FIRST_PAGE_CONTACT_SHEET_07082026_v1.png`
-
-Visual QA verdict: PASS. The first pages appear student-facing, readable, and consistent with workbooklet/exam/support/reflection surfaces. No blank, clipped, visibly unreadable, or instructor-only first pages were observed.
+First-page visual QA from the pre-exam-removal v5 pass showed the workbooklet/support/reflection surfaces readable and student-facing. After this sanitization update, the removed files are assessment/exam-related; the remaining PDF set is a subset of the already rendered workbooklet/support/reflection surfaces.
 
 ## Status
 
-PASS. The current student repo is now a richer non-quiz student learning collection with:
+PASS. The current student repo is now a richer non-quiz, non-exam student learning collection with:
 
 - root start-here guidance;
 - a current materials index;
 - competency-based collections;
 - notebook/practice path guidance;
 - all 20 day-folder READMEs upgraded to student-first guidance;
-- 23 current non-quiz PDFs;
+- 19 current non-quiz/non-exam PDFs;
+- conservative CC BY-NC-ND 4.0 license;
 - v5 Markdown and JSON manifests.

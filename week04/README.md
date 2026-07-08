@@ -2,12 +2,12 @@
 
 Use this page to choose the day folder for the week. Each day folder gives the current student-facing files and the evidence habit to keep.
 
-Daily quiz PDFs are not part of this current collection.
+Daily quiz PDFs and exam/assessment PDFs are not part of this current published collection.
 
 | Day | Focus | Evidence habit | Folder |
 |---:|---|---|---|
 | 16 | List mutation and indexed processing bridge | before list, changed index, after list | [day16_list_mutation_indexed_processing](day16_list_mutation_indexed_processing/) |
-| 17 | Exam 2 | assessment evidence, loop/list reasoning | [day17_exam2](day17_exam2/) |
+| 17 | Exam 2 boundary | review habits only; no public exam PDF | [day17_exam2](day17_exam2/) |
 | 18 | Synthesis workbook | plan, trace, test, debug note, explanation | [day18_synthesis](day18_synthesis/) |
 | 19 | Support and transition | support route, next step, study plan | [day19_support_transition](day19_support_transition/) |
 | 20 | Ceremony / readiness reflection | growth evidence, remaining support needs, readiness plan | [day20_ceremony_no_class_meeting](day20_ceremony_no_class_meeting/) |

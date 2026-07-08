@@ -2,9 +2,9 @@
 
 This repository is the current student learning collection for the ENGR 102 Bridge.
 
-It is organized by the course calendar and now includes a student-first navigation layer: start-here guidance, the Bridge-to-ENGR 102 journey, a current materials index, competency collections, and day-folder READMEs that explain how to use each file.
+It is organized by the course calendar and includes a student-first navigation layer: start-here guidance, the Bridge-to-ENGR 102 journey, a current materials index, competency collections, and day-folder READMEs that explain how to use each file.
 
-Daily quiz PDFs are intentionally excluded from this collection. Use the course directions you receive in class or in the course platform for quiz delivery and timing.
+Daily quiz PDFs and exam/assessment PDFs are intentionally excluded from this published collection. Use the course directions you receive in class or in the course platform for quiz and exam delivery/timing.
 
 ## Start here
 
@@ -27,7 +27,7 @@ Daily quiz PDFs are intentionally excluded from this collection. Use the course 
 | Week 02 | 6 | Mon Jul 13 | Branch routing | [Open day folder](week02/day06_branch_routing/) |
 | Week 02 | 7 | Tue Jul 14 | Ordered validation | [Open day folder](week02/day07_ordered_validation/) |
 | Week 02 | 8 | Wed Jul 15 | Debug/test design | [Open day folder](week02/day08_debug_test_design/) |
-| Week 02 | 9 | Thu Jul 16 | Exam 1 and optional support | [Open day folder](week02/day09_exam1/) |
+| Week 02 | 9 | Thu Jul 16 | Exam 1 boundary | [Open day folder](week02/day09_exam1/) |
 | Week 02 | 10 | Fri Jul 17 | Week 2 decision evidence | [Open day folder](week02/day10_decision_evidence/) |
 | Week 03 | 11 | Mon Jul 20 | For loops, range, and counters | [Open day folder](week03/day11_for_loops_range_counters/) |
 | Week 03 | 12 | Tue Jul 21 | While loops, update, and termination | [Open day folder](week03/day12_while_loops_update_termination/) |
@@ -35,10 +35,14 @@ Daily quiz PDFs are intentionally excluded from this collection. Use the course 
 | Week 03 | 14 | Thu Jul 23 | Nested loop tracing | [Open day folder](week03/day14_nested_loop_tracing/) |
 | Week 03 | 15 | Fri Jul 24 | Lists, indexing, and list state | [Open day folder](week03/day15_lists_indexing_state/) |
 | Week 04 | 16 | Mon Jul 27 | List mutation and indexed processing bridge | [Open day folder](week04/day16_list_mutation_indexed_processing/) |
-| Week 04 | 17 | Tue Jul 28 | Exam 2 | [Open day folder](week04/day17_exam2/) |
+| Week 04 | 17 | Tue Jul 28 | Exam 2 boundary | [Open day folder](week04/day17_exam2/) |
 | Week 04 | 18 | Wed Jul 29 | Synthesis workbook | [Open day folder](week04/day18_synthesis/) |
 | Week 04 | 19 | Thu Jul 30 | Support and transition | [Open day folder](week04/day19_support_transition/) |
 | Week 04 | 20 | Fri Jul 31 | Ceremony / readiness reflection | [Open day folder](week04/day20_ceremony_no_class_meeting/) |
+
+## License and use
+
+Unless otherwise noted, this student-facing course-material collection is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License](LICENSE.md). This conservative license allows noncommercial sharing with attribution but does not allow redistribution of modified versions without separate permission.
 
 ## Current manifest
 

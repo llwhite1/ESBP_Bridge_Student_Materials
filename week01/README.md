@@ -2,7 +2,7 @@
 
 Use this page to choose the day folder for the week. Each day folder gives the current student-facing files and the evidence habit to keep.
 
-Daily quiz PDFs are not part of this current collection.
+Daily quiz PDFs and exam/assessment PDFs are not part of this current published collection.
 
 | Day | Focus | Evidence habit | Folder |
 |---:|---|---|---|

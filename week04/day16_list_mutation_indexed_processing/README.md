@@ -6,7 +6,7 @@ Date: Mon Jul 27
 
 Update list state intentionally and verify the changed list.
 
-Use this README before opening the PDF files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
 ## Current student-facing files
 
@@ -32,7 +32,7 @@ Try to name the kind of evidence you need before asking for help: output, state,
 
 ## How this connects to ENGR 102
 
-This connects loop evidence to collection-processing tasks on Exam 2 and beyond.
+This connects loop evidence to collection-processing tasks on the second assessment and beyond.
 
 ## Related collection pages
 
