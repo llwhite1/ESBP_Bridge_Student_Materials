@@ -1,7 +1,7 @@
 # Student Access Manifest 07082026 v5
 
 Version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
-Generated: `2026-07-08T13:45:52`
+Generated: `2026-07-08T14:15:26`
 
 This v5 manifest is the current student learning-collection manifest. It replaces earlier quiz/exam-inclusive release views with a student-facing collection of current non-quiz, non-exam learning materials and guidance.
 
@@ -77,7 +77,7 @@ Notebook practice is linked from the notebook/practice guidance file instead of 
 
 Daily quiz PDFs and exam/assessment PDFs are not part of the current v5 collection. Instructor-only materials, answers, source files, and build logs are excluded.
 
-Earlier v3/v4 manifest snapshots are superseded by this v5 manifest. The public/org-ready history is rewritten separately so quiz/exam PDF blobs are not retained in git history.
+Earlier v3/v4 manifest snapshots are superseded by this v5 manifest. The public/org-ready history was rewritten so quiz/exam PDF blobs are not retained in git history.
 
 ## Machine-readable companion
 

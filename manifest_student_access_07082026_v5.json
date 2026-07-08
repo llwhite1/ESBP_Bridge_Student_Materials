@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T13:45:52",
+  "generated": "2026-07-08T14:15:26",
   "version": "07082026_v5_student_learning_collection_no_quizzes_no_exams",
   "repository": "ESBP_Bridge_Student_Materials",
   "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
@@ -37,8 +37,8 @@
       "rel": "LICENSE.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 20064,
-      "sha256": "bc5e819d28b060cde9751d6ff91627f84854508abc2241f3066321eeae80f329"
+      "bytes": 20063,
+      "sha256": "0851917d9ad17958e82ff423a7fa756b8fee0fb560f24581373eb24ea22b32ee"
     },
     {
       "rel": "START_HERE_STUDENTS.md",
