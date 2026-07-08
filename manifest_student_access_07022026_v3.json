@@ -7,260 +7,260 @@
     {
       "old_rel": "week01/workbooklets/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf",
       "dest_rel": "week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf",
-      "bytes": 386922,
-      "sha256": "3c1626b277c1c0cb530c89b2c616837d8e747cd25f5522a331448a7b80bfa6a0",
+      "bytes": 374380,
+      "sha256": "be27482f4ea4952b02e904bf46b0ded04dfc8bfea1cc599d01f85468feb9441d",
       "type": "workbooklet"
     },
     {
       "old_rel": "week01/quizzes/DAY01_VISIBLE_OUTPUT_EVIDENCE_QUIZ_STUDENT_06192026_v2.pdf",
       "dest_rel": "week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_QUIZ_STUDENT_06192026_v2.pdf",
-      "bytes": 376033,
-      "sha256": "279f6fdbdbab76126257151532a2ed45f76f8fb7ecffe5aed66c719e1513b7a6",
+      "bytes": 372846,
+      "sha256": "ba91c91d74ce462b688376db79cda66fce84274d71c8f9ca7a8a347041f3a3f4",
       "type": "quiz"
     },
     {
       "old_rel": "week01/workbooklets/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf",
       "dest_rel": "week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf",
-      "bytes": 375340,
-      "sha256": "97d71cf18af6341171cecf028fd20cb7fc6606ff4e9f3aff3b05e5c6266632fa",
+      "bytes": 363089,
+      "sha256": "c7790edf9b1ced17f533ea58249494489a39931f2b5d3b77aa409c611dbcd6ac",
       "type": "workbooklet"
     },
     {
       "old_rel": "week01/quizzes/DAY02_VARIABLES_EXPRESSIONS_STATE_QUIZ_STUDENT_06192026_v2.pdf",
       "dest_rel": "week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_QUIZ_STUDENT_06192026_v2.pdf",
-      "bytes": 328071,
-      "sha256": "89ce115723adb3f678031a506380c3c1a2536a32a11251d4bac52aa998b97cfc",
+      "bytes": 324609,
+      "sha256": "32c64cf829a19c1f588aed7b7dd4c74d47261f93b04b7257f86423b847fe4ce2",
       "type": "quiz"
     },
     {
       "old_rel": "week01/workbooklets/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "dest_rel": "week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
-      "bytes": 373761,
-      "sha256": "e42c249cf39bd346dce9e9ca33294d81e6b09f18fd61718a29448ae60d090fd4",
+      "bytes": 361278,
+      "sha256": "daccf0933b4604c3986062b06258e74b51de2b3adf26733fb93f8471f01501bf",
       "type": "workbooklet"
     },
     {
       "old_rel": "week01/quizzes/DAY03_TYPES_CASTING_TRUTHINESS_QUIZ_STUDENT_06202026_v1.pdf",
       "dest_rel": "week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_QUIZ_STUDENT_06202026_v1.pdf",
-      "bytes": 352355,
-      "sha256": "c7cfe1d10baea303e8d09946976e643feca6658f286bceaa985d0b841826d256",
+      "bytes": 348559,
+      "sha256": "01a0def7637b23b1d2fcb614b61349320bb877b7b1ec3d46ca6db2d6c042d992",
       "type": "quiz"
     },
     {
       "old_rel": "week01/workbooklets/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "dest_rel": "week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf",
-      "bytes": 371330,
-      "sha256": "a82e7e3a6f778703a19ecf73ed718c62a4bca129ed376210a69611562e3a43b5",
+      "bytes": 358924,
+      "sha256": "78b87befaeb39b53f793122e164902be1522cb621495bb3866c1cce594159a62",
       "type": "workbooklet"
     },
     {
       "old_rel": "week01/quizzes/DAY04_COMPARISONS_BOUNDARIES_QUIZ_STUDENT_06202026_v1.pdf",
       "dest_rel": "week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_QUIZ_STUDENT_06202026_v1.pdf",
-      "bytes": 326479,
-      "sha256": "98e7c3d7105869f2a09c5c93dea301e6aade8c5ca30f05f1774c719190b3c63f",
+      "bytes": 323038,
+      "sha256": "2bc964ca80c5c9dc86a3ceeed87659e7eef721f1fd446ee7e63622598a6ffe1c",
       "type": "quiz"
     },
     {
       "old_rel": "week01/workbooklets/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "dest_rel": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
-      "bytes": 377927,
-      "sha256": "a6da4f188179b71f663dfa6b97b458e3f522a0d45f0f96b4773af29711933d4e",
+      "bytes": 366138,
+      "sha256": "05de793a57bf72e06a737c08602d55714d111b02ed2b0e1dce6ba3fc678f575c",
       "type": "workbooklet"
     },
     {
       "old_rel": "week01/quizzes/DAY05_BOOLEAN_COMBINATIONS_QUIZ_STUDENT_06202026_v1.pdf",
       "dest_rel": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_QUIZ_STUDENT_06202026_v1.pdf",
-      "bytes": 368839,
-      "sha256": "171d577f01df4b11d7e1ab94046ca8aa74d648aefc4f707fd215cffb7873de7b",
+      "bytes": 365613,
+      "sha256": "8964754538630df4eeff9de6965c4542185785e2febfa03ac2857d46f0b25f6d",
       "type": "quiz"
     },
     {
       "old_rel": "week01/checkpoint_practice/WEEK01_PUMP_READINESS_CLOSEOUT_ASSESSMENT_STUDENT_06202026_v1.pdf",
       "dest_rel": "week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf",
-      "bytes": 369150,
-      "sha256": "e1de4cb4cb66a0eca3f107db1d2755b6476190a9da101d265a113ba9d4271fd9",
+      "bytes": 371724,
+      "sha256": "9f2e7a08120856b1df0a4fb2c294b955e6e55bb731e6e32a1a4a73f9ef67bcee",
       "type": "checkpoint/practice"
     },
     {
       "old_rel": "week02/workbooklets/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "dest_rel": "week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf",
-      "bytes": 340449,
-      "sha256": "14a9f22afa0919911942945c43ce60d13db2268edae439bfddcdd8ddbb3f10c6",
+      "bytes": 337051,
+      "sha256": "4ebcb1e9f66a6ce8aec8a6aac9bae3e47035ee4a79f70a0d70e7663f79b2541b",
       "type": "workbooklet"
     },
     {
       "old_rel": "week02/quizzes/DAY06_BRANCH_ROUTING_QUIZ_STUDENT_06292026_v1.pdf",
       "dest_rel": "week02/day06_branch_routing/DAY06_BRANCH_ROUTING_QUIZ_STUDENT_06292026_v1.pdf",
-      "bytes": 309959,
-      "sha256": "400967bfdd1cff90136d50c496a6366c3f86d879c875e277af6c0d55249f1444",
+      "bytes": 309984,
+      "sha256": "305e239edd913ee9caf42f62011551ce8e4b76dcd0908b8fe61a7d55e67a41e0",
       "type": "quiz"
     },
     {
       "old_rel": "week02/workbooklets/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "dest_rel": "week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf",
-      "bytes": 339355,
-      "sha256": "135dea964d28cc7807a97b0b0085afd42ea8a5710a44580f4c600fcbcfdf5e41",
+      "bytes": 335938,
+      "sha256": "5b5f0af1c9e5b7bc5dcbf50fedbdfb455a088e9be645d1478dff2a2fdeebb87c",
       "type": "workbooklet"
     },
     {
       "old_rel": "week02/quizzes/DAY07_ORDERED_VALIDATION_QUIZ_STUDENT_06292026_v1.pdf",
       "dest_rel": "week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_QUIZ_STUDENT_06292026_v1.pdf",
-      "bytes": 308823,
-      "sha256": "9d3b082c7423dc7a88aa50512a084d2d16b02e687db5410cb965a119bed0c283",
+      "bytes": 308857,
+      "sha256": "480d481f7dbdb8d81f0ec7fabce12835707628b8a40810b5551fc8b2f33f190c",
       "type": "quiz"
     },
     {
       "old_rel": "week02/workbooklets/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf",
       "dest_rel": "week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf",
-      "bytes": 337872,
-      "sha256": "77f632901535d26c30f4207c64e2e3032f78c0ba1ab34a5041d74d76d6e1ecb8",
+      "bytes": 334829,
+      "sha256": "68b5a290fa05b4a06efbd2f9b57a647fa2fdb1df6aaacfd3a50603db8095b5d8",
       "type": "workbooklet"
     },
     {
       "old_rel": "week02/quizzes/DAY08_DEBUG_TEST_DESIGN_QUIZ_STUDENT_06292026_v1.pdf",
       "dest_rel": "week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_QUIZ_STUDENT_06292026_v1.pdf",
-      "bytes": 311054,
-      "sha256": "c92ad73778699e12447bcfd28f64bfae14b24d42ebb39c78b807f37687448921",
+      "bytes": 311096,
+      "sha256": "eaf75564c1184538120e155159238f64b2bcd8e2d37b6103c0bee22e63c8c1c9",
       "type": "quiz"
     },
     {
       "old_rel": "exam01/EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf",
       "dest_rel": "week02/day09_exam1/EXAM01_WEEK1_2_EVIDENCE_ASSESSMENT_STUDENT_06302026_v2.pdf",
-      "bytes": 394781,
-      "sha256": "20b782247be6aca74a0eeab4f3d99250b70885ef91d31d5abb28b78d98e0ae32",
+      "bytes": 394832,
+      "sha256": "3b85c58d9dfd2c6ba401fcaadaa4fba4e9720191cec4deca7c186a98a60875d5",
       "type": "exam"
     },
     {
       "old_rel": "exam01/optional_practice_addendum/EXAM1_READINESS_REHEARSAL_STUDENT_07012026_v1.pdf",
       "dest_rel": "week02/day09_exam1/EXAM1_READINESS_REHEARSAL_OPTIONAL_PRACTICE_ADDENDUM_STUDENT_07012026_v1.pdf",
-      "bytes": 153490,
-      "sha256": "5131a539eddde07bf2a45b5060c18349886e5b6dc70c23c3d213fcaa1321ca71",
+      "bytes": 164449,
+      "sha256": "d317365d69f0c69f64366b64c7f3bd036ace918ba50109c34b5de0d67b972230",
       "type": "optional practice addendum"
     },
     {
       "old_rel": "week02/workbooklets/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "dest_rel": "week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf",
-      "bytes": 333268,
-      "sha256": "c2b58097b121c8843ef507fabd40d145c4934c5d705067f23f6682c3443b5396",
+      "bytes": 330128,
+      "sha256": "58aa205ea140f53e244b01b68bc52df48bf0ccd0231f1cc36d9aab942c983e23",
       "type": "workbooklet"
     },
     {
       "old_rel": "week02/quizzes/DAY10_WEEK2_DECISION_EVIDENCE_QUIZ_STUDENT_06292026_v1.pdf",
       "dest_rel": "week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_QUIZ_STUDENT_06292026_v1.pdf",
-      "bytes": 310031,
-      "sha256": "ad5f7966788330027d88c3f18cf2a904dd503f306bc8717098f5a713895660fd",
+      "bytes": 310071,
+      "sha256": "d6203572b58038006c40cebeb4cddd98ffb94c769788ed90ae917af4c3c6bc4b",
       "type": "quiz"
     },
     {
       "old_rel": "week03/workbooklets/DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week03/day11_for_loops_range_counters/DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
-      "bytes": 373324,
-      "sha256": "758a48c536e05182b34bfd255bfb93745601ee0a0ed0a45cf5331e150fde2292",
+      "bytes": 373379,
+      "sha256": "a5c456c1fe9e4c6e0f9a4ab9640ea148e8fbb204df7c1292291a772acfe45178",
       "type": "workbooklet"
     },
     {
       "old_rel": "week03/quizzes/DAY11_FOR_LOOPS_RANGE_COUNTERS_QUIZ_STUDENT_07012026_v2.pdf",
       "dest_rel": "week03/day11_for_loops_range_counters/DAY11_FOR_LOOPS_RANGE_COUNTERS_QUIZ_STUDENT_07012026_v2.pdf",
-      "bytes": 309090,
-      "sha256": "fad10c71b6cf19ed5a13ac5072c71280c491168d0aea57b55e01e7338d7cf724",
+      "bytes": 309110,
+      "sha256": "9e06aa27360d8ef546c760af5b93787c19d29e93bc01ed2a411216ac9c8b337b",
       "type": "quiz"
     },
     {
       "old_rel": "week03/workbooklets/DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week03/day12_while_loops_update_termination/DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf",
-      "bytes": 369312,
-      "sha256": "bdb9c1a66e5986b601b05a61d7f8c910a7505624c45b4d4fc7d5c6cd32111848",
+      "bytes": 369364,
+      "sha256": "6ee769287fb18a820ba1626ce60107642491e581ba5d42afe69ea3f8c4eec997",
       "type": "workbooklet"
     },
     {
       "old_rel": "week03/quizzes/DAY12_WHILE_LOOPS_TERMINATION_QUIZ_STUDENT_07012026_v2.pdf",
       "dest_rel": "week03/day12_while_loops_update_termination/DAY12_WHILE_LOOPS_TERMINATION_QUIZ_STUDENT_07012026_v2.pdf",
-      "bytes": 307386,
-      "sha256": "108df843e854a273f49e356605ff8e5ace3cc3bfc38e00bb2c1b32554eac1908",
+      "bytes": 307393,
+      "sha256": "514c1cac2a0f7829fbe93fbbd8ec5190e72198c1cd8a294f81e844760fd81aab",
       "type": "quiz"
     },
     {
       "old_rel": "week03/workbooklets/DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week03/day13_break_continue_loop_debugging/DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
-      "bytes": 368902,
-      "sha256": "71340c178ef0190fb38285af5c1279b0d7cf97d7c5d874fbbeb375e80089ee78",
+      "bytes": 369074,
+      "sha256": "2c0e9bb2453faadf0bb778cca61175c27c3f9ce95682188011feaeb604f6cc8c",
       "type": "workbooklet"
     },
     {
       "old_rel": "week03/quizzes/DAY13_BREAK_CONTINUE_DEBUGGING_QUIZ_STUDENT_07012026_v2.pdf",
       "dest_rel": "week03/day13_break_continue_loop_debugging/DAY13_BREAK_CONTINUE_DEBUGGING_QUIZ_STUDENT_07012026_v2.pdf",
-      "bytes": 310871,
-      "sha256": "70cc172fd5fd6df53b2c669afc4eb3352887e946918a95d05ac76b3888678826",
+      "bytes": 310899,
+      "sha256": "6d1aacfd2f36b9e16bb58adf58750e012dd52ff5c2f7e0dc7d8e345cd34a96ff",
       "type": "quiz"
     },
     {
       "old_rel": "week03/workbooklets/DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week03/day14_nested_loop_tracing/DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
-      "bytes": 362534,
-      "sha256": "6a950c9254368d9623d770c37e5ac5e9b9cb660fa22c7f056a56fe1ad586065c",
+      "bytes": 362574,
+      "sha256": "3cad930bdede63eb1824098eb6644da004f6d767ca596a0055bda01c0e664eb6",
       "type": "workbooklet"
     },
     {
       "old_rel": "week03/quizzes/DAY14_NESTED_LOOP_TRACING_QUIZ_STUDENT_07012026_v2.pdf",
       "dest_rel": "week03/day14_nested_loop_tracing/DAY14_NESTED_LOOP_TRACING_QUIZ_STUDENT_07012026_v2.pdf",
-      "bytes": 304836,
-      "sha256": "0e639416017a03d3ce705a526572e60826beba2b26c6d2f77d9d9a043c06770d",
+      "bytes": 304875,
+      "sha256": "4263f1dfbbb4ae87a0e352bca938da0665a9acbaf46793fe8aff7ee16d25a991",
       "type": "quiz"
     },
     {
       "old_rel": "week03/workbooklets/DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week03/day15_lists_indexing_state/DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf",
-      "bytes": 370050,
-      "sha256": "16dad8b58f32f35094aef7c9f3c93345f4f6d59ed290aa56a21283a3d395c0fa",
+      "bytes": 370099,
+      "sha256": "70c29d511e869520b19f0eefd83a230b70fa2485008aff5190dc7c4cb53bbcd5",
       "type": "workbooklet"
     },
     {
       "old_rel": "week03/quizzes/DAY15_LISTS_INDEXING_STATE_QUIZ_STUDENT_07012026_v2.pdf",
       "dest_rel": "week03/day15_lists_indexing_state/DAY15_LISTS_INDEXING_STATE_QUIZ_STUDENT_07012026_v2.pdf",
-      "bytes": 308977,
-      "sha256": "29a9fde56456632df05125c1304bb94b11f5eaaa197dbbefcd7f040561d61f50",
+      "bytes": 309001,
+      "sha256": "aa9f161c0726f07c7ddd5a2204893aea5425d94bd6463cc80ffdc5415400fca5",
       "type": "quiz"
     },
     {
       "old_rel": "day16_bridge/DAY16_LIST_MUTATION_INDEXED_PROCESSING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week04/day16_list_mutation_indexed_processing/DAY16_LIST_MUTATION_INDEXED_PROCESSING_WORKBOOKLET_STUDENT_07012026_v1.pdf",
-      "bytes": 374943,
-      "sha256": "d1243abe1d7620a209913687153fad760c58ef6881305dc36463c25dd0ccefda",
+      "bytes": 374979,
+      "sha256": "bc4bdcae76a376d0eb10b2f5480e1d318cd5a498b1b8bc7ee9419ef0975a29b9",
       "type": "workbooklet"
     },
     {
       "old_rel": "day16_bridge/DAY16_LIST_MUTATION_INDEXED_PROCESSING_QUIZ_STUDENT_07012026_v1.pdf",
       "dest_rel": "week04/day16_list_mutation_indexed_processing/DAY16_LIST_MUTATION_INDEXED_PROCESSING_QUIZ_STUDENT_07012026_v1.pdf",
-      "bytes": 311307,
-      "sha256": "b7c81d3e34fbbc4442f52b818210272a8658fbeaa83005327193ef1c0567ae61",
+      "bytes": 311332,
+      "sha256": "13d9c46b8911b46684d6821b8f1810c6f3cd6d2a60535b9624ab8ee9f9279707",
       "type": "quiz"
     },
     {
       "old_rel": "exam02/EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf",
       "dest_rel": "week04/day17_exam2/EXAM02_LOOP_LIST_EVIDENCE_ASSESSMENT_STUDENT_07012026_v1.pdf",
-      "bytes": 394229,
-      "sha256": "aac37a94e473e3161276e5c0228ec76cfe7d8d83b01b1248da7fe7b2782c2db0",
+      "bytes": 394238,
+      "sha256": "0d40ce0a294615dbb2c514d485dbb96c13dd6654b8d35737018166f1b3269d86",
       "type": "exam"
     },
     {
       "old_rel": "final_stretch/day18/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
-      "bytes": 373384,
-      "sha256": "c515096373116d8d85148f25fffd0ecb246240ee975b555c26d3ab58fddac61c",
+      "bytes": 373422,
+      "sha256": "9e6a89f7704fe87b7a5a875fc7945c13c48083b025dee6e5a9a95312342dff07",
       "type": "workbooklet"
     },
     {
       "old_rel": "final_stretch/day18/DAY18_SYNTHESIS_QUIZ_STUDENT_07012026_v1.pdf",
       "dest_rel": "week04/day18_synthesis/DAY18_SYNTHESIS_QUIZ_STUDENT_07012026_v1.pdf",
-      "bytes": 312288,
-      "sha256": "4d0208d0a918a3bf49bbf0f5bb4e845bd4122ad8507a44def0a218a71cbc93d6",
+      "bytes": 312297,
+      "sha256": "67e40d63b2b69c803333f8b615a0815433f774e5b45d6cfd3e970254d6b691e8",
       "type": "quiz"
     },
     {
       "old_rel": "final_stretch/day19/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
       "dest_rel": "week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
-      "bytes": 295673,
-      "sha256": "285acc1cd823bc230ab94ca7f8cf560521092c093968fc2d576ee6aa99905220",
+      "bytes": 295699,
+      "sha256": "917d7e13dff7743f8fa6ad92be6ea58ca6c56dae8a04ec9ca24ee6bbc83537b9",
       "type": "support/transition packet"
     }
   ],
@@ -274,5 +274,11 @@
     "Day 20 is ceremony-only/no bridge class meeting; no Day 20 student class packet is staged.",
     "The previous Day 20 reflection packet is superseded/held and not part of student release."
   ],
-  "day20_release_correction": "Day 20 is ceremony-only/no bridge class meeting. The previous Day 20 reflection packet is superseded/held and not staged for student release."
+  "day20_release_correction": "Day 20 is ceremony-only/no bridge class meeting. The previous Day 20 reflection packet is superseded/held and not staged for student release.",
+  "point_total_correction": {
+    "date": "2026-07-08",
+    "version": "07082026_v1",
+    "policy": "Score denominators corrected to match existing point rows; individual point rows unchanged.",
+    "changed_pdf_count": null
+  }
 }
