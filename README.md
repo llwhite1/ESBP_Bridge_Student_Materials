@@ -13,6 +13,7 @@ Daily quiz PDFs and exam/assessment PDFs are intentionally excluded from this pu
 - [Current Student Materials Index](CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md)
 - [Student Learning Collections by Competency](STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md)
 - [Notebook and Practice Path](NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md)
+- [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md)
 - [Student Collection Scope](STUDENT_COLLECTION_SCOPE_07082026_v1.md)
 
 ## Calendar navigation

@@ -10,6 +10,7 @@ Use it as a guided path through the bridge, not as a pile of PDFs. Each day fold
 2. Use the [current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md) to find today's files.
 3. Open today's day folder from [the calendar](CALENDAR.md).
 4. Use the day README before opening the PDF. It tells you what to notice and what evidence to keep.
+5. Keep the [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md) nearby for terms like visible output, stored state, trace, type, cast, truthiness, and boundary check.
 
 ## What is in this collection
 

@@ -20,14 +20,14 @@ Notebook practice remains linked through the companion notebook repository rathe
 ## Current collection checks
 
 - Manifest version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
-- Manifest records checked: `53`
-- Unique manifest records: `53`
+- Manifest records checked: `54`
+- Unique manifest records: `54`
 - Current PDF count: `19`
 - Manifest PDF count: `19`
 - Quiz PDF count in current repo: `0`
 - Exam/assessment PDF count in current repo: `0`
 - Day README count: `20`
-- Markdown file count checked: `35`
+- Markdown file count checked: `36`
 
 ## Day README structure checks
 
@@ -75,6 +75,7 @@ PASS. The current student repo is now a richer non-quiz, non-exam student learni
 - a current materials index;
 - competency-based collections;
 - notebook/practice path guidance;
+- root-level [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md);
 - all 20 day-folder READMEs upgraded to student-first guidance;
 - 19 current non-quiz/non-exam PDFs;
 - conservative CC BY-NC-ND 4.0 license;

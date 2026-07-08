@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T14:15:26",
+  "generated": "2026-07-08T15:53:32",
   "version": "07082026_v5_student_learning_collection_no_quizzes_no_exams",
   "repository": "ESBP_Bridge_Student_Materials",
   "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
@@ -7,7 +7,7 @@
   "license": "Unless otherwise noted, repository materials are licensed under CC BY-NC-ND 4.0; see LICENSE.md.",
   "notebook_practice": "Approved notebook practice is linked through NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md and remains in the companion notebook repository rather than copied into this PDF collection.",
   "summary": {
-    "root_navigation_file_count": 10,
+    "root_navigation_file_count": 11,
     "week_readme_count": 4,
     "day_folder_count": 20,
     "day_readme_count": 20,
@@ -23,8 +23,8 @@
       "rel": "README.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 4210,
-      "sha256": "f7d1ac53139d7749b2998b459c2829e041b3210fe3d5e974a876279812753e0c"
+      "bytes": 4263,
+      "sha256": "e32cf262d8d88bf6c8190be9bad162791fae98c6470075bfd6a7901ed57ea5f6"
     },
     {
       "rel": "CALENDAR.md",
@@ -44,8 +44,8 @@
       "rel": "START_HERE_STUDENTS.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 1782,
-      "sha256": "99076207196efbe6bdca204a87d9083c530be976aca9f018f6b6c5abdc360462"
+      "bytes": 1948,
+      "sha256": "17b6da947b50186988149f0f96c3ef1c4e931c2003883128fe2b71351457c520"
     },
     {
       "rel": "BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md",
@@ -55,11 +55,18 @@
       "sha256": "32ebc2eafb88a619c81e009a8c9a6c0b01248803e4b2c7fa76b95d48f50379f3"
     },
     {
+      "rel": "ENGR102_BRIDGE_QUICK_GLOSSARY.md",
+      "type": "student guidance/navigation/license/verification document",
+      "category": "student_navigation",
+      "bytes": 4789,
+      "sha256": "f01cbbbe08d88836e4668d0700dd16e41d3a4df9c4f10c79133b5667e01725f4"
+    },
+    {
       "rel": "CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 5289,
-      "sha256": "001fe84a19a63653541b984023b5bcdbad55633e62672e33bf2d0cffbf567632"
+      "bytes": 5488,
+      "sha256": "754e2e7c7544f73c0b6dce04abc039abac07d65dd577011638748f29bd63afd2"
     },
     {
       "rel": "STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md",
@@ -79,15 +86,15 @@
       "rel": "STUDENT_COLLECTION_SCOPE_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 1105,
-      "sha256": "89abc25358a95472b1928874012248e3379526b72ab3962bbbc408406228ad0d"
+      "bytes": 1121,
+      "sha256": "3cd9540b30b5f03eeddee90e88aa0c72f7816b92fca40b8e4e89e54e7e98e15e"
     },
     {
       "rel": "STUDENT_COLLECTION_V5_VERIFICATION_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 2789,
-      "sha256": "52bec25782585ee2abae0727ef8acd01510e1f28b2dafcbae90f74bc642e7eb7"
+      "bytes": 2854,
+      "sha256": "46b117a7462c26476472cc05631c1222d9dd656a01b0341673942b6ca1863885"
     }
   ],
   "week_readmes": [

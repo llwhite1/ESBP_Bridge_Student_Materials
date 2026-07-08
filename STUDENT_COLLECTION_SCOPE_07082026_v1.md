@@ -12,7 +12,7 @@ The current collection includes student-facing learning materials that students 
 - Week 1 checkpoint/practice;
 - Day 19 support/transition packet;
 - Day 20 closeout/readiness reflection packet;
-- student guidance, calendar, journey, and competency navigation files.
+- student guidance, calendar, journey, quick glossary, and competency navigation files.
 
 ## Excluded from this repository view
 

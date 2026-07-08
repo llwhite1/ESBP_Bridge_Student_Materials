@@ -29,6 +29,10 @@ Start with [Start Here for Students](START_HERE_STUDENTS.md), then use the day f
 | Week 04 | 19 | Support and transition | [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf) — support and transition packet |
 | Week 04 | 20 | Ceremony / readiness reflection | [DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf](week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf) — closeout readiness reflection packet |
 
+## Reference material
+
+- [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md) — short student-facing definitions for output, state, evidence, type, truthiness, boundaries, and Boolean combinations.
+
 ## Companion practice
 
 [Notebook and Practice Path](NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md) links to approved notebook practice in the companion notebook repository.
