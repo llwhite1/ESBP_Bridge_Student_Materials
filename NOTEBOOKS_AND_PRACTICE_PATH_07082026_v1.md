@@ -1,17 +1,15 @@
 # Notebook and Practice Path
 
-This PDF collection is the printable / document-based learning path. Approved notebook practice lives in the companion notebook repository:
+This public repository is the printable / document-based learning path for the bridge course.
 
-- [https://github.com/llwhite1/ESBP_Bridge_Notebooks_Student_Repo](https://github.com/llwhite1/ESBP_Bridge_Notebooks_Student_Repo)
-
-Use notebooks as mastery-stretch practice after you understand the evidence routine from the workbooklet. The PDF collection and notebook practice are complementary:
+Notebook practice is not bundled in this public PDF repository. If your instructor assigns notebook practice, use the notebook link or file package they provide separately. Use the PDFs here as the stable public reference for the day-by-day evidence routines.
 
 | If you need... | Start with... |
 |---|---|
 | A guided class/workbook path | This repository's day folders |
 | A printable evidence workspace | The current day workbooklet or support packet |
-| Extra code practice | The companion notebook repository |
-| Precalculus visualization support | The notebook repository's precalculus supplement |
+| Extra code practice | The notebook link or file package provided separately by your instructor |
+| Precalculus visualization support | The separate notebook/practice materials if assigned |
 
 ## Suggested use
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T21:06:35",
+  "generated": "2026-07-08T22:29:27",
   "version": "07082026_v5_student_learning_collection_no_quizzes_no_exams",
   "repository": "ESBP_Bridge_Student_Materials",
   "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
@@ -72,8 +72,8 @@
       "rel": "CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 6761,
-      "sha256": "5240913c4a25f2ff8379cf94d0cabc8646c687bfd95e64d59d71b244c139a3a4"
+      "bytes": 6765,
+      "sha256": "2f1e1e6f43cc5f956ebe2626c8cae33ff6c8450441e04f5aaf466656bbf77201"
     },
     {
       "rel": "STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md",
@@ -86,8 +86,8 @@
       "rel": "NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 1195,
-      "sha256": "bc2c207d9a0ef5bd68a23a60cb2bc38dc23749b46cabc7373fe6831d307ee11f"
+      "bytes": 1154,
+      "sha256": "a94d274f0dc42d8def9f1463e703f14982482f41828b614c6755dfdf587277a7"
     },
     {
       "rel": "STUDENT_COLLECTION_SCOPE_07082026_v1.md",
@@ -100,8 +100,8 @@
       "rel": "STUDENT_COLLECTION_V5_VERIFICATION_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 3008,
-      "sha256": "8024747f7126c824a2ed9a33d74be31dddbdaa2f1a4b1c4717c6f7d32d0b61a7"
+      "bytes": 3425,
+      "sha256": "63b43c560b1e2503a4c36d401a7d7cb4a284398310e9c5c22e7079613a77a4e6"
     }
   ],
   "week_readmes": [

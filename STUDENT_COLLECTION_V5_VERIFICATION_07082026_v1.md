@@ -81,3 +81,9 @@ PASS. The current student repo is now a richer non-quiz, non-exam student learni
 - 19 current non-quiz/non-exam PDFs;
 - conservative CC BY-NC-ND 4.0 license;
 - v5 Markdown and JSON manifests.
+
+## Public-link hardening addendum
+
+- Notebook companion repo public-link check: removed dead public GitHub link from the student repo; notebook practice is now described as separately assigned by the instructor.
+- Manifest PDF links: converted current PDF links in the Markdown manifest to GitHub raw-download URLs.
+- Public PDF download route: direct download page remains the preferred student PDF access surface.

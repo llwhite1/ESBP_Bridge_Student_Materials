@@ -35,4 +35,4 @@ Start with [Start Here for Students](START_HERE_STUDENTS.md), then use the day f
 
 ## Companion practice
 
-[Notebook and Practice Path](NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md) links to approved notebook practice in the companion notebook repository.
+[Notebook and Practice Path](NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md) explains how to use any notebook practice your instructor assigns separately.
