@@ -1,7 +1,7 @@
 # Student Access Manifest 07082026 v5
 
 Version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
-Generated: `2026-07-08T15:53:32`
+Generated: `2026-07-08T21:06:35`
 
 This v5 manifest is the current student learning-collection manifest. It replaces earlier quiz/exam-inclusive release views with a student-facing collection of current non-quiz, non-exam learning materials and guidance.
 
@@ -17,7 +17,7 @@ Notebook practice is linked from the notebook/practice guidance file instead of 
 
 ## Counts
 
-- `root_navigation_file_count`: `11`
+- `root_navigation_file_count`: `12`
 - `week_readme_count`: `4`
 - `day_folder_count`: `20`
 - `day_readme_count`: `20`
@@ -36,6 +36,7 @@ Notebook practice is linked from the notebook/practice guidance file instead of 
 - [`START_HERE_STUDENTS.md`](START_HERE_STUDENTS.md) — student guidance/navigation/license/verification document
 - [`BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md`](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md) — student guidance/navigation/license/verification document
 - [`ENGR102_BRIDGE_QUICK_GLOSSARY.md`](ENGR102_BRIDGE_QUICK_GLOSSARY.md) — student guidance/navigation/license/verification document
+- [`DOWNLOAD_CURRENT_STUDENT_PDFS.md`](DOWNLOAD_CURRENT_STUDENT_PDFS.md) — student guidance/navigation/license/verification document
 - [`CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md`](CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md) — student guidance/navigation/license/verification document
 - [`STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md`](STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md) — student guidance/navigation/license/verification document
 - [`NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md`](NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md) — student guidance/navigation/license/verification document

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T15:53:32",
+  "generated": "2026-07-08T21:06:35",
   "version": "07082026_v5_student_learning_collection_no_quizzes_no_exams",
   "repository": "ESBP_Bridge_Student_Materials",
   "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
@@ -7,7 +7,7 @@
   "license": "Unless otherwise noted, repository materials are licensed under CC BY-NC-ND 4.0; see LICENSE.md.",
   "notebook_practice": "Approved notebook practice is linked through NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md and remains in the companion notebook repository rather than copied into this PDF collection.",
   "summary": {
-    "root_navigation_file_count": 11,
+    "root_navigation_file_count": 12,
     "week_readme_count": 4,
     "day_folder_count": 20,
     "day_readme_count": 20,
@@ -23,8 +23,8 @@
       "rel": "README.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 4263,
-      "sha256": "e32cf262d8d88bf6c8190be9bad162791fae98c6470075bfd6a7901ed57ea5f6"
+      "bytes": 4326,
+      "sha256": "00e7610c5a36b3449064786d816fe3712db6cb869963521e744e48f4384e5d6c"
     },
     {
       "rel": "CALENDAR.md",
@@ -44,8 +44,8 @@
       "rel": "START_HERE_STUDENTS.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 1948,
-      "sha256": "17b6da947b50186988149f0f96c3ef1c4e931c2003883128fe2b71351457c520"
+      "bytes": 2075,
+      "sha256": "38b3a064f42c929b25b98b81476d41c6583cc0a152229abb476066b7d662c3a4"
     },
     {
       "rel": "BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md",
@@ -62,11 +62,18 @@
       "sha256": "f01cbbbe08d88836e4668d0700dd16e41d3a4df9c4f10c79133b5667e01725f4"
     },
     {
+      "rel": "DOWNLOAD_CURRENT_STUDENT_PDFS.md",
+      "type": "student guidance/navigation/license/verification document",
+      "category": "student_navigation",
+      "bytes": 4927,
+      "sha256": "0c3bc691442d35d9f28342b1ede2c327c0a6e51cf63052630b5049df4c1767d2"
+    },
+    {
       "rel": "CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 5488,
-      "sha256": "754e2e7c7544f73c0b6dce04abc039abac07d65dd577011638748f29bd63afd2"
+      "bytes": 6761,
+      "sha256": "5240913c4a25f2ff8379cf94d0cabc8646c687bfd95e64d59d71b244c139a3a4"
     },
     {
       "rel": "STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md",
@@ -93,8 +100,8 @@
       "rel": "STUDENT_COLLECTION_V5_VERIFICATION_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 2854,
-      "sha256": "46b117a7462c26476472cc05631c1222d9dd656a01b0341673942b6ca1863885"
+      "bytes": 3008,
+      "sha256": "8024747f7126c824a2ed9a33d74be31dddbdaa2f1a4b1c4717c6f7d32d0b61a7"
     }
   ],
   "week_readmes": [
@@ -139,8 +146,8 @@
         "rel": "week01/day01_visible_output_evidence/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1626,
-        "sha256": "481069b36c2999e58dccba6e8cb3875d0eda9a79041c9e95a4d378c675dbcef3",
+        "bytes": 1730,
+        "sha256": "e038b76049c3b43c178c6e8f705717d4ab7adedab667fa6fc1b8fb1a1e30c681",
         "week": "week01",
         "day": "1"
       },
@@ -167,8 +174,8 @@
         "rel": "week01/day02_variables_expressions_state/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1663,
-        "sha256": "5163f5ca4aa9d91473fd25fdc48b8dc1ad30c44eeecf8787a33af4cbd10705c0",
+        "bytes": 1771,
+        "sha256": "4e75af00287e00f8868ad1e4f3978e5fe61b987e07a19f52420befac19b726b0",
         "week": "week01",
         "day": "2"
       },
@@ -195,8 +202,8 @@
         "rel": "week01/day03_types_casting_truthiness/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1660,
-        "sha256": "b6f1799c92cc30c412eea3ccca5a49ef0ac4d9bb55f9978b95d6fb4821ae0f5e",
+        "bytes": 1765,
+        "sha256": "44751107f6eb135cb0d1361edad100f4982df5fecac52f446763da4d5283ae02",
         "week": "week01",
         "day": "3"
       },
@@ -223,8 +230,8 @@
         "rel": "week01/day04_comparisons_boundaries/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1647,
-        "sha256": "5f5e6bafc8b2493d0766caadce61d974e385b9bf97d7d80cdd5dfa1711c09923",
+        "bytes": 1750,
+        "sha256": "eece69d6d22f9d3e1009cef8d57b35bbf63ba09740dfd48602e7b7255655706f",
         "week": "week01",
         "day": "4"
       },
@@ -251,8 +258,8 @@
         "rel": "week01/day05_boolean_combinations_and_week1_closeout/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 2129,
-        "sha256": "dbff230221b3289732381dd8664529031968d89bf1232b114ecabe27023c5247",
+        "bytes": 2369,
+        "sha256": "26c93a8550cd2b2dda6aae8534a6353f8262b395a96bdc62c2bd98668a6d9494",
         "week": "week01",
         "day": "5"
       },
@@ -288,8 +295,8 @@
         "rel": "week02/day06_branch_routing/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1615,
-        "sha256": "8cd639cc0a0833c65d8c3b1cd163daacf991460cbcef44c2a2b15bedc534e228",
+        "bytes": 1710,
+        "sha256": "8ad015c955e4545c86819002eb42411b42e9564d71f7645bc15b8f0cfd2c2703",
         "week": "week02",
         "day": "6"
       },
@@ -316,8 +323,8 @@
         "rel": "week02/day07_ordered_validation/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1552,
-        "sha256": "f9b725d4bc77ed663489fb23517a4a48f415d2819a2b169dc9b5087283b3e963",
+        "bytes": 1651,
+        "sha256": "6fe6938c08f345f64ea094d151600f53f005ab6929ba92cc6bdee0057b593325",
         "week": "week02",
         "day": "7"
       },
@@ -344,8 +351,8 @@
         "rel": "week02/day08_debug_test_design/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1638,
-        "sha256": "e11a1b59745d8fb042fe9f810d8bb1170891a36e737d6b8581432153c3dab6c2",
+        "bytes": 1736,
+        "sha256": "0bcba6507b83294921230444c695722967e28e1245fe8f335e11d6a1f96eef9e",
         "week": "week02",
         "day": "8"
       },
@@ -390,8 +397,8 @@
         "rel": "week02/day10_decision_evidence/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1632,
-        "sha256": "b903e7ea19b8a70dda4ebc3bb3ae360793de85db1bf73ae512fae650baaa3e1f",
+        "bytes": 1730,
+        "sha256": "c6fc6b0937124373423a75cf9640253be30d779dd607f5c4d955cbc9237257aa",
         "week": "week02",
         "day": "10"
       },
@@ -418,8 +425,8 @@
         "rel": "week03/day11_for_loops_range_counters/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1592,
-        "sha256": "63bed730f7f6e4b2f375faf12fa843e4a3b724cb328f53edf2002ef0421697b5",
+        "bytes": 1697,
+        "sha256": "8b9dbcf2e45af38fea0a90a1d5b80df2deb838d4a8a48c5384a763abe77b8ab9",
         "week": "week03",
         "day": "11"
       },
@@ -446,8 +453,8 @@
         "rel": "week03/day12_while_loops_update_termination/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1596,
-        "sha256": "73fe0d62a99c40f30b083760d3a95294325a277ab23a1706f07f736fc1c90b5f",
+        "bytes": 1707,
+        "sha256": "83fb5c140ba706a202abe4c49716a71d908ac511d40bf27000702f032489014b",
         "week": "week03",
         "day": "12"
       },
@@ -474,8 +481,8 @@
         "rel": "week03/day13_break_continue_loop_debugging/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1653,
-        "sha256": "9e0fc5f55a60bccadc684161b6cca26f8b09a49307aa296b36d82bc1c875f90e",
+        "bytes": 1763,
+        "sha256": "057af92986e646b1ea6286d125b4fb0e454a2ff65ea0fa495c8167f444efa1da",
         "week": "week03",
         "day": "13"
       },
@@ -502,8 +509,8 @@
         "rel": "week03/day14_nested_loop_tracing/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1535,
-        "sha256": "eb4461dfd9efbb28abe5d5d99c117d57c87dfd988ae67de8ad8fc91726828631",
+        "bytes": 1635,
+        "sha256": "89def35acc92b207fe11ccd0a43eda6bf5bbdc8b1f47c88e9f7a2005c4878933",
         "week": "week03",
         "day": "14"
       },
@@ -530,8 +537,8 @@
         "rel": "week03/day15_lists_indexing_state/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1584,
-        "sha256": "74c4e944cb9a4b5174146935186782a75c7f730f0d17bd532461c57b666b9cdf",
+        "bytes": 1685,
+        "sha256": "0499470300ef3ee76db5b384b4753b71f9b02741684f662229f9a52c0028f661",
         "week": "week03",
         "day": "15"
       },
@@ -558,8 +565,8 @@
         "rel": "week04/day16_list_mutation_indexed_processing/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1651,
-        "sha256": "39c783b7b1b00a54c7c5bd295f101957ac265666b4a072c5067f6c6f2a5e05aa",
+        "bytes": 1764,
+        "sha256": "e288f623805549436f87856f86fa50a65ea9f329cc33d205f3efbf17c89a2c22",
         "week": "week04",
         "day": "16"
       },
@@ -604,8 +611,8 @@
         "rel": "week04/day18_synthesis/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1575,
-        "sha256": "0283641f4812cde84dcb464510d4ab28091956d61ce279fa42e1841d103a04ad",
+        "bytes": 1665,
+        "sha256": "e64309f578d8709d5ef55504c8442873bc2c72e9617eca2c0c37588b14eafb7d",
         "week": "week04",
         "day": "18"
       },
@@ -632,8 +639,8 @@
         "rel": "week04/day19_support_transition/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1665,
-        "sha256": "ce4f3388d1b018ad5a76e66a54ba9258915b8f8f2c257b256d146530e97eaabf",
+        "bytes": 1764,
+        "sha256": "099b9217d4df3e89a85292942538c2d2824fb417ff2a6ae923611fd2386db1bf",
         "week": "week04",
         "day": "19"
       },
@@ -660,8 +667,8 @@
         "rel": "week04/day20_ceremony_no_class_meeting/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1910,
-        "sha256": "807057fff6c865377ab4e8d03e0341b9615012b4783eb0f00f04971bdda8c6e9",
+        "bytes": 2016,
+        "sha256": "3764c09514064aa487f61fddbd5ada1a3621e266c1e9348532f50f2d0db514ca",
         "week": "week04",
         "day": "20"
       },

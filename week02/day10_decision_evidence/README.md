@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf](DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
+- [DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
 
 ## What you are learning today
 

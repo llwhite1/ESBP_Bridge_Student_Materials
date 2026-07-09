@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf](DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf) — workbooklet
+- [DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf) — workbooklet
 
 ## What you are learning today
 

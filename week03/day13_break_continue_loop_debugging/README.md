@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf](DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet
+- [DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day13_break_continue_loop_debugging/DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet
 
 ## What you are learning today
 

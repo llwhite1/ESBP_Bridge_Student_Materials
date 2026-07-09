@@ -10,8 +10,8 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf](DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
-- [WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf](WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf) — Week 1 checkpoint/practice
+- [DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
+- [WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf) — Week 1 checkpoint/practice
 
 ## What you are learning today
 

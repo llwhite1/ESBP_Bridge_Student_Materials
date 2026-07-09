@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf](DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet
+- [DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day14_nested_loop_tracing/DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet
 
 ## What you are learning today
 

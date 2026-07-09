@@ -8,7 +8,7 @@ Use it as a guided path through the bridge, not as a pile of PDFs. Each day fold
 
 1. Read the [Bridge-to-ENGR 102 Journey](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md).
 2. Use the [current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md) to find today's files.
-3. Open today's day folder from [the calendar](CALENDAR.md).
+3. Open today's day folder from [the calendar](CALENDAR.md), or use the [direct PDF download page](DOWNLOAD_CURRENT_STUDENT_PDFS.md) if your browser has trouble with GitHub preview links.
 4. Use the day README before opening the PDF. It tells you what to notice and what evidence to keep.
 5. Keep the [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md) nearby for terms like visible output, stored state, trace, type, cast, truthiness, and boundary check.
 

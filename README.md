@@ -11,6 +11,7 @@ Daily quiz PDFs and exam/assessment PDFs are intentionally excluded from this pu
 - [Start Here for Students](START_HERE_STUDENTS.md)
 - [Bridge-to-ENGR 102 Journey](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
 - [Current Student Materials Index](CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md)
+- [Direct PDF Download Page](DOWNLOAD_CURRENT_STUDENT_PDFS.md)
 - [Student Learning Collections by Competency](STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md)
 - [Notebook and Practice Path](NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md)
 - [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md)

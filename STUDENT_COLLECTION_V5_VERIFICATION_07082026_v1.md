@@ -20,8 +20,8 @@ Notebook practice remains linked through the companion notebook repository rathe
 ## Current collection checks
 
 - Manifest version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
-- Manifest records checked: `54`
-- Unique manifest records: `54`
+- Manifest records checked: `55`
+- Unique manifest records: `55`
 - Current PDF count: `19`
 - Manifest PDF count: `19`
 - Quiz PDF count in current repo: `0`
@@ -76,6 +76,7 @@ PASS. The current student repo is now a richer non-quiz, non-exam student learni
 - competency-based collections;
 - notebook/practice path guidance;
 - root-level [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md);
+- root-level [Direct PDF Download Page](DOWNLOAD_CURRENT_STUDENT_PDFS.md) for students whose browser saves GitHub preview pages instead of raw PDF bytes;
 - all 20 day-folder READMEs upgraded to student-first guidance;
 - 19 current non-quiz/non-exam PDFs;
 - conservative CC BY-NC-ND 4.0 license;

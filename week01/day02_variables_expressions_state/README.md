@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf](DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf) — workbooklet
+- [DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf) — workbooklet
 
 ## What you are learning today
 

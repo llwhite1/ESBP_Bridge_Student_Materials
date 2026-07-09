@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf](DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf) — workbooklet
+- [DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf) — workbooklet
 
 ## What you are learning today
 

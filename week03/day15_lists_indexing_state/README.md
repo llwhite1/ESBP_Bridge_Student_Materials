@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf](DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet
+- [DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day15_lists_indexing_state/DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet
 
 ## What you are learning today
 

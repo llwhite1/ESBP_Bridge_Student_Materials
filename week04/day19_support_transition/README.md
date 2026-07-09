@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf) — support and transition packet
+- [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf) — support and transition packet
 
 ## What you are learning today
 

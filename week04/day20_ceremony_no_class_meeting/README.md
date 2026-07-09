@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf](DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf) — closeout readiness reflection packet
+- [DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf) — closeout readiness reflection packet
 
 ## What you are learning today
 

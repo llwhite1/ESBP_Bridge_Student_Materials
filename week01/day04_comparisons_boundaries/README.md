@@ -10,7 +10,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf](DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
+- [DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
 
 ## What you are learning today
 

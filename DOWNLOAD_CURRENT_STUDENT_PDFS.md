@@ -1,0 +1,27 @@
+# Download Current Student PDFs
+
+This page gives direct download links for the current student-facing PDFs.
+
+If a browser ever saves a GitHub preview page as a file ending in `.pdf`, the saved file can look like an invalid PDF. Use the links below or the GitHub **Download raw file** button to download the actual PDF bytes.
+
+## Current PDFs
+
+- [DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf)
+- [DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf)
+- [DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf)
+- [DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf)
+- [DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf)
+- [WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf)
+- [DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf)
+- [DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf)
+- [DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf)
+- [DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf)
+- [DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day11_for_loops_range_counters/DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf)
+- [DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day12_while_loops_update_termination/DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf)
+- [DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day13_break_continue_loop_debugging/DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf)
+- [DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day14_nested_loop_tracing/DAY14_NESTED_LOOP_TRACING_WORKBOOKLET_STUDENT_07012026_v1.pdf)
+- [DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day15_lists_indexing_state/DAY15_LISTS_INDEXING_LIST_STATE_WORKBOOKLET_STUDENT_07012026_v1.pdf)
+- [DAY16_LIST_MUTATION_INDEXED_PROCESSING_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day16_list_mutation_indexed_processing/DAY16_LIST_MUTATION_INDEXED_PROCESSING_WORKBOOKLET_STUDENT_07012026_v1.pdf)
+- [DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf)
+- [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf)
+- [DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf)
