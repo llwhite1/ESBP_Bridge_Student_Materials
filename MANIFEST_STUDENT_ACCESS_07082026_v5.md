@@ -1,9 +1,11 @@
 # Student Access Manifest 07082026 v5
 
 Version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
-Generated: `2026-07-08T22:29:27`
+Generated: `2026-07-08T22:29:27`; Week 2 scaffold refresh: `2026-07-10`
 
 This v5 manifest is the current student learning-collection manifest. It replaces earlier quiz/exam-inclusive release views with a student-facing collection of current non-quiz, non-exam learning materials and guidance.
+
+Week 2 refresh: the existing Day 6, 7, 8, and 10 workbooklet files now include one unscored final-page VIP lab bridge. Filenames and raw-download URLs remain stable; workbooklet points and daily quizzes are unchanged.
 
 ## Collection rule
 
@@ -61,11 +63,11 @@ These links use GitHub raw-download URLs so browsers download actual PDF bytes r
 | Week 01 | 3 | Types, casting, and truthiness | [`DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF |
 | Week 01 | 4 | Comparisons and boundaries | [`DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF |
 | Week 01 | 5 | Boolean combinations + Week 1 checkpoint/closeout practice | [`DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF<br>[`WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf) — Week 1 checkpoint/practice PDF |
-| Week 02 | 6 | Branch routing | [`DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF |
-| Week 02 | 7 | Ordered validation | [`DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF |
-| Week 02 | 8 | Debug/test design | [`DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf) — student workbooklet PDF |
+| Week 02 | 6 | Branch routing | [`DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF with unscored wrapper-trace lab bridge |
+| Week 02 | 7 | Ordered validation | [`DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF with unscored body-completion lab bridge |
+| Week 02 | 8 | Debug/test design | [`DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf) — student workbooklet PDF with unscored visible-check recovery lab bridge |
 | Week 02 | 9 | Exam 1 boundary | No public PDF staged for this assessment/boundary day. |
-| Week 02 | 10 | Week 2 decision evidence | [`DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF |
+| Week 02 | 10 | Week 2 decision evidence | [`DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf) — student workbooklet PDF with unscored VIP 18.8 notebook-transfer lab bridge |
 | Week 03 | 11 | For loops, range, and counters | [`DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day11_for_loops_range_counters/DAY11_FOR_LOOPS_RANGE_COUNTERS_WORKBOOKLET_STUDENT_07012026_v1.pdf) — student workbooklet PDF |
 | Week 03 | 12 | While loops, update, and termination | [`DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day12_while_loops_update_termination/DAY12_WHILE_LOOPS_UPDATE_TERMINATION_WORKBOOKLET_STUDENT_07012026_v1.pdf) — student workbooklet PDF |
 | Week 03 | 13 | Break/continue and loop debugging | [`DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day13_break_continue_loop_debugging/DAY13_BREAK_CONTINUE_LOOP_DEBUGGING_WORKBOOKLET_STUDENT_07012026_v1.pdf) — student workbooklet PDF |

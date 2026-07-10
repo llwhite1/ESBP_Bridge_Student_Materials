@@ -6,6 +6,8 @@ It is organized by the course calendar and includes a student-first navigation l
 
 Daily quiz PDFs and exam/assessment PDFs are intentionally excluded from this published collection. Use the course directions you receive in class or in the course platform for quiz and exam delivery/timing.
 
+Week 2 Days 6, 7, 8, and 10 include one unscored final-page lab bridge that connects the workbooklet evidence routine to the provided VIP Module 18 notebook wrappers and visible checks.
+
 ## Start here
 
 - [Start Here for Students](START_HERE_STUDENTS.md)

@@ -10,7 +10,11 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
+- [DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet with an unscored VIP 18.8 body-completion page at the end
+
+## Lab bridge on the final page
+
+Keep the provided wrapper, parameter names, and output strings fixed. Complete only the ordered decision body, using 8 and 16 as the route boundaries. The final page is practice and does not change the 42-point workbooklet score.
 
 ## What you are learning today
 

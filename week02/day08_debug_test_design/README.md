@@ -10,7 +10,11 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf) — workbooklet
+- [DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf) — workbooklet with an unscored visible-check recovery page at the end
+
+## Lab bridge on the final page
+
+Keep the function interface and exact output labels fixed. Compare expected and actual results for the incorrectly ordered rules, make one minimal ordering repair, and retain boundary tests at 8, 9, 16, and 17. The final page does not change the 34-point workbooklet score.
 
 ## What you are learning today
 

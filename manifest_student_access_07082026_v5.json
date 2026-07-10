@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T22:29:27",
+  "generated": "2026-07-10T14:32:22",
   "version": "07082026_v5_student_learning_collection_no_quizzes_no_exams",
   "repository": "ESBP_Bridge_Student_Materials",
   "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
@@ -23,8 +23,8 @@
       "rel": "README.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 4326,
-      "sha256": "00e7610c5a36b3449064786d816fe3712db6cb869963521e744e48f4384e5d6c"
+      "bytes": 4513,
+      "sha256": "7a5ed80f82f884063ec16235399eeb01afe228746436b2e5ac26482ef93601f3"
     },
     {
       "rel": "CALENDAR.md",
@@ -72,8 +72,8 @@
       "rel": "CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 6765,
-      "sha256": "2f1e1e6f43cc5f956ebe2626c8cae33ff6c8450441e04f5aaf466656bbf77201"
+      "bytes": 6933,
+      "sha256": "d8e66e8f9b55c1278870bea7727907b86f1b1024f6f641dcf839c469b27ccc42"
     },
     {
       "rel": "STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md",
@@ -116,8 +116,8 @@
       "rel": "week02/README.md",
       "type": "week README",
       "category": "week_readme",
-      "bytes": 1309,
-      "sha256": "5da24298e956c5e91c30ea5a1c42e4fa167a92e05e4f33db824da0c1710b68e9"
+      "bytes": 1569,
+      "sha256": "a9829e5d8eac1034ff51cc142e8d0676a9256866863bffbfb7fbcc97f389c50e"
     },
     {
       "rel": "week03/README.md",
@@ -295,8 +295,8 @@
         "rel": "week02/day06_branch_routing/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1710,
-        "sha256": "8ad015c955e4545c86819002eb42411b42e9564d71f7645bc15b8f0cfd2c2703",
+        "bytes": 2054,
+        "sha256": "5e23ac2bc738ff9bd722956b10ae1156640dfd6c3b0fecc5746cb95935b7067b",
         "week": "week02",
         "day": "6"
       },
@@ -305,8 +305,8 @@
           "rel": "week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf",
           "type": "student workbooklet PDF",
           "category": "current_student_pdf",
-          "bytes": 337051,
-          "sha256": "4ebcb1e9f66a6ce8aec8a6aac9bae3e47035ee4a79f70a0d70e7663f79b2541b",
+          "bytes": 93007,
+          "sha256": "36359d83a6d9f598030718ba65a73efb72af965c70bea7103aea368f96b9d2bb",
           "week": "week02",
           "day": "6"
         }
@@ -323,8 +323,8 @@
         "rel": "week02/day07_ordered_validation/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1651,
-        "sha256": "6fe6938c08f345f64ea094d151600f53f005ab6929ba92cc6bdee0057b593325",
+        "bytes": 1973,
+        "sha256": "9eeee49d65e9748957e1b61b30f839ab405ecadd67a1bbd6735c6921f9f7a858",
         "week": "week02",
         "day": "7"
       },
@@ -333,8 +333,8 @@
           "rel": "week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf",
           "type": "student workbooklet PDF",
           "category": "current_student_pdf",
-          "bytes": 335938,
-          "sha256": "5b5f0af1c9e5b7bc5dcbf50fedbdfb455a088e9be645d1478dff2a2fdeebb87c",
+          "bytes": 94187,
+          "sha256": "1fa62b7f894e8eb5c3f980b290d652c06296b6faa477e905dc158029cb9d757d",
           "week": "week02",
           "day": "7"
         }
@@ -351,8 +351,8 @@
         "rel": "week02/day08_debug_test_design/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1736,
-        "sha256": "0bcba6507b83294921230444c695722967e28e1245fe8f335e11d6a1f96eef9e",
+        "bytes": 2100,
+        "sha256": "aff7e094f8f167c6b6baed90d30b5680b1fd5200310de2466084e7def8d686b9",
         "week": "week02",
         "day": "8"
       },
@@ -361,8 +361,8 @@
           "rel": "week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf",
           "type": "student workbooklet PDF",
           "category": "current_student_pdf",
-          "bytes": 334829,
-          "sha256": "68b5a290fa05b4a06efbd2f9b57a647fa2fdb1df6aaacfd3a50603db8095b5d8",
+          "bytes": 92242,
+          "sha256": "02e44aeee1c6789794eb491c2ce03ca340a065839f0161f411036ff05a5b81ac",
           "week": "week02",
           "day": "8"
         }
@@ -397,8 +397,8 @@
         "rel": "week02/day10_decision_evidence/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 1730,
-        "sha256": "c6fc6b0937124373423a75cf9640253be30d779dd607f5c4d955cbc9237257aa",
+        "bytes": 2135,
+        "sha256": "dd29962f1095bcdd1e2cb2037b50b899a22a02ed46257e72b2deff4679f225d3",
         "week": "week02",
         "day": "10"
       },
@@ -407,8 +407,8 @@
           "rel": "week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf",
           "type": "student workbooklet PDF",
           "category": "current_student_pdf",
-          "bytes": 330128,
-          "sha256": "58aa205ea140f53e244b01b68bc52df48bf0ccd0231f1cc36d9aab942c983e23",
+          "bytes": 90132,
+          "sha256": "49e87465fa2244c6c7e8318d77f9328189fa783f8943613f056c455b2028ae35",
           "week": "week02",
           "day": "10"
         }
@@ -744,8 +744,8 @@
       "rel": "week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "type": "student workbooklet PDF",
       "category": "current_student_pdf",
-      "bytes": 337051,
-      "sha256": "4ebcb1e9f66a6ce8aec8a6aac9bae3e47035ee4a79f70a0d70e7663f79b2541b",
+      "bytes": 93007,
+      "sha256": "36359d83a6d9f598030718ba65a73efb72af965c70bea7103aea368f96b9d2bb",
       "week": "week02",
       "day": "6"
     },
@@ -753,8 +753,8 @@
       "rel": "week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "type": "student workbooklet PDF",
       "category": "current_student_pdf",
-      "bytes": 335938,
-      "sha256": "5b5f0af1c9e5b7bc5dcbf50fedbdfb455a088e9be645d1478dff2a2fdeebb87c",
+      "bytes": 94187,
+      "sha256": "1fa62b7f894e8eb5c3f980b290d652c06296b6faa477e905dc158029cb9d757d",
       "week": "week02",
       "day": "7"
     },
@@ -762,8 +762,8 @@
       "rel": "week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf",
       "type": "student workbooklet PDF",
       "category": "current_student_pdf",
-      "bytes": 334829,
-      "sha256": "68b5a290fa05b4a06efbd2f9b57a647fa2fdb1df6aaacfd3a50603db8095b5d8",
+      "bytes": 92242,
+      "sha256": "02e44aeee1c6789794eb491c2ce03ca340a065839f0161f411036ff05a5b81ac",
       "week": "week02",
       "day": "8"
     },
@@ -771,8 +771,8 @@
       "rel": "week02/day10_decision_evidence/DAY10_WEEK2_DECISION_EVIDENCE_WORKBOOKLET_STUDENT_06202026_v1.pdf",
       "type": "student workbooklet PDF",
       "category": "current_student_pdf",
-      "bytes": 330128,
-      "sha256": "58aa205ea140f53e244b01b68bc52df48bf0ccd0231f1cc36d9aab942c983e23",
+      "bytes": 90132,
+      "sha256": "49e87465fa2244c6c7e8318d77f9328189fa783f8943613f056c455b2028ae35",
       "week": "week02",
       "day": "10"
     },
@@ -868,5 +868,12 @@
     "quiz_pdfs": [],
     "exam_or_assessment_pdfs": [],
     "superseded_manifests": "Earlier manifest snapshots were removed from the current tree; they remain available only in local/private pre-sanitization history backups and are superseded by v5."
+  },
+  "week02_lab_scaffold_refresh": {
+    "date": "2026-07-10",
+    "note": "Week 2 Day 6/7/8/10 student workbooklets refreshed with approved unscored VIP lab-bridge back pages.",
+    "filenames_and_links_stable": true,
+    "quizzes_unchanged": true,
+    "day09_exam_boundary_unchanged": true
   }
 }

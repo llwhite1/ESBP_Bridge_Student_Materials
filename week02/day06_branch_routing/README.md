@@ -10,7 +10,11 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
+- [DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day06_branch_routing/DAY06_BRANCH_ROUTING_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet with an unscored VIP 18.8 preparation page at the end
+
+## Lab bridge on the final page
+
+Use the provided wrapper rather than writing a new function. Read the two input values, calculate the badge total, trace the selected route, and record the exact returned text. The final page is practice and does not change the 42-point workbooklet score.
 
 ## What you are learning today
 
