@@ -25,4 +25,4 @@ Daily quiz PDFs and exam/assessment PDFs are not part of this current published 
 | Week 04 | 17 | Tue Jul 28 | Exam 2 boundary | [Open day folder](week04/day17_exam2/) |
 | Week 04 | 18 | Wed Jul 29 | Synthesis workbook | [Open day folder](week04/day18_synthesis/) |
 | Week 04 | 19 | Thu Jul 30 | Support and transition | [Open day folder](week04/day19_support_transition/) |
-| Week 04 | 20 | Fri Jul 31 | Ceremony / readiness reflection | [Open day folder](week04/day20_ceremony_no_class_meeting/) |
+| Week 04 | 20 | Fri Jul 31 | Ceremony day / no bridge class meeting | [Open day folder](week04/day20_ceremony_no_class_meeting/) |

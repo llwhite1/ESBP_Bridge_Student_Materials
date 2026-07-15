@@ -27,7 +27,7 @@ Start with [Start Here for Students](START_HERE_STUDENTS.md), then use the day f
 | Week 04 | 17 | Exam 2 boundary | No public PDF is staged for this assessment/boundary day. |
 | Week 04 | 18 | Synthesis workbook | [DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet |
 | Week 04 | 19 | Support and transition | [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf) — support and transition packet |
-| Week 04 | 20 | Ceremony / readiness reflection | [DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf) — closeout readiness reflection packet |
+| Week 04 | 20 | Ceremony day / no bridge class meeting | No public student packet; use Day 19 or instructor/LMS directions for any final transition work. |
 
 ## Reference material
 

@@ -1,7 +1,7 @@
 # Student Access Manifest 07082026 v5
 
 Version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
-Generated: `2026-07-08T22:29:27`; Week 2 scaffold refresh: `2026-07-10`
+Generated: `2026-07-08T22:29:27`; Week 2 scaffold refresh: `2026-07-10`; Day 20 no-class boundary correction: `2026-07-14`
 
 This v5 manifest is the current student learning-collection manifest. It replaces earlier quiz/exam-inclusive release views with a student-facing collection of current non-quiz, non-exam learning materials and guidance.
 
@@ -23,11 +23,11 @@ Notebook practice is not copied into this PDF collection; if assigned, use the n
 - `week_readme_count`: `4`
 - `day_folder_count`: `20`
 - `day_readme_count`: `20`
-- `current_student_pdf_count`: `19`
+- `current_student_pdf_count`: `18`
 - `quiz_pdf_count_in_current_repo`: `0`
 - `exam_or_assessment_pdf_count_in_current_repo`: `0`
 - `workbooklet_pdf_count`: `16`
-- `support_or_checkpoint_pdf_count`: `3`
+- `support_or_checkpoint_pdf_count`: `2`
 - `license`: `CC BY-NC-ND 4.0`
 
 ## Start-here / navigation files
@@ -77,7 +77,7 @@ These links use GitHub raw-download URLs so browsers download actual PDF bytes r
 | Week 04 | 17 | Exam 2 boundary | No public PDF staged for this assessment/boundary day. |
 | Week 04 | 18 | Synthesis workbook | [`DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf) — student workbooklet PDF |
 | Week 04 | 19 | Support and transition | [`DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf) — support and transition packet PDF |
-| Week 04 | 20 | Ceremony / readiness reflection | [`DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf`](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf) — closeout readiness reflection packet PDF |
+| Week 04 | 20 | Ceremony day / no bridge class meeting | No public student packet is staged. Use Day 19 or instructor/LMS directions for any final transition work. |
 
 ## Exclusions
 

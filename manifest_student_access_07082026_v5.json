@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T14:32:22",
+  "generated": "2026-07-14T12:15:34-05:00",
   "version": "07082026_v5_student_learning_collection_no_quizzes_no_exams",
   "repository": "ESBP_Bridge_Student_Materials",
   "structure": "calendar-first weekXX/dayYY_topic folders plus root student-learning guidance layer",
@@ -11,11 +11,11 @@
     "week_readme_count": 4,
     "day_folder_count": 20,
     "day_readme_count": 20,
-    "current_student_pdf_count": 19,
+    "current_student_pdf_count": 18,
     "quiz_pdf_count_in_current_repo": 0,
     "exam_or_assessment_pdf_count_in_current_repo": 0,
     "workbooklet_pdf_count": 16,
-    "support_or_checkpoint_pdf_count": 3,
+    "support_or_checkpoint_pdf_count": 2,
     "license": "CC BY-NC-ND 4.0"
   },
   "root_navigation_files": [
@@ -23,15 +23,15 @@
       "rel": "README.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 4513,
-      "sha256": "7a5ed80f82f884063ec16235399eeb01afe228746436b2e5ac26482ef93601f3"
+      "bytes": 4520,
+      "sha256": "652e27a389485e4fa82835f396af2541282e30a68e1e5126ef56eea3d1965ced"
     },
     {
       "rel": "CALENDAR.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 2724,
-      "sha256": "298e4425e7a758a7045433b68f1f1b9943d756f82ff3cb2a45c8f34afe6c464a"
+      "bytes": 2731,
+      "sha256": "d73f053afa6e27e0cd117abf0132a9959717e1c1a0eed7c81529110530575c55"
     },
     {
       "rel": "LICENSE.md",
@@ -65,22 +65,22 @@
       "rel": "DOWNLOAD_CURRENT_STUDENT_PDFS.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 4927,
-      "sha256": "0c3bc691442d35d9f28342b1ede2c327c0a6e51cf63052630b5049df4c1767d2"
+      "bytes": 4682,
+      "sha256": "e6bda45021939611aba9bc7549751f545c2e32a41af2f9a9cb33afc88fc04b05"
     },
     {
       "rel": "CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 6933,
-      "sha256": "d8e66e8f9b55c1278870bea7727907b86f1b1024f6f641dcf839c469b27ccc42"
+      "bytes": 6753,
+      "sha256": "09a2c6967f4a6d6423eff7c7d63533f439ad90355ef5705cdc1107af624b8950"
     },
     {
       "rel": "STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 5295,
-      "sha256": "6a73f9fad000a7de2104e1da20afe7ebf8a2fb1598150f70d344c409cf8a2cf6"
+      "bytes": 5329,
+      "sha256": "8eee46a698d297b8252ce2f162bdea460025fbe0b08484dc84cfd6280aed9854"
     },
     {
       "rel": "NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md",
@@ -93,8 +93,8 @@
       "rel": "STUDENT_COLLECTION_SCOPE_07082026_v1.md",
       "type": "student guidance/navigation/license/verification document",
       "category": "student_navigation",
-      "bytes": 1121,
-      "sha256": "3cd9540b30b5f03eeddee90e88aa0c72f7816b92fca40b8e4e89e54e7e98e15e"
+      "bytes": 1270,
+      "sha256": "57a6c14db0a37f5f52f368c3b5f0eba7335720e32b69b48b28a47a89e04c81b3"
     },
     {
       "rel": "STUDENT_COLLECTION_V5_VERIFICATION_07082026_v1.md",
@@ -130,8 +130,8 @@
       "rel": "week04/README.md",
       "type": "week README",
       "category": "week_readme",
-      "bytes": 1370,
-      "sha256": "2793e1b1dfe2226c01ea1e8f28fe1d2d1aafefcecac6e34e83e542e77e0d94b8"
+      "bytes": 1389,
+      "sha256": "dbe2059713fe0cfc4fc12600a2f2ca807e48135b3c3abde78c2f4d09a91b40cf"
     }
   ],
   "days": [
@@ -660,29 +660,19 @@
       "week": "week04",
       "day": "20",
       "date": "Fri Jul 31",
-      "focus": "Ceremony / readiness reflection",
-      "student_purpose": "Close the bridge by collecting growth evidence and writing a realistic readiness statement.",
+      "focus": "Ceremony day / no bridge class meeting",
+      "student_purpose": "No normal bridge class packet is staged; use Day 19 or explicit instructor/LMS directions for final transition work.",
       "folder": "week04/day20_ceremony_no_class_meeting",
       "readme": {
         "rel": "week04/day20_ceremony_no_class_meeting/README.md",
         "type": "student-first day README",
         "category": "day_readme",
-        "bytes": 2016,
-        "sha256": "3764c09514064aa487f61fddbd5ada1a3621e266c1e9348532f50f2d0db514ca",
+        "bytes": 951,
+        "sha256": "bc177c02eeccc28a1ef48ade90ae91c9e897da41d72e28ec337b03a59724e691",
         "week": "week04",
         "day": "20"
       },
-      "current_student_files": [
-        {
-          "rel": "week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf",
-          "type": "closeout readiness reflection packet PDF",
-          "category": "current_student_pdf",
-          "bytes": 293743,
-          "sha256": "6fed04005aa641f3c9b8209562601faf61c58a8326440ec0227fa057c02491ae",
-          "week": "week04",
-          "day": "20"
-        }
-      ]
+      "current_student_files": []
     }
   ],
   "current_student_pdfs": [
@@ -847,15 +837,6 @@
       "sha256": "bb6ece5e52d051949d1c92ebbf091823514b4a6100ab501b1b30735ed9a898e0",
       "week": "week04",
       "day": "19"
-    },
-    {
-      "rel": "week04/day20_ceremony_no_class_meeting/DAY20_CLOSEOUT_READINESS_REFLECTION_PACKET_STUDENT_07012026_v1.pdf",
-      "type": "closeout readiness reflection packet PDF",
-      "category": "current_student_pdf",
-      "bytes": 293743,
-      "sha256": "6fed04005aa641f3c9b8209562601faf61c58a8326440ec0227fa057c02491ae",
-      "week": "week04",
-      "day": "20"
     }
   ],
   "external_student_practice_links": [
@@ -875,5 +856,11 @@
     "filenames_and_links_stable": true,
     "quizzes_unchanged": true,
     "day09_exam_boundary_unchanged": true
+  },
+  "day20_no_class_boundary_correction": {
+    "date": "2026-07-14",
+    "note": "Day 20 is ceremony-only/no normal bridge class meeting; no Day 20 student packet is released.",
+    "day20_student_packet_released": false,
+    "day19_carries_final_support_transition_work": true
   }
 }

@@ -11,8 +11,9 @@ The current collection includes student-facing learning materials that students 
 - daily workbooklets;
 - Week 1 checkpoint/practice;
 - Day 19 support/transition packet;
-- Day 20 closeout/readiness reflection packet;
 - student guidance, calendar, journey, quick glossary, and competency navigation files.
+
+Day 20 remains visible only as a ceremony/no-normal-bridge-class boundary. No Day 20 student packet is included; use Day 19 or explicit instructor/LMS directions for final support or reflection.
 
 ## Excluded from this repository view
 

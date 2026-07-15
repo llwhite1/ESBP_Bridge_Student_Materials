@@ -67,7 +67,7 @@ Use these when you need to connect bridge routines to ENGR 102 habits and suppor
 
 - Day 18: [Synthesis workbook](week04/day18_synthesis/) — Combine planning, tracing, testing, debugging, and explanation routines.
 - Day 19: [Support and transition](week04/day19_support_transition/) — Identify remaining support needs and build a transfer plan for ENGR 102.
-- Day 20: [Ceremony / readiness reflection](week04/day20_ceremony_no_class_meeting/) — Close the bridge by collecting growth evidence and writing a realistic readiness statement.
+- Day 20: [Ceremony day / no bridge class meeting](week04/day20_ceremony_no_class_meeting/) — No normal bridge class packet is assigned; use Day 19 or explicit instructor/LMS directions for final transition work.
 
 ## Assessment boundaries without public exam files
 

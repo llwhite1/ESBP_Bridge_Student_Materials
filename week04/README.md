@@ -10,7 +10,7 @@ Daily quiz PDFs and exam/assessment PDFs are not part of this current published 
 | 17 | Exam 2 boundary | review habits only; no public exam PDF | [day17_exam2](day17_exam2/) |
 | 18 | Synthesis workbook | plan, trace, test, debug note, explanation | [day18_synthesis](day18_synthesis/) |
 | 19 | Support and transition | support route, next step, study plan | [day19_support_transition](day19_support_transition/) |
-| 20 | Ceremony / readiness reflection | growth evidence, remaining support needs, readiness plan | [day20_ceremony_no_class_meeting](day20_ceremony_no_class_meeting/) |
+| 20 | Ceremony day / no bridge class meeting | no normal bridge class work; use Day 19 support/transition materials | [day20_ceremony_no_class_meeting](day20_ceremony_no_class_meeting/) |
 
 ## Root guidance
 
