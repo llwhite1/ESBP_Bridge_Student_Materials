@@ -1,0 +1,51 @@
+{
+  "version": "07152026_v6_independence_ramp_workbooks_only",
+  "generated": "2026-07-15",
+  "status": "current public student learning collection",
+  "collection_rule": "student learning PDFs only; no quizzes, exams, keys, sources, or build files",
+  "counts": {
+    "current_student_pdf_count": 18,
+    "day10_16_workbook_count": 7,
+    "quiz_pdf_count": 0,
+    "exam_pdf_count": 0,
+    "key_file_count": 0,
+    "tex_file_count": 0
+  },
+  "day10_16_release": [
+    {
+      "path": "week02/day10_recap_input_repetition_launch/DAY10_INDEPENDENCE_RAMP_WORKBOOK_STUDENT_07152026_v2.pdf",
+      "bytes": 270517,
+      "sha256": "f1558cfc8d32013207916118fde0fd2d618461bb3cf96ecbcdd4ffe43883c0a6"
+    },
+    {
+      "path": "week03/day11_while_loops_update_termination/DAY11_INDEPENDENCE_RAMP_WORKBOOK_STUDENT_07152026_v2.pdf",
+      "bytes": 269355,
+      "sha256": "f39aba102a349721352d19a1f8c3ebe921476247de33346110f689f909b69bec"
+    },
+    {
+      "path": "week03/day12_for_loops_range_accumulators/DAY12_INDEPENDENCE_RAMP_WORKBOOK_STUDENT_07152026_v2.pdf",
+      "bytes": 267323,
+      "sha256": "a7f3287ac77bdd0450bf299bfc48bb99e70a4108867e74391ab206f2ed098ead"
+    },
+    {
+      "path": "week03/day13_loop_design_break_continue_nested_tracing/DAY13_INDEPENDENCE_RAMP_WORKBOOK_STUDENT_07152026_v2.pdf",
+      "bytes": 270797,
+      "sha256": "dc90b0336b6c4e92c27907cbe69fb0ea5736e235ff908d8aad51107468c5fd42"
+    },
+    {
+      "path": "week03/day14_lists_indexing_mutation/DAY14_INDEPENDENCE_RAMP_WORKBOOK_STUDENT_07152026_v2.pdf",
+      "bytes": 268703,
+      "sha256": "d43ae31adcdfa09815b3a2d5f15d799d85487a226f5470ce5b96f9fed3a714a6"
+    },
+    {
+      "path": "week03/day15_strings_as_sequences/DAY15_INDEPENDENCE_RAMP_WORKBOOK_STUDENT_07152026_v2.pdf",
+      "bytes": 268514,
+      "sha256": "485bde4ccba8a1ac750f533af1e8944d01319b4ac0f6c8499a133af1aa79cf87"
+    },
+    {
+      "path": "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_INDEPENDENCE_RAMP_WORKBOOK_STUDENT_07152026_v2.pdf",
+      "bytes": 271308,
+      "sha256": "b01652df28ee3e03cb5b531d7a54ba07cf1e30a466b484ff635b1e6f67ad5620"
+    }
+  ]
+}

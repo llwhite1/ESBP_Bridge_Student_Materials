@@ -1,20 +1,18 @@
 # Week 04 Student Materials
 
-Use this page to choose the day folder for the week. Each day folder gives the current student-facing files and the evidence habit to keep.
+Only student workbooks are published for Days 10-16; quizzes and exams remain excluded.
 
-Daily quiz PDFs and exam/assessment PDFs are not part of this current published collection.
+| Day | Current focus | Folder |
+|---:|---|---|
+| 16 | Indexed mutation and independent Exam 2 rehearsal | [day16_indexed_mutation_exam2_rehearsal](day16_indexed_mutation_exam2_rehearsal/) |
+| 17 | Exam 2 boundary | [day17_exam2](day17_exam2/) |
+| 18 | Synthesis workbook | [day18_synthesis](day18_synthesis/) |
+| 19 | Support and transition | [day19_support_transition](day19_support_transition/) |
+| 20 | Ceremony day / no bridge class meeting | [day20_ceremony_no_class_meeting](day20_ceremony_no_class_meeting/) |
 
-| Day | Focus | Evidence habit | Folder |
-|---:|---|---|---|
-| 16 | List mutation and indexed processing bridge | before list, changed index, after list | [day16_list_mutation_indexed_processing](day16_list_mutation_indexed_processing/) |
-| 17 | Exam 2 boundary | review habits only; no public exam PDF | [day17_exam2](day17_exam2/) |
-| 18 | Synthesis workbook | plan, trace, test, debug note, explanation | [day18_synthesis](day18_synthesis/) |
-| 19 | Support and transition | support route, next step, study plan | [day19_support_transition](day19_support_transition/) |
-| 20 | Ceremony day / no bridge class meeting | no normal bridge class work; use Day 19 support/transition materials | [day20_ceremony_no_class_meeting](day20_ceremony_no_class_meeting/) |
-
-## Root guidance
+## Root navigation
 
 - [Start Here for Students](../START_HERE_STUDENTS.md)
-- [Bridge-to-ENGR 102 Journey](../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
-- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md)
-- [Student Learning Collections by Competency](../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md)
+- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Student Learning Collections by Competency](../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
+- [Calendar](../CALENDAR.md)

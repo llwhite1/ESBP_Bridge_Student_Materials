@@ -37,5 +37,5 @@ This builds the ENGR 102 habit of checking edge cases before trusting a rule.
 ## Related collection pages
 
 - [Bridge-to-ENGR 102 Journey](../../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
-- [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07082026_v1.md)
-- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07082026_v1.md)
+- [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
+- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
