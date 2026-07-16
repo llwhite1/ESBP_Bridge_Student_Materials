@@ -1,5 +1,7 @@
 # Student Access Manifest 07082026 v5
 
+> Historical manifest. Superseded by [MANIFEST_STUDENT_ACCESS_07162026_v8.md](MANIFEST_STUDENT_ACCESS_07162026_v8.md).
+
 Version: `07082026_v5_student_learning_collection_no_quizzes_no_exams`
 Generated: `2026-07-08T22:29:27`; Week 2 scaffold refresh: `2026-07-10`; Day 20 no-class boundary correction: `2026-07-14`
 

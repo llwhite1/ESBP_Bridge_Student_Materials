@@ -1,0 +1,207 @@
+{
+  "version": "07162026_v8_consolidated_workbooks_and_notebooks",
+  "status": "current",
+  "workbook_contract_sha256": "c821cfcf71897e21e127c7dc0f91d1c915b28536f0b31e5e4effe3c695ff3417",
+  "notebook_release_set_sha256": "3030d9fe23183d1550ac2d27bf6a417c0557cfecf976e33ad8b85c105db0d898",
+  "student_pdf_count": 18,
+  "aligned_workbook_count": 10,
+  "student_notebook_count": 7,
+  "notebook_activity_count": 32,
+  "quiz_pdf_count": 0,
+  "exam_pdf_count": 0,
+  "instructor_key_count": 0,
+  "tex_source_count": 0,
+  "pdfs": [
+    {
+      "path": "week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf",
+      "sha256": "be27482f4ea4952b02e904bf46b0ded04dfc8bfea1cc599d01f85468feb9441d",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf",
+      "sha256": "c7790edf9b1ced17f533ea58249494489a39931f2b5d3b77aa409c611dbcd6ac",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "sha256": "0e00f5e49ad1e7959133b14e912d8a64f12c1fa23183ab10ad59e2f88eadd513",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "sha256": "78b87befaeb39b53f793122e164902be1522cb621495bb3866c1cce594159a62",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "sha256": "05de793a57bf72e06a737c08602d55714d111b02ed2b0e1dce6ba3fc678f575c",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf",
+      "sha256": "5fc1366dd0c35375b184ed0532b7b4d63feb45bf1fbc92f8c5335653764ee009",
+      "pages": 5,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "3d375fa9e79e91546c81f264aee4cf8e30fd3aa01502e25ee4dfc6ee8349f25d",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "4b7e1dbc2532b8fe978e9c8b4c45217611a4df2d5adac9ccf84decd0955c18b4",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "1b5cc36084bf1781b6ec190778cf2b75cf541af9ef348a1d3b14addbcbada3c6",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "7cc1873edb823c44478a01f3bad6e93b592327feb0aea88b94eb9b06ec077064",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "8afb402ede1bd19621cddecdad18aaec4531887431c67aa7154bc83ee18f1c0e",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "e78c8a2589ad4905c5baccb2604117ca19b4841a8d0a45d6878a3bc199335b1b",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "6bf718dab17f8482144779b0f9d9d0f921a7925995a0140bb4d65fa02f86416a",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "8f32966dec3df2e289d70562e6799a104477f80b4d1b18e2e236fa81727e1941",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "a221076db053241a10f0635bc260df2970a208d7abbfa9961c049a7d9cf5c894",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "sha256": "53ad50d069030634ba7c8d25aea2bea5977136356eeec17b58a3f768ae1d27fa",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
+      "sha256": "a2dee926a7a446dc251a7c010f5e78219890373ec01a80e16049eaf8762f3f55",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
+      "sha256": "bb6ece5e52d051949d1c92ebbf091823514b4a6100ab501b1b30735ed9a898e0",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    }
+  ],
+  "notebooks": [
+    {
+      "lab_day": 1,
+      "path": "notebooks/VIP_Module18_Day01_Output_Formatting_Bridge_Student_07162026_v1.ipynb",
+      "sha256": "4e83ae689b9a57100ca4faf1508dfc7f46e12b34f4fc75657b34a3a4c32d1121",
+      "activity_ids": [
+        "18.1",
+        "18.2"
+      ]
+    },
+    {
+      "lab_day": 2,
+      "path": "notebooks/VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07162026_v1.ipynb",
+      "sha256": "e6bf711710fe54b867a3671b36373376cc1d6de634056d5175f9593b118a6e8b",
+      "activity_ids": [
+        "18.3",
+        "18.4",
+        "18.5",
+        "18.6",
+        "18.7"
+      ]
+    },
+    {
+      "lab_day": 3,
+      "path": "notebooks/VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07162026_v1.ipynb",
+      "sha256": "308f4954317a62538cec0ed6e87d1f0ce397d20afafcacbe441c78df91ebec1a",
+      "activity_ids": [
+        "18.8",
+        "18.9",
+        "18.10",
+        "18.11",
+        "18.12"
+      ]
+    },
+    {
+      "lab_day": 4,
+      "path": "notebooks/VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07162026_v1.ipynb",
+      "sha256": "9df799f92a2081fdedbc00a024a885de2a17a120c66cbf7016565677dbf3799e",
+      "activity_ids": [
+        "18.13",
+        "18.14",
+        "18.15",
+        "18.16",
+        "18.17"
+      ]
+    },
+    {
+      "lab_day": 5,
+      "path": "notebooks/VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07162026_v1.ipynb",
+      "sha256": "65be6859801be72cc2f473c6b1c7a622e8c086574f5e44b2dd392b92619d4296",
+      "activity_ids": [
+        "18.18",
+        "18.19",
+        "18.20",
+        "18.21",
+        "18.22"
+      ]
+    },
+    {
+      "lab_day": 6,
+      "path": "notebooks/VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07162026_v1.ipynb",
+      "sha256": "11e472355bbc3a472c7aba986ef6c42a0c94e0eba48a062c51b310622739ffe7",
+      "activity_ids": [
+        "18.23",
+        "18.24",
+        "18.25",
+        "18.26",
+        "18.27"
+      ]
+    },
+    {
+      "lab_day": 7,
+      "path": "notebooks/VIP_Module18_Day07_Functions_Integration_Bridge_Student_07162026_v1.ipynb",
+      "sha256": "db1d58c955317dee02ee8eba2ef199a8a9d6d195d65949d1dfd132d910588dcc",
+      "activity_ids": [
+        "18.28",
+        "18.29",
+        "18.30",
+        "18.31",
+        "18.32"
+      ]
+    }
+  ]
+}

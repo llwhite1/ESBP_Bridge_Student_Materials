@@ -1,5 +1,7 @@
 # Notebook and Practice Path
 
+> Historical release record. Notebooks are now bundled; use [NOTEBOOKS_AND_PRACTICE_PATH_07162026_v2.md](NOTEBOOKS_AND_PRACTICE_PATH_07162026_v2.md).
+
 This public repository is the printable / document-based learning path for the bridge course.
 
 Notebook practice is not bundled in this public PDF repository. If your instructor assigns notebook practice, use the notebook link or file package they provide separately. Use the PDFs here as the stable public reference for the day-by-day evidence routines.

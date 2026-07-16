@@ -1,5 +1,7 @@
 # Current Student Materials Index
 
+Current coding labs: [VIP Module 18 student notebooks](notebooks/README.md) · [direct notebook downloads](DOWNLOAD_CURRENT_STUDENT_NOTEBOOKS.md).
+
 Version: 07152026 v2
 
 This is the current file picker for student-facing Bridge learning materials. Daily quiz PDFs and exam/assessment PDFs are not part of this published collection.

@@ -1,5 +1,7 @@
 # Student Access Manifest 07152026 v6
 
+> Historical manifest. Superseded by [MANIFEST_STUDENT_ACCESS_07162026_v8.md](MANIFEST_STUDENT_ACCESS_07162026_v8.md).
+
 Version: `07152026_v6_independence_ramp_workbooks_only`
 
 Status: current public student learning collection. This manifest supersedes v5 for active navigation.

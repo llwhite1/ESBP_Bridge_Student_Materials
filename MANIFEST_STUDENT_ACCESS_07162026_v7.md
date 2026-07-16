@@ -1,5 +1,7 @@
 # Student Access Manifest 07162026 v7
 
+> Historical manifest. Superseded by [MANIFEST_STUDENT_ACCESS_07162026_v8.md](MANIFEST_STUDENT_ACCESS_07162026_v8.md).
+
 Version: `07162026_v7_lab_aligned_workbooks`
 
 Status: current public student learning collection. This manifest supersedes v6 for active navigation.

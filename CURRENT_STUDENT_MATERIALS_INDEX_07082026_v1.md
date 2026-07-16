@@ -1,5 +1,7 @@
 # Current Student Materials Index
 
+> Historical release record. Use [CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md](CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md) for current navigation.
+
 Version: 07082026 v1
 
 This is the current file picker for student-facing Bridge learning materials. Daily quiz PDFs and exam/assessment PDFs are not part of this published collection.

@@ -1,5 +1,7 @@
 # Student Collection Scope
 
+> Historical release record. Use [STUDENT_COLLECTION_SCOPE_07162026_v2.md](STUDENT_COLLECTION_SCOPE_07162026_v2.md) for the current consolidated scope.
+
 Version: 07082026 v1
 
 This page explains what is included in the current student learning collection.

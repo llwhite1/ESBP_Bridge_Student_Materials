@@ -1,13 +1,13 @@
 # ESBP Bridge Student Materials
 
-Current July 16 release: Days 6-8 and 10-16 use lab-aligned workbook successors that connect directly to the current VIP notebooks while preserving the independence ramp.
+Current July 16 release: this repository now consolidates the lab-aligned workbooks and the current Day 1-7 VIP notebooks in one student-facing location.
 This repository is the current student learning collection for the ENGR 102 Bridge.
 
 It is organized by the course calendar and includes a student-first navigation layer: start-here guidance, the Bridge-to-ENGR 102 journey, a current materials index, competency collections, and day-folder READMEs that explain how to use each file.
 
 Daily quiz PDFs and exam/assessment PDFs are intentionally excluded from this published collection. Use the course directions you receive in class or in the course platform for quiz and exam delivery/timing.
 
-Days 6-8 and 10-16 include a contract-controlled final-page lab handoff with current activity IDs, stable notebook cells, and the one-`.ipynb` Gradescope procedure.
+Days 6-8 and 10-16 include a contract-controlled final-page lab handoff with current activity IDs, stable notebook cells, and the one-`.ipynb` Gradescope procedure. The matching notebooks are under [`notebooks/`](notebooks/).
 
 ## Start here
 
@@ -15,10 +15,12 @@ Days 6-8 and 10-16 include a contract-controlled final-page lab handoff with cur
 - [Bridge-to-ENGR 102 Journey](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
 - [Current Student Materials Index](CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
 - [Direct PDF Download Page](DOWNLOAD_CURRENT_STUDENT_PDFS.md)
+- [Current VIP Student Notebooks](notebooks/README.md)
+- [Direct Notebook Download Page](DOWNLOAD_CURRENT_STUDENT_NOTEBOOKS.md)
 - [Student Learning Collections by Competency](STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
-- [Notebook and Practice Path](NOTEBOOKS_AND_PRACTICE_PATH_07082026_v1.md)
+- [Notebook and Practice Path](NOTEBOOKS_AND_PRACTICE_PATH_07162026_v2.md)
 - [Quick Glossary](ENGR102_BRIDGE_QUICK_GLOSSARY.md)
-- [Student Collection Scope](STUDENT_COLLECTION_SCOPE_07082026_v1.md)
+- [Student Collection Scope](STUDENT_COLLECTION_SCOPE_07162026_v2.md)
 
 ## Calendar navigation
 
@@ -51,8 +53,8 @@ Unless otherwise noted, this student-facing course-material collection is licens
 
 ## Current manifest
 
-- [Student Access Manifest 07162026 v7](MANIFEST_STUDENT_ACCESS_07162026_v7.md)
-- [Machine-readable manifest JSON](manifest_student_access_07162026_v7.json)
+- [Student Access Manifest 07162026 v8](MANIFEST_STUDENT_ACCESS_07162026_v8.md)
+- [Machine-readable manifest JSON](manifest_student_access_07162026_v8.json)
 
 ## Week folders
 
