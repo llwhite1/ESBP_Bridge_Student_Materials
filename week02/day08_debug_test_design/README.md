@@ -10,11 +10,11 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_DEBUG_TEST_DESIGN_WORKBOOKLET_STUDENT_07012026_v2.pdf) — workbooklet with an unscored visible-check recovery page at the end
+- [DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf) — current lab-aligned student workbook.
 
-## Lab bridge on the final page
+## VIP lab alignment
 
-Keep the function interface and exact output labels fixed. Compare expected and actual results for the incorrectly ordered rules, make one minimal ordering repair, and retain boundary tests at 8, 9, 16, and 17. The final page does not change the 34-point workbooklet score.
+The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16, 18.17, using the current stable notebook cells `18-13-work` / `18-13-transfer`, `18-14-work` / `18-14-transfer`, `18-15-work` / `18-15-transfer`, `18-16-work` / `18-16-transfer`, `18-17-work` / `18-17-transfer`. Complete the two readiness prompts, work in the provided sample and transfer cells, save one completed `.ipynb`, and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 

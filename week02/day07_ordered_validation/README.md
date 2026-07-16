@@ -10,11 +10,11 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_ORDERED_VALIDATION_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet with an unscored VIP 18.8 body-completion page at the end
+- [DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf) — current lab-aligned student workbook.
 
-## Lab bridge on the final page
+## VIP lab alignment
 
-Keep the provided wrapper, parameter names, and output strings fixed. Complete only the ordered decision body, using 8 and 16 as the route boundaries. The final page is practice and does not change the 42-point workbooklet score.
+The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16, 18.17, using the current stable notebook cells `18-13-work` / `18-13-transfer`, `18-14-work` / `18-14-transfer`, `18-15-work` / `18-15-transfer`, `18-16-work` / `18-16-transfer`, `18-17-work` / `18-17-transfer`. Complete the two readiness prompts, work in the provided sample and transfer cells, save one completed `.ipynb`, and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 

@@ -1,13 +1,13 @@
 # ESBP Bridge Student Materials
 
-Current July 15 pivot: Days 10-16 publish only the verified student workbooks. Quizzes, answer keys, and all Exam 1 files remain excluded.
+Current July 16 release: Days 6-8 and 10-16 use lab-aligned workbook successors that connect directly to the current VIP notebooks while preserving the independence ramp.
 This repository is the current student learning collection for the ENGR 102 Bridge.
 
 It is organized by the course calendar and includes a student-first navigation layer: start-here guidance, the Bridge-to-ENGR 102 journey, a current materials index, competency collections, and day-folder READMEs that explain how to use each file.
 
 Daily quiz PDFs and exam/assessment PDFs are intentionally excluded from this published collection. Use the course directions you receive in class or in the course platform for quiz and exam delivery/timing.
 
-Week 2 Days 6, 7, 8, and 10 include one unscored final-page lab bridge that connects the workbooklet evidence routine to the provided VIP Module 18 notebook wrappers and visible checks.
+Days 6-8 and 10-16 include a contract-controlled final-page lab handoff with current activity IDs, stable notebook cells, and the one-`.ipynb` Gradescope procedure.
 
 ## Start here
 
@@ -51,8 +51,8 @@ Unless otherwise noted, this student-facing course-material collection is licens
 
 ## Current manifest
 
-- [Student Access Manifest 07152026 v6](MANIFEST_STUDENT_ACCESS_07152026_v6.md)
-- [Machine-readable manifest JSON](manifest_student_access_07152026_v6.json)
+- [Student Access Manifest 07162026 v7](MANIFEST_STUDENT_ACCESS_07162026_v7.md)
+- [Machine-readable manifest JSON](manifest_student_access_07162026_v7.json)
 
 ## Week folders
 

@@ -1,0 +1,130 @@
+{
+  "version": "07162026_v7_lab_aligned_workbooks",
+  "status": "current",
+  "contract_sha256": "c821cfcf71897e21e127c7dc0f91d1c915b28536f0b31e5e4effe3c695ff3417",
+  "student_pdf_count": 18,
+  "aligned_workbook_count": 10,
+  "quiz_pdf_count": 0,
+  "exam_pdf_count": 0,
+  "instructor_key_count": 0,
+  "aligned_workbooks": [
+    {
+      "bridge_day": 6,
+      "path": "week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 8,
+      "sha256": "3d375fa9e79e91546c81f264aee4cf8e30fd3aa01502e25ee4dfc6ee8349f25d",
+      "activity_ids": [
+        "18.8",
+        "18.9",
+        "18.10",
+        "18.11",
+        "18.12"
+      ]
+    },
+    {
+      "bridge_day": 7,
+      "path": "week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 8,
+      "sha256": "4b7e1dbc2532b8fe978e9c8b4c45217611a4df2d5adac9ccf84decd0955c18b4",
+      "activity_ids": [
+        "18.13",
+        "18.14",
+        "18.15",
+        "18.16",
+        "18.17"
+      ]
+    },
+    {
+      "bridge_day": 8,
+      "path": "week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 8,
+      "sha256": "1b5cc36084bf1781b6ec190778cf2b75cf541af9ef348a1d3b14addbcbada3c6",
+      "activity_ids": [
+        "18.13",
+        "18.14",
+        "18.15",
+        "18.16",
+        "18.17"
+      ]
+    },
+    {
+      "bridge_day": 10,
+      "path": "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 6,
+      "sha256": "7cc1873edb823c44478a01f3bad6e93b592327feb0aea88b94eb9b06ec077064",
+      "activity_ids": [
+        "18.19",
+        "18.21",
+        "18.22"
+      ]
+    },
+    {
+      "bridge_day": 11,
+      "path": "week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 6,
+      "sha256": "8afb402ede1bd19621cddecdad18aaec4531887431c67aa7154bc83ee18f1c0e",
+      "activity_ids": [
+        "18.19",
+        "18.21",
+        "18.22"
+      ]
+    },
+    {
+      "bridge_day": 12,
+      "path": "week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 6,
+      "sha256": "e78c8a2589ad4905c5baccb2604117ca19b4841a8d0a45d6878a3bc199335b1b",
+      "activity_ids": [
+        "18.18",
+        "18.20"
+      ]
+    },
+    {
+      "bridge_day": 13,
+      "path": "week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 6,
+      "sha256": "6bf718dab17f8482144779b0f9d9d0f921a7925995a0140bb4d65fa02f86416a",
+      "activity_ids": [
+        "18.18",
+        "18.19",
+        "18.20",
+        "18.21",
+        "18.22"
+      ]
+    },
+    {
+      "bridge_day": 14,
+      "path": "week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 6,
+      "sha256": "8f32966dec3df2e289d70562e6799a104477f80b4d1b18e2e236fa81727e1941",
+      "activity_ids": [
+        "18.25",
+        "18.26",
+        "18.27"
+      ]
+    },
+    {
+      "bridge_day": 15,
+      "path": "week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 6,
+      "sha256": "a221076db053241a10f0635bc260df2970a208d7abbfa9961c049a7d9cf5c894",
+      "activity_ids": [
+        "18.23",
+        "18.24"
+      ]
+    },
+    {
+      "bridge_day": 16,
+      "path": "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
+      "pages": 6,
+      "sha256": "53ad50d069030634ba7c8d25aea2bea5977136356eeec17b58a3f768ae1d27fa",
+      "activity_ids": [
+        "18.28",
+        "18.29",
+        "18.30",
+        "18.31",
+        "18.32"
+      ]
+    }
+  ]
+}
