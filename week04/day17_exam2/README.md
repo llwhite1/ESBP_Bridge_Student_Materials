@@ -28,7 +28,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 If stuck while reviewing, decide whether the issue is loop tracing, list state, or explanation.
 
-Try to name the kind of evidence you need before asking for help: output, state, type, route, test, loop pass, list state, or support plan.
+Try to name the kind of evidence you need before asking for help: output, state, type, branch decision, test, loop pass, list state, or support plan.
 
 ## How this connects to ENGR 102
 

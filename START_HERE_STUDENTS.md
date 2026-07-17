@@ -34,7 +34,7 @@ Each day folder is organized the same way:
 - start with the day purpose;
 - open the current files;
 - keep the evidence the README names;
-- use the support route if you get stuck;
+- use the support plan if you get stuck;
 - connect the day to the larger ENGR 102 success habit.
 
 ## If you are catching up

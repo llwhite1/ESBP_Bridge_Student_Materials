@@ -1,13 +1,13 @@
 # ESBP Bridge Student Materials
 
-Current July 16 release: this repository now consolidates the lab-aligned workbooks and the current Day 1-7 VIP notebooks in one student-facing location.
+Current July 17 release: Days 6-8, 10-16, and 18 use lab-aligned workbooks with cold checkpoints, continuous pagination, and a clean post-Exam-2 function handoff.
 This repository is the current student learning collection for the ENGR 102 Bridge.
 
 It is organized by the course calendar and includes a student-first navigation layer: start-here guidance, the Bridge-to-ENGR 102 journey, a current materials index, competency collections, and day-folder READMEs that explain how to use each file.
 
 Daily quiz PDFs and exam/assessment PDFs are intentionally excluded from this published collection. Use the course directions you receive in class or in the course platform for quiz and exam delivery/timing.
 
-Days 6-8 and 10-16 include a contract-controlled final-page lab handoff with current activity IDs, stable notebook cells, and the one-`.ipynb` Gradescope procedure. The matching notebooks are under [`notebooks/`](notebooks/).
+Days 6-8, 10-16, and 18 include a contract-controlled final-page lab handoff with current activity IDs, stable sample/transfer/cold cells, and the one-`.ipynb` Gradescope procedure. Day 16 remains Exam 2 loop/list preparation; Day 18 begins the post-exam function handoff. The matching notebooks are under [`notebooks/`](notebooks/).
 
 ## Start here
 
@@ -31,7 +31,7 @@ Days 6-8 and 10-16 include a contract-controlled final-page lab handoff with cur
 | Week 01 | 3 | Wed Jul 8 | Types, casting, and truthiness | [Open day folder](week01/day03_types_casting_truthiness/) |
 | Week 01 | 4 | Thu Jul 9 | Comparisons and boundaries | [Open day folder](week01/day04_comparisons_boundaries/) |
 | Week 01 | 5 | Fri Jul 10 | Boolean combinations + Week 1 checkpoint/closeout practice | [Open day folder](week01/day05_boolean_combinations_and_week1_closeout/) |
-| Week 02 | 6 | Mon Jul 13 | Branch routing | [Open day folder](week02/day06_branch_routing/) |
+| Week 02 | 6 | Mon Jul 13 | Branch outcomes | [Open day folder](week02/day06_branch_routing/) |
 | Week 02 | 7 | Tue Jul 14 | Ordered validation | [Open day folder](week02/day07_ordered_validation/) |
 | Week 02 | 8 | Wed Jul 15 | Debug/test design | [Open day folder](week02/day08_debug_test_design/) |
 | Week 02 | 9 | Thu Jul 16 | Exam 1 boundary | [Open day folder](week02/day09_exam1/) |
@@ -53,8 +53,8 @@ Unless otherwise noted, this student-facing course-material collection is licens
 
 ## Current manifest
 
-- [Student Access Manifest 07162026 v8](MANIFEST_STUDENT_ACCESS_07162026_v8.md)
-- [Machine-readable manifest JSON](manifest_student_access_07162026_v8.json)
+- [Student Access Manifest 07172026 v9](MANIFEST_STUDENT_ACCESS_07172026_v9.md)
+- [Machine-readable manifest JSON](manifest_student_access_07172026_v9.json)
 
 ## Week folders
 

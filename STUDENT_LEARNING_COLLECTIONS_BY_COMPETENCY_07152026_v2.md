@@ -29,11 +29,11 @@ Use these when code behavior depends on value kind, Boolean logic, or a cutoff.
 - Day 4: [Comparisons and boundaries](week01/day04_comparisons_boundaries/) — Reason about exact thresholds, boundary cases, and comparison outcomes.
 - Day 5: [Boolean combinations + Week 1 checkpoint/closeout practice](week01/day05_boolean_combinations_and_week1_closeout/) — Combine several true/false conditions and use the checkpoint as a low-stakes readiness check.
 
-## Branch routing and validation
+## Branch outcomes and validation
 
-Use these when code chooses one route from several possible routes.
+Use these when code selects one branch from several possible branches.
 
-- Day 6: [Branch routing](week02/day06_branch_routing/) — Identify which route runs and explain why that route was selected.
+- Day 6: [Branch outcomes](week02/day06_branch_routing/) — Identify which branch outcome occurs and justify it from condition evidence.
 - Day 7: [Ordered validation](week02/day07_ordered_validation/) — Preserve rule order and reject invalid evidence safely.
 - Day 10: [Lectures 1-5 recap, direct input, and repetition launch](week02/day10_recap_input_repetition_launch/) — Connect input, state, Boolean decisions, and testing to a first complete while-loop program.
 

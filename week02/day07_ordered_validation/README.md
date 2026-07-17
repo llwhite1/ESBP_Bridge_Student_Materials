@@ -10,16 +10,16 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf) — current lab-aligned student workbook.
+- [DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf) — current lab-aligned student workbook.
 
 ## VIP lab alignment
 
-The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16, 18.17, using the current stable notebook cells `18-13-work` / `18-13-transfer`, `18-14-work` / `18-14-transfer`, `18-15-work` / `18-15-transfer`, `18-16-work` / `18-16-transfer`, `18-17-work` / `18-17-transfer`. Complete the two readiness prompts, work in the provided sample and transfer cells, save one completed `.ipynb`, and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
+The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16, 18.17, using the current stable notebook cells `18-13-work` / `18-13-transfer`, `18-14-work` / `18-14-transfer`, `18-15-work` / `18-15-transfer`, `18-16-work` / `18-16-transfer`, `18-17-work` / `18-17-transfer`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the cold checkpoint without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 
 - Focus: Ordered validation.
-- Main evidence to keep: validation order, rejected cases, accepted route.
+- Main evidence to keep: validation order, rejected cases, accepted branch.
 - Why it matters: Preserve rule order and reject invalid evidence safely.
 
 ## Before class / during class / after class
@@ -32,7 +32,7 @@ The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16,
 
 If stuck, trace the same case through the first two rules only.
 
-Try to name the kind of evidence you need before asking for help: output, state, type, route, test, loop pass, list state, or support plan.
+Try to name the kind of evidence you need before asking for help: output, state, type, branch decision, test, loop pass, list state, or support plan.
 
 ## How this connects to ENGR 102
 

@@ -1,0 +1,239 @@
+{
+  "version": "07172026_v9_cold_checkpoint_workbooks_and_notebooks",
+  "status": "current_student_release",
+  "workbook_contract_sha256": "7cc3f8d502f3f24d33b21db754c2df17937fe43e46a3b5f6863e971a22439147",
+  "notebook_release_set_sha256": "031193db22730862cd3fd1828e5d778c4c0afa11accbc3f1d295cdfca817b39a",
+  "student_pdf_count": 18,
+  "aligned_workbook_count": 11,
+  "student_notebook_count": 7,
+  "notebook_activity_count": 32,
+  "quiz_pdf_count": 0,
+  "exam_pdf_count": 0,
+  "instructor_key_count": 0,
+  "tex_source_count": 0,
+  "pdfs": [
+    {
+      "path": "week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf",
+      "sha256": "be27482f4ea4952b02e904bf46b0ded04dfc8bfea1cc599d01f85468feb9441d",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf",
+      "sha256": "c7790edf9b1ced17f533ea58249494489a39931f2b5d3b77aa409c611dbcd6ac",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "sha256": "0e00f5e49ad1e7959133b14e912d8a64f12c1fa23183ab10ad59e2f88eadd513",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "sha256": "78b87befaeb39b53f793122e164902be1522cb621495bb3866c1cce594159a62",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf",
+      "sha256": "05de793a57bf72e06a737c08602d55714d111b02ed2b0e1dce6ba3fc678f575c",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf",
+      "sha256": "5fc1366dd0c35375b184ed0532b7b4d63feb45bf1fbc92f8c5335653764ee009",
+      "pages": 5,
+      "lab_aligned_workbook": false
+    },
+    {
+      "path": "week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "f996a21639bf5ecc4f3eb1d9bb07f684c5dfd621458371b8a3b879ff6c1650b5",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "4abc0368ec6de04eff0630060b1271a1017b7467de8c8c016032f3ef9fc2269a",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "c77b7b65a8dce50d27ac683c3159384c9c29c3d7735e37f1c0da80db97305c66",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "ac9ecb61c516d1d9928cacdb5b3fa61bf684c8ee30d88824d1e23d17c1c3fec8",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "bdec9f8ce1c73eee5c2911fce9b9ac9f9628b8243d521d6b935c91bdf2aa9c26",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "92a67a6e0e84c538d4c8a69533f4e5f91440d2ead9002ff9b7bccf73294df0e5",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "fe78e827a7bbcb3c2c7eee2352288b88a1dd54c78ac319098fb6bed9c070a7fd",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "51e22988fd36f9117c756fd9d8232fcf4d030b690ef2f16a89d202e6a6b8f081",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "632a0de91138f1167bfeb52c7dc249774fd6b94eba71951e0a419d4520aad22b",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "80b90e8075dbf3c4adc61e9b1eb9b7a7dcb554eca04fee13620dd3f237e83639",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "f7786174d52dc437e045715fa6b1746b7e43f6960729a243b0b8f80c3537c5ec",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
+      "sha256": "bb6ece5e52d051949d1c92ebbf091823514b4a6100ab501b1b30735ed9a898e0",
+      "pages": 7,
+      "lab_aligned_workbook": false
+    }
+  ],
+  "notebooks": [
+    {
+      "lab_day": 1,
+      "path": "notebooks/VIP_Module18_Day01_Output_Formatting_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "c4bba78416f6c6b4e50a725710276b319c7bde45ade6af962aed0b939f215778",
+      "activity_ids": [
+        "18.1",
+        "18.2"
+      ],
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 2,
+      "path": "notebooks/VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "78130708d123e148ab0f486bcc483c5e517a423f280f478bba6c7b8c96859087",
+      "activity_ids": [
+        "18.3",
+        "18.4",
+        "18.5",
+        "18.6",
+        "18.7"
+      ],
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 3,
+      "path": "notebooks/VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "d8a22ed34fa279cb2ef5f4984d480b021c886bce474d3077367246e115e700b5",
+      "activity_ids": [
+        "18.8",
+        "18.9",
+        "18.10",
+        "18.11",
+        "18.12"
+      ],
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 4,
+      "path": "notebooks/VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "1ab3763fd71c4c486f3716a1cfc42ac5476d3a7b6f015533ed750616c7db7851",
+      "activity_ids": [
+        "18.13",
+        "18.14",
+        "18.15",
+        "18.16",
+        "18.17"
+      ],
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 5,
+      "path": "notebooks/VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "35f83f88cad1dccb17d90f8b275364ddda78007ff1b29b9baf009618d8ba9aed",
+      "activity_ids": [
+        "18.18",
+        "18.19",
+        "18.20",
+        "18.21",
+        "18.22"
+      ],
+      "cold_cell_ids": [
+        "18-18-cold",
+        "18-19-cold",
+        "18-20-cold",
+        "18-21-cold",
+        "18-22-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 6,
+      "path": "notebooks/VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "a892a10402f57cbb4e904bccb13884d58d3fe1d17e698d4f5414814bfebd49ee",
+      "activity_ids": [
+        "18.23",
+        "18.24",
+        "18.25",
+        "18.26",
+        "18.27"
+      ],
+      "cold_cell_ids": [
+        "18-23-cold",
+        "18-24-cold",
+        "18-25-cold",
+        "18-26-cold",
+        "18-27-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 7,
+      "path": "notebooks/VIP_Module18_Day07_Functions_Integration_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "900182b7928816d29d6f844345058223a2f7272ece299e6a48093e39bf064c63",
+      "activity_ids": [
+        "18.28",
+        "18.29",
+        "18.30",
+        "18.31",
+        "18.32"
+      ],
+      "cold_cell_ids": [
+        "18-28-cold",
+        "18-29-cold",
+        "18-30-cold",
+        "18-31-cold",
+        "18-32-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    }
+  ]
+}

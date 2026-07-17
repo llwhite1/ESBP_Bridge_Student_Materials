@@ -17,8 +17,8 @@ Publish only current student-facing workbooks, support PDFs, and clean notebook 
 
 ## Counts
 
-- Current student PDFs: 18
-- Current lab-aligned workbooks: 10
+- Current student PDFs: 29
+- Current lab-aligned workbooks: 21
 - Current student notebooks: 7
 - Notebook activities: 32
 - Quiz PDFs: 0

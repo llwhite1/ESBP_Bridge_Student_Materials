@@ -11,7 +11,7 @@ Daily quiz PDFs and exam/assessment PDFs are not part of this current published 
 | Week 01 | 3 | Wed Jul 8 | Types, casting, and truthiness | [Open day folder](week01/day03_types_casting_truthiness/) |
 | Week 01 | 4 | Thu Jul 9 | Comparisons and boundaries | [Open day folder](week01/day04_comparisons_boundaries/) |
 | Week 01 | 5 | Fri Jul 10 | Boolean combinations + Week 1 checkpoint/closeout practice | [Open day folder](week01/day05_boolean_combinations_and_week1_closeout/) |
-| Week 02 | 6 | Mon Jul 13 | Branch routing | [Open day folder](week02/day06_branch_routing/) |
+| Week 02 | 6 | Mon Jul 13 | Branch outcomes | [Open day folder](week02/day06_branch_routing/) |
 | Week 02 | 7 | Tue Jul 14 | Ordered validation | [Open day folder](week02/day07_ordered_validation/) |
 | Week 02 | 8 | Wed Jul 15 | Debug/test design | [Open day folder](week02/day08_debug_test_design/) |
 | Week 02 | 9 | Thu Jul 16 | Exam 1 boundary | [Open day folder](week02/day09_exam1/) |

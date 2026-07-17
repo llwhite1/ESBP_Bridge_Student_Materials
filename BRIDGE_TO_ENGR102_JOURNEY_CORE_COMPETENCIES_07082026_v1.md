@@ -85,13 +85,13 @@ Before doing math, ask: is this value already numeric, or is it text that must b
 
 ---
 
-### 4. Decisions and boundaries: which route should the code take?
+### 4. Decisions and boundaries: which branch should the code select?
 
 Bridge days: Days 4–8
 
 Core question:
 
-> What condition decides the route, and what evidence supports that decision?
+> What condition selects the branch, and what evidence supports that decision?
 
 Engineering decisions often depend on thresholds: safe/unsafe, pass/fail, ready/hold, within/outside a boundary. Python uses comparisons, Boolean logic, and conditionals to make these decisions explicit.
 
@@ -99,11 +99,11 @@ ENGR 102 competency this supports:
 
 - Use comparisons, Boolean logic, boundary cases, and test cases.
 - Use conditionals to implement simple decision procedures.
-- Debug expected-versus-actual behavior when the code takes the wrong route.
+- Debug expected-versus-actual behavior when the code takes the incorrect branch.
 
 Semester success move:
 
-For each decision, name the condition, test the boundary case, and write down the route the code should take. If the actual route is different, do not just change code randomly; compare expected evidence to actual evidence.
+For each decision, name the condition, test the boundary case, and write down the branch the code should select. If the actual branch is different, do not just change code randomly; compare expected evidence to actual evidence.
 
 ---
 
@@ -115,7 +115,7 @@ Core question:
 
 > What repeats, what changes each time, and when does the process stop?
 
-Loops are where many students lose track of state. A loop is not just “doing something many times.” It is a repeated process with changing evidence: counters, accumulators, route decisions, stopping conditions, and sometimes skipped or early-ended steps.
+Loops are where many students lose track of state. A loop is not just “doing something many times.” It is a repeated process with changing evidence: counters, accumulators, branch decisions, stopping conditions, and sometimes skipped or early-ended steps.
 
 ENGR 102 competency this supports:
 
@@ -159,7 +159,7 @@ Core question:
 
 > Can I use evidence to move from confusion to a defensible next step?
 
-By the end of the bridge, the main target is not one isolated Python trick. The target is a full engineering-computation habit: plan the task, trace the code, test a boundary, debug a mismatch, explain what the evidence supports, and choose a support route when you get stuck.
+By the end of the bridge, the main target is not one isolated Python trick. The target is a full engineering-computation habit: plan the task, trace the code, test a boundary, debug a mismatch, explain what the evidence supports, and choose a support plan when you get stuck.
 
 ENGR 102 competency this supports:
 
@@ -180,12 +180,12 @@ When a semester assignment feels large, do not start by asking “What is the wh
 | Evidence before answer | Use visible output, traces, and tests to support claims | Day 1 and all later days | ENGR 102 expects you to justify what your code does, not only submit code |
 | State tracking | Know what value each variable currently stores | Day 2 and all trace/debug work | Most programming errors come from losing track of updates |
 | Type awareness | Know whether a value is text, number, Boolean, or list data | Day 3 and later calculations | Input, calculations, comparisons, and plots all depend on type |
-| Boundary decisions | Test the exact edge between routes | Days 4–8 | Engineering decisions often depend on thresholds and constraints |
+| Boundary decisions | Test the exact edge between branch outcomes | Days 4–8 | Engineering decisions often depend on thresholds and constraints |
 | Debugging with evidence | Compare expected behavior to actual behavior | Day 8 and all later repair work | Debugging is a normal engineering practice, not a sign of failure |
 | Loop tracing | Track repeated updates over time | Days 10–14 | Semester problems often require repeated calculations or repeated checks |
 | List reasoning | Read, index, and update collections of data | Days 15–16 | Engineering data usually arrives in batches, not one value at a time |
 | Decomposition | Break a large task into smaller inspectable steps | Days 18–19 | Larger assignments require planning, not one-step guessing |
-| Communication and support | Explain evidence and choose a next support route | Every day, especially Days 18–19 | ENGR 102 success includes explaining, documenting, and asking productive questions |
+| Communication and support | Explain evidence and choose a next support plan | Every day, especially Days 18–19 | ENGR 102 success includes explaining, documenting, and asking productive questions |
 
 ---
 
@@ -203,6 +203,6 @@ By the end of the bridge, you should be able to say:
 - I can explain how a list changes when code mutates it.
 - I can use expected-versus-actual evidence to debug.
 - I can write a short explanation of what my code proves.
-- I can choose a support route when I know what evidence I am missing.
+- I can choose a support plan when I know what evidence I am missing.
 
 That is the bridge-to-ENGR 102 journey: from “I hope this code works” to “I can show what this code does, why it does it, and what evidence I need next.”

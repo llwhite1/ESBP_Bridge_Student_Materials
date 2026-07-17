@@ -15,7 +15,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 ## What you are learning today
 
 - Focus: Support and transition.
-- Main evidence to keep: support route, next step, study plan.
+- Main evidence to keep: support plan, next step, study plan.
 - Why it matters: Identify remaining support needs and build a transfer plan for ENGR 102.
 
 ## Before class / during class / after class
@@ -28,7 +28,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 If stuck, name the type of help needed rather than saying “I do not get it.”
 
-Try to name the kind of evidence you need before asking for help: output, state, type, route, test, loop pass, list state, or support plan.
+Try to name the kind of evidence you need before asking for help: output, state, type, branch decision, test, loop pass, list state, or support plan.
 
 ## How this connects to ENGR 102
 

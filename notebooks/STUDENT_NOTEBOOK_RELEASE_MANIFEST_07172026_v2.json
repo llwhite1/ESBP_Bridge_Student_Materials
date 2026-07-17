@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "release_version": "07172026_v2",
+  "status": "PASS",
+  "source_repository": "SEAS_VIP_Second_Iteration",
+  "source_contract_sha256": "7cc3f8d502f3f24d33b21db754c2df17937fe43e46a3b5f6863e971a22439147",
+  "notebook_count": 7,
+  "activity_count": 32,
+  "submission_type": "single_ipynb",
+  "days_5_to_7_scoring": "cold_checkpoint_cells_only",
+  "records": [
+    {
+      "lab_day": 1,
+      "title": "Output and Exact Formatting",
+      "filename": "VIP_Module18_Day01_Output_Formatting_Bridge_Student_07172026_v2.ipynb",
+      "path": "notebooks/VIP_Module18_Day01_Output_Formatting_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "c4bba78416f6c6b4e50a725710276b319c7bde45ade6af962aed0b939f215778",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day01_Output_Formatting_Novice_Draft_07142026_v1.ipynb",
+      "source_sha256": "c7f3ce21249d5fbd6a40cae87f91284f5c9f7ccf1fcf83752de3a02b478da6c1",
+      "activity_ids": [
+        "18.1",
+        "18.2"
+      ],
+      "activity_count": 2,
+      "code_cell_count": 4,
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 2,
+      "title": "Variables, Arithmetic, and Math Functions",
+      "filename": "VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07172026_v2.ipynb",
+      "path": "notebooks/VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "78130708d123e148ab0f486bcc483c5e517a423f280f478bba6c7b8c96859087",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day02_Variables_Arithmetic_Math_Novice_Draft_07142026_v1.ipynb",
+      "source_sha256": "51049096f44f4294cec341de8e7c8f2aa154a73317e39322f706fbc8058e7b8e",
+      "activity_ids": [
+        "18.3",
+        "18.4",
+        "18.5",
+        "18.6",
+        "18.7"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 10,
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 3,
+      "title": "Calculations, Summaries, and Structured Output",
+      "filename": "VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07172026_v2.ipynb",
+      "path": "notebooks/VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "d8a22ed34fa279cb2ef5f4984d480b021c886bce474d3077367246e115e700b5",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day03_Calculations_Summaries_Output_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "4f99874af9bf94b1a067191802d51db6c39f77fc8ad4dda59defbc4c5c77ac96",
+      "activity_ids": [
+        "18.8",
+        "18.9",
+        "18.10",
+        "18.11",
+        "18.12"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 10,
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 4,
+      "title": "Decisions, Comparisons, and Branching",
+      "filename": "VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07172026_v2.ipynb",
+      "path": "notebooks/VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "1ab3763fd71c4c486f3716a1cfc42ac5476d3a7b6f015533ed750616c7db7851",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day04_Decisions_Branching_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "c5e7c3a4205ef31191eaf33d93341953248b81a0f6afc82dc77aaf03db3a9c3d",
+      "activity_ids": [
+        "18.13",
+        "18.14",
+        "18.15",
+        "18.16",
+        "18.17"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 10,
+      "cold_cell_ids": [],
+      "scoring_model": "formative_cells"
+    },
+    {
+      "lab_day": 5,
+      "title": "Loops and Repeated Reasoning",
+      "filename": "VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07172026_v2.ipynb",
+      "path": "notebooks/VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "35f83f88cad1dccb17d90f8b275364ddda78007ff1b29b9baf009618d8ba9aed",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day05_Loops_Repeated_Reasoning_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "12455bf1b4fe318014981fdfd2f94b498886c6aaf9ec8e36a0e1895707ce5c48",
+      "activity_ids": [
+        "18.18",
+        "18.19",
+        "18.20",
+        "18.21",
+        "18.22"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 15,
+      "cold_cell_ids": [
+        "18-18-cold",
+        "18-19-cold",
+        "18-20-cold",
+        "18-21-cold",
+        "18-22-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 6,
+      "title": "Strings, Lists, and Filtering",
+      "filename": "VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07172026_v2.ipynb",
+      "path": "notebooks/VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "a892a10402f57cbb4e904bccb13884d58d3fe1d17e698d4f5414814bfebd49ee",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day06_Strings_Lists_Filtering_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "f59ee71f0da7d879aa34bc56939a00061b90d952f52d74c9d383be5344b6c713",
+      "activity_ids": [
+        "18.23",
+        "18.24",
+        "18.25",
+        "18.26",
+        "18.27"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 15,
+      "cold_cell_ids": [
+        "18-23-cold",
+        "18-24-cold",
+        "18-25-cold",
+        "18-26-cold",
+        "18-27-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 7,
+      "title": "Functions and Integration Checks",
+      "filename": "VIP_Module18_Day07_Functions_Integration_Bridge_Student_07172026_v2.ipynb",
+      "path": "notebooks/VIP_Module18_Day07_Functions_Integration_Bridge_Student_07172026_v2.ipynb",
+      "sha256": "900182b7928816d29d6f844345058223a2f7272ece299e6a48093e39bf064c63",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day07_Functions_Integration_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "2238dbbbbb7d04fe2c10c179e05ca4c016a542897009de1193588fa43d87fe63",
+      "activity_ids": [
+        "18.28",
+        "18.29",
+        "18.30",
+        "18.31",
+        "18.32"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 15,
+      "cold_cell_ids": [
+        "18-28-cold",
+        "18-29-cold",
+        "18-30-cold",
+        "18-31-cold",
+        "18-32-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    }
+  ],
+  "failures": [],
+  "release_set_sha256": "031193db22730862cd3fd1828e5d778c4c0afa11accbc3f1d295cdfca817b39a"
+}

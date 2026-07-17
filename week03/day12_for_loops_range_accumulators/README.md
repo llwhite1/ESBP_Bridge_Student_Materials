@@ -2,17 +2,17 @@
 
 Date: Tue Jul 21
 
-Status: current lab-aligned workbook release, `07162026_v1`.
+Status: current lab-aligned workbook release, `07172026_v2`.
 
 ## Current student-facing file
 
-- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf) — current lab-aligned student workbook.
+- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf) — current lab-aligned student workbook.
 
 Only the workbook is published here. Daily quizzes, instructor keys, Exam 1, and Exam 2 are not part of this public learning collection.
 
 ## VIP lab alignment
 
-The final page supports VIP Lab Day(s) 5, Activities 18.18, 18.20, using the current stable notebook cells `18-18-work` / `18-18-transfer`, `18-20-work` / `18-20-transfer`. Complete the two readiness prompts, work in the provided sample and transfer cells, save one completed `.ipynb`, and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
+The final page supports VIP Lab Day(s) 5, Activities 18.18, 18.20, using the current stable notebook cells `18-18-work` / `18-18-transfer` / `18-18-cold`, `18-20-work` / `18-20-transfer` / `18-20-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the cold checkpoint without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning
 

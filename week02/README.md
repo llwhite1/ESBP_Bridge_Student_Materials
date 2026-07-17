@@ -4,7 +4,7 @@ Only student workbooks are published for Days 10-16; quizzes and exams remain ex
 
 | Day | Current focus | Folder |
 |---:|---|---|
-| 6 | Branch routing | [day06_branch_routing](day06_branch_routing/) |
+| 6 | Branch outcomes | [day06_branch_routing](day06_branch_routing/) |
 | 7 | Ordered validation | [day07_ordered_validation](day07_ordered_validation/) |
 | 8 | Debug/test design | [day08_debug_test_design](day08_debug_test_design/) |
 | 9 | Exam 1 boundary | [day09_exam1](day09_exam1/) |

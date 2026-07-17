@@ -18,4 +18,4 @@ Notebook practice is not bundled in this public PDF repository. If your instruct
 1. Open the day folder in this repository.
 2. Complete or review the workbooklet/support packet for the day.
 3. Use notebook practice only after you can say what evidence the workbooklet was asking you to keep.
-4. If notebook work gets confusing, return to the day folder and name the evidence habit: output, state, type, route, test, loop, list, or support plan.
+4. If notebook work gets confusing, return to the day folder and name the evidence habit: output, state, type, branch decision, test, loop, list, or support plan.

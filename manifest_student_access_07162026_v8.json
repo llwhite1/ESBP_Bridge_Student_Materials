@@ -3,8 +3,8 @@
   "status": "current",
   "workbook_contract_sha256": "c821cfcf71897e21e127c7dc0f91d1c915b28536f0b31e5e4effe3c695ff3417",
   "notebook_release_set_sha256": "3030d9fe23183d1550ac2d27bf6a417c0557cfecf976e33ad8b85c105db0d898",
-  "student_pdf_count": 18,
-  "aligned_workbook_count": 10,
+  "student_pdf_count": 29,
+  "aligned_workbook_count": 21,
   "student_notebook_count": 7,
   "notebook_activity_count": 32,
   "quiz_pdf_count": 0,
@@ -55,8 +55,20 @@
       "lab_aligned_workbook": true
     },
     {
+      "path": "week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "882a615152298f5a8a46c5893c0346a5e321037c0f08bb7a97e600c6c51946ef",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
       "path": "week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
       "sha256": "4b7e1dbc2532b8fe978e9c8b4c45217611a4df2d5adac9ccf84decd0955c18b4",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "4785f80be9bfaa019f63d3e2e9c996fb5e580c73fc419cc765e7b923215f89a9",
       "pages": 8,
       "lab_aligned_workbook": true
     },
@@ -67,8 +79,20 @@
       "lab_aligned_workbook": true
     },
     {
+      "path": "week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "d49e334e4dfbe7261d0065562d34d96b14c3c1aac0ec2eb1b1942ac34d2fc87f",
+      "pages": 8,
+      "lab_aligned_workbook": true
+    },
+    {
       "path": "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
       "sha256": "7cc1873edb823c44478a01f3bad6e93b592327feb0aea88b94eb9b06ec077064",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "8b9b80ebc555ef9f89a0b923bbaa0fb01cb2ef9b235cf833fd7032c3a752e078",
       "pages": 6,
       "lab_aligned_workbook": true
     },
@@ -79,8 +103,20 @@
       "lab_aligned_workbook": true
     },
     {
+      "path": "week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "b02fcab7e355633ae46523967246bd36f4716787887dd9a25dfcf8745d032f98",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
       "path": "week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
       "sha256": "e78c8a2589ad4905c5baccb2604117ca19b4841a8d0a45d6878a3bc199335b1b",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "6117d760b54092f6bf8cc05c0d9de89708e61df6198dc2276370be4c0a20af45",
       "pages": 6,
       "lab_aligned_workbook": true
     },
@@ -91,8 +127,20 @@
       "lab_aligned_workbook": true
     },
     {
+      "path": "week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "3b46cffccdb65194ef62c4728ad7dec8562adae83c11128698719be0b94cf173",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
       "path": "week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
       "sha256": "8f32966dec3df2e289d70562e6799a104477f80b4d1b18e2e236fa81727e1941",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "4da57be127e4276acb81f198f3c4f43ac561a13c472c95dc99d137c736196dd5",
       "pages": 6,
       "lab_aligned_workbook": true
     },
@@ -103,9 +151,27 @@
       "lab_aligned_workbook": true
     },
     {
+      "path": "week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "c0c1615c485fb68bd50c5065cf4d5e6faaadc9ed00f0f636c702d036c5cb8ca5",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
       "path": "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07162026_v1.pdf",
       "sha256": "53ad50d069030634ba7c8d25aea2bea5977136356eeec17b58a3f768ae1d27fa",
       "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "465f38a6fff66a9104e8d95f1ba84e7ff6c5ed6190db6adc748b02ed545d9e82",
+      "pages": 6,
+      "lab_aligned_workbook": true
+    },
+    {
+      "path": "week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf",
+      "sha256": "b917fd3c4d6423adfa8b380e5628655090178b5c7761af61b89a637cf0c7064d",
+      "pages": 8,
       "lab_aligned_workbook": true
     },
     {

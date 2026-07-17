@@ -10,7 +10,11 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current student-facing files
 
-- [DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day18_synthesis/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf) — workbooklet
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf) — current lab-aligned student workbook.
+
+## VIP lab alignment
+
+The final page supports VIP Lab Day(s) 7, Activities 18.28, 18.29, 18.30, 18.31, 18.32, using the current stable notebook cells `18-28-work` / `18-28-transfer` / `18-28-cold`, `18-29-work` / `18-29-transfer` / `18-29-cold`, `18-30-work` / `18-30-transfer` / `18-30-cold`, `18-31-work` / `18-31-transfer` / `18-31-cold`, `18-32-work` / `18-32-transfer` / `18-32-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the cold checkpoint without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 
@@ -28,7 +32,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 If stuck, choose one routine: plan, trace, test, debug, or explain.
 
-Try to name the kind of evidence you need before asking for help: output, state, type, route, test, loop pass, list state, or support plan.
+Try to name the kind of evidence you need before asking for help: output, state, type, branch decision, test, loop pass, list state, or support plan.
 
 ## How this connects to ENGR 102
 
