@@ -2,7 +2,7 @@
 
 Start with [Start Here for Students](START_HERE_STUDENTS.md) and the [Bridge-to-ENGR 102 Journey](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md). Then open the day folder for the class day you need.
 
-Daily quiz PDFs and exam/assessment PDFs are not part of this current published collection.
+Released daily quiz PDFs are added after their scheduled time; Exam 1 and Exam 2 files and keys remain instructor-controlled.
 
 | Week | Day | Date | Focus | Student path |
 |---|---:|---|---|---|

@@ -11,7 +11,7 @@ from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "manifest_student_access.json"
-NOTEBOOK_MANIFEST = ROOT / "notebooks/STUDENT_NOTEBOOK_RELEASE_MANIFEST_07192026_v4.json"
+NOTEBOOK_MANIFEST = ROOT / "notebooks/STUDENT_NOTEBOOK_RELEASE_MANIFEST_07202026_v5.json"
 SCHEDULE = ROOT / "release_schedule/bridge_student_release_schedule_20260720_20260728.json"
 LEDGER = ROOT / "release_schedule/release_ledger.json"
 JSON_REPORT = ROOT / "REPOSITORY_HYGIENE.json"
@@ -104,10 +104,10 @@ def validate() -> dict:
             failures.append(f"Could not resolve completed Day {day} directory")
             continue
         required = {
-            f"DAY{day:02d}_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf",
-            f"DAY{day:02d}_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
-            f"DAY{day:02d}_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
-            f"DAY{day:02d}_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+            f"DAY{day:02d}_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
+            f"DAY{day:02d}_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+            f"DAY{day:02d}_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+            f"DAY{day:02d}_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
         }
         missing = sorted(name for name in required if not (day_dirs[0] / name).is_file())
         if missing:
@@ -116,7 +116,7 @@ def validate() -> dict:
     active_markdown = [
         ROOT / "README.md",
         ROOT / "START_HERE_STUDENTS.md",
-        ROOT / "CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md",
+        ROOT / "CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md",
         ROOT / "DOWNLOAD_CURRENT_STUDENT_PDFS.md",
         ROOT / "DOWNLOAD_CURRENT_STUDENT_NOTEBOOKS.md",
         ROOT / "notebooks/README.md",

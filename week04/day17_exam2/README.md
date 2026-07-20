@@ -38,7 +38,7 @@ This checks transfer from repeated-work practice into assessment conditions.
 
 - [Bridge-to-ENGR 102 Journey](../../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
 - [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
-- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
 
 ## Exam 2 boundary
 

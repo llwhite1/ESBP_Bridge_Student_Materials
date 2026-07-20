@@ -3,8 +3,8 @@
 This is the authoritative public status for delayed workbook-key and quiz-package releases.
 Times are America/Chicago (Central Time). Exam 1 and Exam 2 files and keys are not part of this schedule.
 
-Days 1-8 workbook keys, student quizzes, and quiz keys are already available in their current day folders.
-Legacy versions and their available keys are under the [archive](../archive/README.md).
+Days 1-8 v5 workbook keys, student quizzes, and quiz keys are already available in their current day folders.
+The schedule below releases current v5 files; matching v4 keys are retained only in the [archive](../archive/README.md) for work completed before the correction.
 
 | Class day | Release | Date | Time | Status |
 |---|---|---|---:|---|

@@ -2,7 +2,7 @@
 
 Use this page to choose the day folder for the week. Each day folder gives the current student-facing files and the evidence habit to keep.
 
-Daily quiz PDFs and exam/assessment PDFs are not part of this current published collection.
+Released daily quiz PDFs are added after their scheduled time; Exam 1 and Exam 2 files and keys remain instructor-controlled.
 
 | Day | Focus | Evidence habit | Folder |
 |---:|---|---|---|
@@ -16,5 +16,5 @@ Daily quiz PDFs and exam/assessment PDFs are not part of this current published 
 
 - [Start Here for Students](../START_HERE_STUDENTS.md)
 - [Bridge-to-ENGR 102 Journey](../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
-- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
 - [Student Learning Collections by Competency](../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)

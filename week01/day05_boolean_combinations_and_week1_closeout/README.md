@@ -4,19 +4,19 @@ Date: Fri Jul 10
 
 ## Current day materials
 
-- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
-- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
-- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
-- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
+- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf) — released blue-answer workbook key.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf) — released student quiz.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf) — released blue-answer quiz key with explanations.
 
 Earlier Day 5 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day05/).
 
 ## Current day materials
 
-- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
-- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
-- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
-- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
+- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf) — released blue-answer workbook key.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf) — released student quiz.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf) — released blue-answer quiz key with explanations.
 
 Earlier Day 5 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day05/).
 
@@ -28,10 +28,10 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current day materials
 
-- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
-- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
-- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
-- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
+- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf) — released blue-answer workbook key.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf) — released student quiz.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf) — released blue-answer quiz key with explanations.
 
 Earlier Day 5 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day05/).
 
@@ -65,7 +65,7 @@ This closes Week 1 by turning separate evidence habits into a readiness routine.
 
 - [Bridge-to-ENGR 102 Journey](../../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
 - [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
-- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
 
 ## Checkpoint/practice note
 

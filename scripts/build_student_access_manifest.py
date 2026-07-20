@@ -10,7 +10,7 @@ import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-NOTEBOOK_MANIFEST = ROOT / "notebooks/STUDENT_NOTEBOOK_RELEASE_MANIFEST_07192026_v4.json"
+NOTEBOOK_MANIFEST = ROOT / "notebooks/STUDENT_NOTEBOOK_RELEASE_MANIFEST_07202026_v5.json"
 JSON_OUTPUT = ROOT / "manifest_student_access.json"
 MD_OUTPUT = ROOT / "MANIFEST_STUDENT_ACCESS.md"
 
@@ -73,7 +73,7 @@ def build() -> dict:
     for record in active_pdfs:
         counts[record["category"]] += 1
     manifest = {
-        "version": "2026-07-19-clean-archive-and-scheduled-release",
+        "version": "2026-07-20-v5-construct-evidence-release",
         "status": "published_student_release",
         "active_pdf_count": len(active_pdfs),
         "active_pdf_counts": counts,
@@ -123,7 +123,7 @@ def build() -> dict:
                 "",
                 "## Navigation",
                 "",
-                "- [Current materials index](CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)",
+                "- [Current materials index](CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)",
                 "- [Release status](release_schedule/CURRENT_RELEASE_STATUS.md)",
                 "- [Legacy archive](archive/README.md)",
                 "- [Machine-readable manifest](manifest_student_access.json)",

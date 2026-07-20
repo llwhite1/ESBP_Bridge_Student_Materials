@@ -1,18 +1,20 @@
 # Current VIP Module 18 Student Notebooks
 
-Release: `07192026_v4`
+Release: `07202026_v5`
 
 These are the current source-level Bridge notebooks. They replace the older `%%writefile` and ZIP-packaging notebook interface.
 
+Every notebook now names the constructs students may author independently, supplies exposure-only constructs in complete code, and includes an editable engineering evidence record for prediction, observation, revision, meaning, units, assumptions, limits, next test, help trigger, and elapsed minutes.
+
 | VIP lab day | Activities | Notebook |
 |---:|---|---|
-| 1 | 18.1, 18.2 | [Output and Exact Formatting](./VIP_Module18_Day01_Output_Formatting_Bridge_Student_07192026_v4.ipynb) |
-| 2 | 18.3, 18.4, 18.5, 18.6, 18.7 | [Variables, Arithmetic, and Math Functions](./VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07192026_v4.ipynb) |
-| 3 | 18.8, 18.9, 18.10, 18.11, 18.12 | [Calculations, Summaries, and Structured Output](./VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07192026_v4.ipynb) |
-| 4 | 18.13, 18.14, 18.15, 18.16, 18.17 | [Decisions, Comparisons, and Branching](./VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07192026_v4.ipynb) |
-| 5 | 18.18, 18.19, 18.20, 18.21, 18.22 | [Loops and Repeated Reasoning](./VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07192026_v4.ipynb) |
-| 6 | 18.23, 18.24, 18.25, 18.26, 18.27 | [Strings, Lists, and Filtering](./VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07192026_v4.ipynb) |
-| 7 | 18.28, 18.29, 18.30, 18.31, 18.32 | [Functions and Integration Checks](./VIP_Module18_Day07_Functions_Integration_Bridge_Student_07192026_v4.ipynb) |
+| 1 | 18.1, 18.2 | [Output and Exact Formatting](./VIP_Module18_Day01_Output_Formatting_Bridge_Student_07202026_v5.ipynb) |
+| 2 | 18.3, 18.4, 18.5, 18.6, 18.7 | [Variables, Arithmetic, and Math Functions](./VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07202026_v5.ipynb) |
+| 3 | 18.8, 18.9, 18.10, 18.11, 18.12 | [Calculations, Summaries, and Structured Output](./VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07202026_v5.ipynb) |
+| 4 | 18.13, 18.14, 18.15, 18.16, 18.17 | [Decisions, Comparisons, and Branching](./VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07202026_v5.ipynb) |
+| 5 | 18.18, 18.19, 18.20, 18.21, 18.22 | [Loops and Repeated Reasoning](./VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07202026_v5.ipynb) |
+| 6 | 18.23, 18.24, 18.25, 18.26, 18.27 | [Strings, Lists, and Filtering](./VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07202026_v5.ipynb) |
+| 7 | 18.28, 18.29, 18.30, 18.31, 18.32 | [Functions and Integration Checks](./VIP_Module18_Day07_Functions_Integration_Bridge_Student_07202026_v5.ipynb) |
 
 ## Submission procedure
 

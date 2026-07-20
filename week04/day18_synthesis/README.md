@@ -4,13 +4,13 @@ Date: Wed Jul 29
 
 ## Current day materials
 
-- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
 
 This is the current post-exam workbook. Follow the instructor's release directions for any later solution materials.
 
 ## Current day materials
 
-- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
 
 This is the current post-exam workbook. Follow the instructor's release directions for any later solution materials.
 
@@ -22,7 +22,7 @@ Use this README before opening any files. It tells you what to look for, what ev
 
 ## Current day materials
 
-- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
 
 This is the current post-exam workbook. Follow the instructor's release directions for any later solution materials.
 
@@ -56,4 +56,4 @@ This is the full Bridge-to-ENGR 102 integration day.
 
 - [Bridge-to-ENGR 102 Journey](../../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
 - [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
-- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)

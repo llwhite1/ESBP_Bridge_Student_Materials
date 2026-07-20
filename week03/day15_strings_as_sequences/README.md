@@ -4,7 +4,7 @@ Date: Fri Jul 24
 
 ## Current day materials
 
-- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
 
 Day 15's workbook key is scheduled for 2026-07-27 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
 See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
@@ -12,7 +12,7 @@ Earlier Day 15 student materials are in the [archive](../../archive/legacy_daily
 
 ## Current day materials
 
-- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
 
 Day 15's workbook key is scheduled for 2026-07-27 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
 See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
@@ -20,7 +20,7 @@ Earlier Day 15 student materials are in the [archive](../../archive/legacy_daily
 
 ## Current day materials
 
-- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
 
 Day 15's workbook key is scheduled for 2026-07-27 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
 See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
@@ -47,7 +47,7 @@ Python operators `and`, `or`, and `not` remain lowercase and appear as bold dark
 
 ## Current navigation
 
-- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
 - [Direct PDF Download Page](../../DOWNLOAD_CURRENT_STUDENT_PDFS.md)
 - [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
 - [Calendar](../../CALENDAR.md)

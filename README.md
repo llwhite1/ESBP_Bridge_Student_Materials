@@ -4,16 +4,16 @@ This repository is the student release point for the ENGR 102 Summer Bridge mate
 
 ## Use these folders first
 
-- [Current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md) — the current workbooks, released quizzes, and released keys.
+- [Current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md) — the current workbooks, released quizzes, and released keys.
 - [Current Lab Day 1-7 notebooks](notebooks/README.md) — the `.ipynb` files submitted to Gradescope.
 - [Release status](release_schedule/CURRENT_RELEASE_STATUS.md) — exactly when delayed workbook and quiz solutions become available.
 - [Legacy archive](archive/README.md) — older versions and their released keys, separated from current work.
 
 ## What is current
 
-The July 19 v4 workbooks are the active workbook sequence for Days 1-8, 10-16, and 18. The July 19 v4 notebooks are the active Lab Day 1-7 sequence. Each lab notebook includes scaffolded practice and an Independent Program Studio at the end; students submit the completed `.ipynb` file.
+The July 20 v5 workbooks are the active workbook sequence for Days 1-8, 10-16, and 18. The July 20 v5 notebooks are the active Lab Day 1-7 sequence. Each workbook names the construct boundary, timing/help trigger, and engineering evidence record; each lab notebook carries the same boundary into scaffolded practice and an Independent Program Studio. Students submit the completed `.ipynb` file.
 
-Days 1-8 workbook keys, student quizzes, and quiz keys are available because those daily activities are complete. For Days 10-16, the student workbook is available before class, the workbook key is released at 2:30 PM on the next business day, and the student quiz plus its key are released at 4:00 PM that day.
+Days 1-8 v5 workbook keys, student quizzes, and quiz keys are available because those daily activities are complete. For Days 10-16, the v5 student workbook is available before class, the workbook key is released at 2:30 PM on the next business day, and the student quiz plus its key are released at 4:00 PM that day. Superseded v4 files are retained only in the archive.
 
 Exam 1 and Exam 2 files and keys remain instructor-controlled and are not published here.
 

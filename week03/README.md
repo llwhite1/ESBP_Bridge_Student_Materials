@@ -13,6 +13,6 @@ Only student workbooks are published for Days 10-16; quizzes and exams remain ex
 ## Root navigation
 
 - [Start Here for Students](../START_HERE_STUDENTS.md)
-- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
 - [Student Learning Collections by Competency](../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
 - [Calendar](../CALENDAR.md)

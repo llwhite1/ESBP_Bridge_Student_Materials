@@ -13,7 +13,7 @@ import hashlib
 import json
 import shutil
 import subprocess
-from datetime import datetime
+from datetime import datetime, time
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -126,8 +126,8 @@ def write_status(schedule: dict, ledger: dict) -> None:
                 "This is the authoritative public status for delayed workbook-key and quiz-package releases.",
                 "Times are America/Chicago (Central Time). Exam 1 and Exam 2 files and keys are not part of this schedule.",
                 "",
-                "Days 1-8 workbook keys, student quizzes, and quiz keys are already available in their current day folders.",
-                "Legacy versions and their available keys are under the [archive](../archive/README.md).",
+                "Days 1-8 v5 workbook keys, student quizzes, and quiz keys are already available in their current day folders.",
+                "The schedule below releases current v5 files; matching v4 keys are retained only in the [archive](../archive/README.md) for work completed before the correction.",
                 "",
                 "| Class day | Release | Date | Time | Status |",
                 "|---|---|---|---:|---|",
@@ -221,6 +221,14 @@ def main() -> int:
     release_date = args.date or now.date().isoformat()
     schedule = load_json(SCHEDULE_PATH)
     release = selected_release(schedule, release_date, args.phase)
+    scheduled_clock = time.fromisoformat(release["phases"][args.phase]["time_ct"])
+    scheduled_at = datetime.combine(
+        datetime.fromisoformat(release_date).date(), scheduled_clock, tzinfo=TIMEZONE
+    )
+    if not args.dry_run and now < scheduled_at:
+        raise SystemExit(
+            f"Release boundary is still closed until {scheduled_at.isoformat(timespec='minutes')}."
+        )
     source_root = instructor_root(args.instructor_repo)
     changed = copy_phase(release, args.phase, source_root, dry_run=args.dry_run)
 

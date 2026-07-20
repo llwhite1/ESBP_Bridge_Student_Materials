@@ -15,7 +15,7 @@ Status: published student release with a clean active/archive split and schedule
 
 ## Archive and safety boundary
 
-- Archived legacy PDFs: 82
+- Archived legacy PDFs: 122
 - Exam PDFs in the student repo: 0
 - TeX sources in the student repo: 0
 - ZIP/source packages in the student repo: 0
@@ -24,7 +24,7 @@ Exam 1 and Exam 2 materials and keys remain outside the student repository. Lega
 
 ## Navigation
 
-- [Current materials index](CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)
+- [Current materials index](CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
 - [Release status](release_schedule/CURRENT_RELEASE_STATUS.md)
 - [Legacy archive](archive/README.md)
 - [Machine-readable manifest](manifest_student_access.json)
