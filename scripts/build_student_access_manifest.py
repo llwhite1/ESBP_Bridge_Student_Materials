@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the current combined PDF and notebook student-access manifest."""
+"""Build the live manifest for the public Bridge student repository."""
 
 from __future__ import annotations
 
@@ -8,16 +8,11 @@ import json
 import re
 import subprocess
 from pathlib import Path
-from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
-NOTEBOOK_MANIFEST = ROOT / "notebooks/STUDENT_NOTEBOOK_RELEASE_MANIFEST_07172026_v2.json"
-JSON_OUTPUT = ROOT / "manifest_student_access_07172026_v9.json"
-MD_OUTPUT = ROOT / "MANIFEST_STUDENT_ACCESS_07172026_v9.md"
-
-
-def read_json(path: Path) -> dict[str, Any]:
-    return json.loads(path.read_text(encoding="utf-8"))
+NOTEBOOK_MANIFEST = ROOT / "notebooks/STUDENT_NOTEBOOK_RELEASE_MANIFEST_07192026_v4.json"
+JSON_OUTPUT = ROOT / "manifest_student_access.json"
+MD_OUTPUT = ROOT / "MANIFEST_STUDENT_ACCESS.md"
 
 
 def sha256(path: Path) -> str:
@@ -32,93 +27,106 @@ def pdf_pages(path: Path) -> int:
     return int(match.group(1))
 
 
-def build() -> dict[str, Any]:
-    notebook_manifest = read_json(NOTEBOOK_MANIFEST)
-    pdf_records = []
+def category(name: str) -> str:
+    if "WORKBOOK" in name and "KEY" in name:
+        return "workbook_key"
+    if "WORKBOOK" in name:
+        return "workbook"
+    if "QUIZ" in name and "KEY" in name:
+        return "quiz_key"
+    if "QUIZ" in name:
+        return "quiz"
+    return "support"
+
+
+def build() -> dict:
+    notebook_manifest = json.loads(NOTEBOOK_MANIFEST.read_text(encoding="utf-8"))
+    active_pdfs = []
     for path in sorted(ROOT.glob("week*/day*/*.pdf")):
-        if (
-            "LAB_ALIGNED_WORKBOOK_STUDENT" in path.name
-            and not path.name.endswith("_07172026_v2.pdf")
-        ):
-            continue
-        if path.name == "DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf":
-            continue
-        pdf_records.append(
+        active_pdfs.append(
             {
-                "path": str(path.relative_to(ROOT)),
+                "path": path.relative_to(ROOT).as_posix(),
                 "sha256": sha256(path),
                 "pages": pdf_pages(path),
-                "lab_aligned_workbook": "LAB_ALIGNED_WORKBOOK_STUDENT" in path.name,
+                "category": category(path.name),
             }
         )
-    notebook_records = [
+    archive_pdfs = []
+    for path in sorted((ROOT / "archive").rglob("*.pdf")):
+        archive_pdfs.append(
+            {
+                "path": path.relative_to(ROOT).as_posix(),
+                "sha256": sha256(path),
+                "category": category(path.name),
+            }
+        )
+    notebooks = [
         {
             "lab_day": record["lab_day"],
             "path": record["path"],
             "sha256": record["sha256"],
             "activity_ids": record["activity_ids"],
-            "cold_cell_ids": record.get("cold_cell_ids", []),
-            "scoring_model": record.get("scoring_model"),
         }
         for record in notebook_manifest["records"]
     ]
+    counts = {key: 0 for key in ("workbook", "workbook_key", "quiz", "quiz_key", "support")}
+    for record in active_pdfs:
+        counts[record["category"]] += 1
     manifest = {
-        "version": "07172026_v9_cold_checkpoint_workbooks_and_notebooks",
-        "status": "current_student_release",
-        "workbook_contract_sha256": notebook_manifest["source_contract_sha256"],
-        "notebook_release_set_sha256": notebook_manifest["release_set_sha256"],
-        "student_pdf_count": len(pdf_records),
-        "aligned_workbook_count": sum(record["lab_aligned_workbook"] for record in pdf_records),
-        "student_notebook_count": len(notebook_records),
-        "notebook_activity_count": sum(len(record["activity_ids"]) for record in notebook_records),
-        "quiz_pdf_count": 0,
-        "exam_pdf_count": 0,
-        "instructor_key_count": 0,
-        "tex_source_count": 0,
-        "pdfs": pdf_records,
-        "notebooks": notebook_records,
+        "version": "2026-07-19-clean-archive-and-scheduled-release",
+        "status": "published_student_release",
+        "active_pdf_count": len(active_pdfs),
+        "active_pdf_counts": counts,
+        "student_notebook_count": len(notebooks),
+        "notebook_activity_count": sum(len(item["activity_ids"]) for item in notebooks),
+        "archive_pdf_count": len(archive_pdfs),
+        "exam_pdf_count": sum(
+            "day09_exam1" in item["path"].lower()
+            or "day17_exam2" in item["path"].lower()
+            or "exam1_" in Path(item["path"]).name.lower()
+            or "exam2_" in Path(item["path"]).name.lower()
+            for item in active_pdfs + archive_pdfs
+        ),
+        "tex_source_count": len(list(ROOT.rglob("*.tex"))),
+        "zip_source_count": len(list(ROOT.rglob("*.zip"))),
+        "active_pdfs": active_pdfs,
+        "notebooks": notebooks,
+        "archive_pdfs": archive_pdfs,
     }
     JSON_OUTPUT.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
     MD_OUTPUT.write_text(
         "\n".join(
             [
-                "# Student Access Manifest 07172026 v9",
+                "# Student Access Manifest",
                 "",
-                "Version: `07172026_v9_cold_checkpoint_workbooks_and_notebooks`",
+                "Status: published student release with a clean active/archive split and scheduled delayed solutions.",
                 "",
-                "Status: current published student release.",
+                "## Active collection",
                 "",
-                "## Collection rule",
-                "",
-                "Publish only current student-facing workbooks, support PDFs, and clean notebook releases. Quizzes, exams, answer keys, TeX sources, contracts, build logs, and autograder internals remain excluded.",
-                "",
-                "## July 17 release",
-                "",
-                "- Uses eleven contract-controlled lab-aligned workbook successors for Bridge Days 6-8, 10-16, and 18.",
-                "- Includes seven current VIP Module 18 notebooks covering Activities 18.1-18.32.",
-                "- Lab Days 5-7 keep sample/transfer cells formative and score only the five cold checkpoint cells at the end.",
-                "- Students submit one completed `.ipynb`; they do not use `%%writefile`, exported `.py` files, or ZIP packaging.",
-                "- Day 16 remains loop/list Exam 2 preparation; functions begin in the Day 18 post-exam handoff.",
-                "- The former notebook-only repository is not the current student release authority.",
-                "",
-                "## Counts",
-                "",
-                f"- Current student PDFs: {manifest['student_pdf_count']}",
-                f"- Current lab-aligned workbooks: {manifest['aligned_workbook_count']}",
+                f"- Active PDFs: {manifest['active_pdf_count']}",
+                f"- Current workbooks: {counts['workbook']}",
+                f"- Released workbook keys: {counts['workbook_key']}",
+                f"- Released student quizzes: {counts['quiz']}",
+                f"- Released quiz keys: {counts['quiz_key']}",
+                f"- Other current support PDFs: {counts['support']}",
                 f"- Current student notebooks: {manifest['student_notebook_count']}",
                 f"- Notebook activities: {manifest['notebook_activity_count']}",
-                "- Quiz PDFs: 0",
-                "- Exam PDFs: 0",
-                "- Instructor-key files: 0",
-                "- TeX source files: 0",
                 "",
-                "## Current navigation",
+                "## Archive and safety boundary",
                 "",
-                "- [Root README](README.md)",
-                "- [Current PDF index](CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)",
-                "- [Current notebook index](notebooks/README.md)",
-                "- [Direct notebook downloads](DOWNLOAD_CURRENT_STUDENT_NOTEBOOKS.md)",
-                "- [Machine-readable manifest](manifest_student_access_07172026_v9.json)",
+                f"- Archived legacy PDFs: {manifest['archive_pdf_count']}",
+                f"- Exam PDFs in the student repo: {manifest['exam_pdf_count']}",
+                f"- TeX sources in the student repo: {manifest['tex_source_count']}",
+                f"- ZIP/source packages in the student repo: {manifest['zip_source_count']}",
+                "",
+                "Exam 1 and Exam 2 materials and keys remain outside the student repository. Legacy answer-bearing PDFs are included only when they are intentionally released for completed daily work.",
+                "",
+                "## Navigation",
+                "",
+                "- [Current materials index](CURRENT_STUDENT_MATERIALS_INDEX_07152026_v2.md)",
+                "- [Release status](release_schedule/CURRENT_RELEASE_STATUS.md)",
+                "- [Legacy archive](archive/README.md)",
+                "- [Machine-readable manifest](manifest_student_access.json)",
                 "",
             ]
         ),

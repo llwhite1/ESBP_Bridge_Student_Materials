@@ -2,15 +2,42 @@
 
 Date: Mon Jul 6
 
+## Current day materials
+
+- [DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 1 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day01/).
+
+## Current day materials
+
+- [DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 1 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day01/).
+
 ## Start here for this day
 
 Use printed output as evidence instead of guessing what code did.
 
 Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
-## Current student-facing files
+## Current day materials
 
-- [DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf) — workbooklet
+- [DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 1 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day01/).
+
+## VIP lab alignment
+
+The final page supports VIP Lab Day(s) 1, Activities 18.1, 18.2, using the current stable notebook cells `18-1-work` / `18-1-transfer` / `18-1-cold`, `18-2-work` / `18-2-transfer` / `18-2-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the Independent Program Studio without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 

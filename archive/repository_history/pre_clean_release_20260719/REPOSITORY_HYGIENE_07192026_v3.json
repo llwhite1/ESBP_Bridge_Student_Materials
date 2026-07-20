@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "student_pdf_count": 18,
+  "aligned_workbook_count": 16,
+  "student_notebook_count": 7,
+  "notebook_activity_count": 32,
+  "key_tex_zip_leak_count": 0,
+  "broken_active_link_count": 0,
+  "failures": []
+}

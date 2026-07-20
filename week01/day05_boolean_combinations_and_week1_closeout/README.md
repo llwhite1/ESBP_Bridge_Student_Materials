@@ -2,16 +2,42 @@
 
 Date: Fri Jul 10
 
+## Current day materials
+
+- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 5 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day05/).
+
+## Current day materials
+
+- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 5 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day05/).
+
 ## Start here for this day
 
 Combine several true/false conditions and use the checkpoint as a low-stakes readiness check.
 
 Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
-## Current student-facing files
+## Current day materials
 
-- [DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
-- [WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf) — Week 1 checkpoint/practice
+- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 5 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day05/).
+
+## VIP lab alignment
+
+The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16, 18.17, using the current stable notebook cells `18-13-work` / `18-13-transfer` / `18-13-cold`, `18-14-work` / `18-14-transfer` / `18-14-cold`, `18-15-work` / `18-15-transfer` / `18-15-cold`, `18-16-work` / `18-16-transfer` / `18-16-cold`, `18-17-work` / `18-17-transfer` / `18-17-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the Independent Program Studio without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 

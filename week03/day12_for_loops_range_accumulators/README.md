@@ -2,17 +2,33 @@
 
 Date: Tue Jul 21
 
-Status: current lab-aligned workbook release, `07172026_v2`.
+## Current day materials
 
-## Current student-facing file
+- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
 
-- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf) — current lab-aligned student workbook.
+Day 12's workbook key is scheduled for 2026-07-22 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
+See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
+Earlier Day 12 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day12/); matching legacy keys appear there after the scheduled release.
 
-Only the workbook is published here. Daily quizzes, instructor keys, Exam 1, and Exam 2 are not part of this public learning collection.
+## Current day materials
+
+- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+
+Day 12's workbook key is scheduled for 2026-07-22 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
+See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
+Earlier Day 12 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day12/); matching legacy keys appear there after the scheduled release.
+
+## Current day materials
+
+- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+
+Day 12's workbook key is scheduled for 2026-07-22 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
+See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
+Earlier Day 12 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day12/); matching legacy keys appear there after the scheduled release.
 
 ## VIP lab alignment
 
-The final page supports VIP Lab Day(s) 5, Activities 18.18, 18.20, using the current stable notebook cells `18-18-work` / `18-18-transfer` / `18-18-cold`, `18-20-work` / `18-20-transfer` / `18-20-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the cold checkpoint without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
+The final page supports VIP Lab Day(s) 5, Activities 18.18, 18.20, using the current stable notebook cells `18-18-work` / `18-18-transfer` / `18-18-cold`, `18-20-work` / `18-20-transfer` / `18-20-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the Independent Program Studio without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning
 

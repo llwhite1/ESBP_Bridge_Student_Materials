@@ -2,15 +2,42 @@
 
 Date: Wed Jul 8
 
+## Current day materials
+
+- [DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 3 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day03/).
+
+## Current day materials
+
+- [DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 3 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day03/).
+
 ## Start here for this day
 
 Check value type before trusting calculation, comparison, or condition behavior.
 
 Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
-## Current student-facing files
+## Current day materials
 
-- [DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf) — workbooklet
+- [DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 3 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day03/).
+
+## VIP lab alignment
+
+The final page supports VIP Lab Day(s) 2, Activities 18.3, 18.4, 18.5, 18.6, 18.7, using the current stable notebook cells `18-3-work` / `18-3-transfer` / `18-3-cold`, `18-4-work` / `18-4-transfer` / `18-4-cold`, `18-5-work` / `18-5-transfer` / `18-5-cold`, `18-6-work` / `18-6-transfer` / `18-6-cold`, `18-7-work` / `18-7-transfer` / `18-7-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the Independent Program Studio without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 

@@ -2,19 +2,33 @@
 
 Date: Wed Jul 29
 
+## Current day materials
+
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+
+This is the current post-exam workbook. Follow the instructor's release directions for any later solution materials.
+
+## Current day materials
+
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+
+This is the current post-exam workbook. Follow the instructor's release directions for any later solution materials.
+
 ## Start here for this day
 
 Combine planning, tracing, testing, debugging, and explanation routines.
 
 Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
-## Current student-facing files
+## Current day materials
 
-- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf) — current lab-aligned student workbook.
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+
+This is the current post-exam workbook. Follow the instructor's release directions for any later solution materials.
 
 ## VIP lab alignment
 
-The final page supports VIP Lab Day(s) 7, Activities 18.28, 18.29, 18.30, 18.31, 18.32, using the current stable notebook cells `18-28-work` / `18-28-transfer` / `18-28-cold`, `18-29-work` / `18-29-transfer` / `18-29-cold`, `18-30-work` / `18-30-transfer` / `18-30-cold`, `18-31-work` / `18-31-transfer` / `18-31-cold`, `18-32-work` / `18-32-transfer` / `18-32-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the cold checkpoint without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
+The final page supports VIP Lab Day(s) 7, Activities 18.28, 18.29, 18.30, 18.31, 18.32, using the current stable notebook cells `18-28-work` / `18-28-transfer` / `18-28-cold`, `18-29-work` / `18-29-transfer` / `18-29-cold`, `18-30-work` / `18-30-transfer` / `18-30-cold`, `18-31-work` / `18-31-transfer` / `18-31-cold`, `18-32-work` / `18-32-transfer` / `18-32-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the Independent Program Studio without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 

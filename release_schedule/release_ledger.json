@@ -1,0 +1,28 @@
+{
+  "version": "2026-07-19-v1",
+  "completed_release_ids": [
+    "day01:workbook-key",
+    "day02:workbook-key",
+    "day03:workbook-key",
+    "day04:workbook-key",
+    "day05:workbook-key",
+    "day06:workbook-key",
+    "day07:workbook-key",
+    "day08:workbook-key",
+    "day01:quiz-package",
+    "day02:quiz-package",
+    "day03:quiz-package",
+    "day04:quiz-package",
+    "day05:quiz-package",
+    "day06:quiz-package",
+    "day07:quiz-package",
+    "day08:quiz-package"
+  ],
+  "events": [
+    {
+      "release_id": "baseline:days01-08",
+      "released_at": "2026-07-19",
+      "description": "Published completed-day v4 daily keys/quizzes and legacy daily keys while preserving exam boundaries."
+    }
+  ]
+}

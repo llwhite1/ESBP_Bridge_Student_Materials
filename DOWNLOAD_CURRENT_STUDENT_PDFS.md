@@ -1,24 +1,96 @@
-# Download Current Student PDFs
+# Current Student PDF Downloads
 
-This page gives direct-download links for the current student-facing PDFs. Daily quizzes, exams, keys, sources, and build files are excluded.
+This page lists active PDFs only. Superseded versions are in the [legacy archive](archive/README.md).
+Scheduled files appear here after the release automation copies and validates them.
 
-## Current PDFs
+## Day 1: Visible output evidence
 
-- [DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day01_visible_output_evidence/DAY01_VISIBLE_OUTPUT_EVIDENCE_WORKBOOKLET_STUDENT_06192026_v2.pdf)
-- [DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day02_variables_expressions_state/DAY02_VARIABLES_EXPRESSIONS_STATE_WORKBOOKLET_STUDENT_06192026_v1.pdf)
-- [DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day03_types_casting_truthiness/DAY03_TYPES_CASTING_TRUTHINESS_WORKBOOKLET_STUDENT_06202026_v1.pdf)
-- [DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day04_comparisons_boundaries/DAY04_COMPARISONS_BOUNDARIES_WORKBOOKLET_STUDENT_06202026_v1.pdf)
-- [DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/DAY05_BOOLEAN_COMBINATIONS_WORKBOOKLET_STUDENT_06202026_v1.pdf)
-- [WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week01/day05_boolean_combinations_and_week1_closeout/WEEK01_PUMP_READINESS_CLOSEOUT_CHECKPOINT_PRACTICE_STUDENT_06202026_v1.pdf)
-- [DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf)
-- [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf)
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day01_visible_output_evidence/DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week01/day01_visible_output_evidence/DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day01_visible_output_evidence/DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week01/day01_visible_output_evidence/DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 2: Variables, expressions, and state
+
+- [DAY02_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day02_variables_expressions_state/DAY02_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY02_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week01/day02_variables_expressions_state/DAY02_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY02_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day02_variables_expressions_state/DAY02_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY02_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week01/day02_variables_expressions_state/DAY02_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 3: Types, casting, and truthiness
+
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day03_types_casting_truthiness/DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week01/day03_types_casting_truthiness/DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 4: Comparisons and boundaries
+
+- [DAY04_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day04_comparisons_boundaries/DAY04_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY04_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week01/day04_comparisons_boundaries/DAY04_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY04_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day04_comparisons_boundaries/DAY04_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY04_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week01/day04_comparisons_boundaries/DAY04_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 5: Boolean combinations and Week 1 closeout
+
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day05_boolean_combinations_and_week1_closeout/DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week01/day05_boolean_combinations_and_week1_closeout/DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week01/day05_boolean_combinations_and_week1_closeout/DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week01/day05_boolean_combinations_and_week1_closeout/DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 6: Branch outcomes
+
+- [DAY06_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week02/day06_branch_routing/DAY06_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY06_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week02/day06_branch_routing/DAY06_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY06_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 7: Ordered validation
+
+- [DAY07_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week02/day07_ordered_validation/DAY07_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY07_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week02/day07_ordered_validation/DAY07_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY07_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 8: Debug and test design
+
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](week02/day08_debug_test_design/DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](week02/day08_debug_test_design/DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf)
+- [DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf)
+- [DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 10: Lectures 1-5 recap, direct input, and repetition launch
+
+- [DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 11: While loops, update order, sentinels, and termination
+
+- [DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 12: For loops, range, counters, and accumulators
+
+- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 13: Loop design, break, continue, and nested tracing
+
+- [DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 14: Lists, length, indexing, mutation, and list loops
+
+- [DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 15: Strings as sequences: append, concatenation, and slicing
+
+- [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 16: Indexed mutation and independent Exam 2 rehearsal
+
+- [DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 18: Post-exam synthesis and function handoff
+
+- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf)
+
+## Day 19: Support and transition
+
+- [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf)

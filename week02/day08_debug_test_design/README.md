@@ -2,19 +2,42 @@
 
 Date: Wed Jul 15
 
+## Current day materials
+
+- [DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 8 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day08/).
+
+## Current day materials
+
+- [DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 8 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day08/).
+
 ## Start here for this day
 
 Use expected-versus-actual evidence and protective tests to diagnose behavior.
 
 Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
 
-## Current student-facing files
+## Current day materials
 
-- [DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf](DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07172026_v2.pdf) — current lab-aligned student workbook.
+- [DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf](DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07192026_v4.pdf) — current July 19 v4 student workbook.
+- [DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf](DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer workbook key.
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf](DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf) — released student quiz.
+- [DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf](DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf) — released blue-answer quiz key with explanations.
+
+Earlier Day 8 versions and released legacy keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day08/).
 
 ## VIP lab alignment
 
-The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16, 18.17, using the current stable notebook cells `18-13-work` / `18-13-transfer`, `18-14-work` / `18-14-transfer`, `18-15-work` / `18-15-transfer`, `18-16-work` / `18-16-transfer`, `18-17-work` / `18-17-transfer`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the cold checkpoint without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
+The final page supports VIP Lab Day(s) 4, Activities 18.13, 18.14, 18.15, 18.16, 18.17, using the current stable notebook cells `18-13-work` / `18-13-transfer` / `18-13-cold`, `18-14-work` / `18-14-transfer` / `18-14-cold`, `18-15-work` / `18-15-transfer` / `18-15-cold`, `18-16-work` / `18-16-transfer` / `18-16-cold`, `18-17-work` / `18-17-transfer` / `18-17-cold`. Complete the readiness prompts, use sample and transfer cells for formative practice, then complete the Independent Program Studio without a reveal. Save one completed `.ipynb` and submit that notebook to the matching Gradescope assignment. This page is unscored workbook-to-lab preparation.
 
 ## What you are learning today
 

@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "release_version": "07192026_v4",
+  "status": "PASS",
+  "source_repository": "SEAS_VIP_Second_Iteration",
+  "source_contract_sha256": "2d4127aac856a942dfe9d9ee76f9ba6e048e856a9f9cc3edad5abc32db2d328f",
+  "notebook_count": 7,
+  "activity_count": 32,
+  "submission_type": "single_ipynb",
+  "days_1_to_7_scoring": "independent_program_studio_cells_only_internal_role_cold_transfer",
+  "records": [
+    {
+      "lab_day": 1,
+      "title": "Output and Exact Formatting",
+      "filename": "VIP_Module18_Day01_Output_Formatting_Bridge_Student_07192026_v4.ipynb",
+      "path": "notebooks/VIP_Module18_Day01_Output_Formatting_Bridge_Student_07192026_v4.ipynb",
+      "sha256": "b5c7ec4db4b61289ee3f1c63859575e15a49acd4670eeefb71e757139607a85e",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day01_Output_Formatting_Novice_Draft_07142026_v1.ipynb",
+      "source_sha256": "ea91d95c4a374cd6e35573aaa3428b005736556e4006e93c4b3a7e4123d20609",
+      "activity_ids": [
+        "18.1",
+        "18.2"
+      ],
+      "activity_count": 2,
+      "code_cell_count": 8,
+      "cold_cell_ids": [
+        "18-1-cold",
+        "18-2-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 2,
+      "title": "Variables, Arithmetic, and Math Functions",
+      "filename": "VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07192026_v4.ipynb",
+      "path": "notebooks/VIP_Module18_Day02_Variables_Arithmetic_Math_Bridge_Student_07192026_v4.ipynb",
+      "sha256": "33fac47645c88705aaad0e9bf51132d45bd271cf593f1324ed5026ccc41e918a",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day02_Variables_Arithmetic_Math_Novice_Draft_07142026_v1.ipynb",
+      "source_sha256": "82db9bad16c0336fa00d9ed0dbc4013923fc0fbc6c3fdf93cc7756f6223e391e",
+      "activity_ids": [
+        "18.3",
+        "18.4",
+        "18.5",
+        "18.6",
+        "18.7"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 17,
+      "cold_cell_ids": [
+        "18-3-cold",
+        "18-4-cold",
+        "18-5-cold",
+        "18-6-cold",
+        "18-7-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 3,
+      "title": "Calculations, Summaries, and Structured Output",
+      "filename": "VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07192026_v4.ipynb",
+      "path": "notebooks/VIP_Module18_Day03_Calculations_Summaries_Output_Bridge_Student_07192026_v4.ipynb",
+      "sha256": "c86775cac9f31cd2c775772a2eb002366c1365e845b9d73fa2dabf39b0b7851c",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day03_Calculations_Summaries_Output_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "5a3e6e80950a45294773f9336fb996db8b882076059b2c232791572d2c609e87",
+      "activity_ids": [
+        "18.8",
+        "18.9",
+        "18.10",
+        "18.11",
+        "18.12"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 17,
+      "cold_cell_ids": [
+        "18-8-cold",
+        "18-9-cold",
+        "18-10-cold",
+        "18-11-cold",
+        "18-12-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 4,
+      "title": "Decisions, Comparisons, and Branching",
+      "filename": "VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07192026_v4.ipynb",
+      "path": "notebooks/VIP_Module18_Day04_Decisions_Branching_Bridge_Student_07192026_v4.ipynb",
+      "sha256": "9236cf27d2adf03095085e34aa7f05b4cc597bb2d4aecc4e1bbb1b32d6634af9",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day04_Decisions_Branching_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "987dbc695570357a34d826da1092e8f264c27962bfdeb9cf97b9b3bdb2fd9c36",
+      "activity_ids": [
+        "18.13",
+        "18.14",
+        "18.15",
+        "18.16",
+        "18.17"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 17,
+      "cold_cell_ids": [
+        "18-13-cold",
+        "18-14-cold",
+        "18-15-cold",
+        "18-16-cold",
+        "18-17-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 5,
+      "title": "Loops and Repeated Reasoning",
+      "filename": "VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07192026_v4.ipynb",
+      "path": "notebooks/VIP_Module18_Day05_Loops_Repeated_Reasoning_Bridge_Student_07192026_v4.ipynb",
+      "sha256": "35cde16f1ff478c2542417aef38430d569ce24bbfa5fac79f23c40291fe74f93",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day05_Loops_Repeated_Reasoning_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "d2771f7aa3cb82a438c0c68a1bb07fb6d652711974c84eef6029fc99f5cfc1b1",
+      "activity_ids": [
+        "18.18",
+        "18.19",
+        "18.20",
+        "18.21",
+        "18.22"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 17,
+      "cold_cell_ids": [
+        "18-18-cold",
+        "18-19-cold",
+        "18-20-cold",
+        "18-21-cold",
+        "18-22-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 6,
+      "title": "Strings, Lists, and Filtering",
+      "filename": "VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07192026_v4.ipynb",
+      "path": "notebooks/VIP_Module18_Day06_Strings_Lists_Filtering_Bridge_Student_07192026_v4.ipynb",
+      "sha256": "7c2593105efb531a4dda47ec360a5ccada49a4eccfbd9e734b47dcf6a9ca4d6e",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day06_Strings_Lists_Filtering_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "566a9cffe7f51601672de92013a76b66a40874b6c6d16fa101ed5f12bc5203f7",
+      "activity_ids": [
+        "18.23",
+        "18.24",
+        "18.25",
+        "18.26",
+        "18.27"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 17,
+      "cold_cell_ids": [
+        "18-23-cold",
+        "18-24-cold",
+        "18-25-cold",
+        "18-26-cold",
+        "18-27-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    },
+    {
+      "lab_day": 7,
+      "title": "Functions and Integration Checks",
+      "filename": "VIP_Module18_Day07_Functions_Integration_Bridge_Student_07192026_v4.ipynb",
+      "path": "notebooks/VIP_Module18_Day07_Functions_Integration_Bridge_Student_07192026_v4.ipynb",
+      "sha256": "8cbdf24ef00065a6bc748f38197f48c4f64b3501e21826a089aaec20c7e7d11a",
+      "source_path": "notebooks/drafts/SEAS_VIP_Day07_Functions_Integration_Novice_Draft_07162026_v1.ipynb",
+      "source_sha256": "730978095258440c2ab8103df9d754bf1b2be5dcc967f10462f729ff8efdd5c1",
+      "activity_ids": [
+        "18.28",
+        "18.29",
+        "18.30",
+        "18.31",
+        "18.32"
+      ],
+      "activity_count": 5,
+      "code_cell_count": 17,
+      "cold_cell_ids": [
+        "18-28-cold",
+        "18-29-cold",
+        "18-30-cold",
+        "18-31-cold",
+        "18-32-cold"
+      ],
+      "scoring_model": "cold_only_end_checkpoint"
+    }
+  ],
+  "failures": [],
+  "release_set_sha256": "9dd46fa294363cb17cdc1dd2b86aea35503ae66bfe2d76cf23d4ffb30f1e1f81"
+}
