@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/refresh-release-status.yml"
+      - "release_schedule/bridge_student_release_schedule_20260720_20260728.json"
+      - "release_schedule/release_ledger.json"
+      - "scripts/release_scheduled_materials.py"
 
 permissions:
   contents: write
