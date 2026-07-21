@@ -1,28 +1,57 @@
 {
   "version": "2026-07-19-v1",
   "completed_release_ids": [
-    "day01:workbook-key",
-    "day02:workbook-key",
-    "day03:workbook-key",
-    "day04:workbook-key",
-    "day05:workbook-key",
-    "day06:workbook-key",
-    "day07:workbook-key",
-    "day08:workbook-key",
     "day01:quiz-package",
+    "day01:workbook-key",
     "day02:quiz-package",
+    "day02:workbook-key",
     "day03:quiz-package",
+    "day03:workbook-key",
     "day04:quiz-package",
+    "day04:workbook-key",
     "day05:quiz-package",
+    "day05:workbook-key",
     "day06:quiz-package",
+    "day06:workbook-key",
     "day07:quiz-package",
-    "day08:quiz-package"
+    "day07:workbook-key",
+    "day08:quiz-package",
+    "day08:workbook-key",
+    "day10:quiz-package",
+    "day10:workbook-key"
   ],
   "events": [
     {
       "release_id": "baseline:days01-08",
       "released_at": "2026-07-19",
       "description": "Published completed-day v4 daily keys/quizzes and legacy daily keys while preserving exam boundaries."
+    },
+    {
+      "release_id": "day10:workbook-key",
+      "scheduled_date": "2026-07-20",
+      "scheduled_time_ct": "14:30",
+      "released_at": "2026-07-20T21:50:26-05:00",
+      "changed_paths": [
+        "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day10/DAY10_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day10/DAY10_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07162026_v1.pdf",
+        "archive/legacy_daily_materials_through_20260717/day10/DAY10_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day10/DAY10_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v3.pdf"
+      ]
+    },
+    {
+      "release_id": "day10:quiz-package",
+      "scheduled_date": "2026-07-20",
+      "scheduled_time_ct": "16:00",
+      "released_at": "2026-07-20T21:50:39-05:00",
+      "changed_paths": [
+        "week02/day10_recap_input_repetition_launch/DAY10_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week02/day10_recap_input_repetition_launch/DAY10_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day10/DAY10_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
+        "archive/superseded_v4_07192026/day10/DAY10_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day10/DAY10_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day10/DAY10_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
+      ]
     }
   ]
 }

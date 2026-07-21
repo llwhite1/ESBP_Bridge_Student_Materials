@@ -105,14 +105,33 @@ def copy_phase(
     return changed
 
 
-def write_status(schedule: dict, ledger: dict) -> None:
+def scheduled_datetime(item: dict, phase: str) -> datetime:
+    """Return the authoritative Central-Time boundary for one release phase."""
+    phase_clock = time.fromisoformat(item["phases"][phase]["time_ct"])
+    return datetime.combine(
+        datetime.fromisoformat(item["release_date"]).date(),
+        phase_clock,
+        tzinfo=TIMEZONE,
+    )
+
+
+def release_status(item: dict, phase: str, completed: set[str], now: datetime) -> str:
+    release_id = f"day{item['day']:02d}:{phase}"
+    if release_id in completed:
+        return "Available"
+    if now >= scheduled_datetime(item, phase):
+        return "Overdue - pending release"
+    return "Scheduled"
+
+
+def write_status(schedule: dict, ledger: dict, *, now: datetime | None = None) -> None:
+    now = now or datetime.now(TIMEZONE)
     completed = set(ledger.get("completed_release_ids", []))
     rows = []
     for item in schedule["releases"]:
         for phase in ("workbook-key", "quiz-package"):
             phase_data = item["phases"][phase]
-            release_id = f"day{item['day']:02d}:{phase}"
-            status = "Available" if release_id in completed else "Scheduled"
+            status = release_status(item, phase, completed, now)
             label = "Workbook key" if phase == "workbook-key" else "Quiz + quiz key"
             rows.append(
                 f"| Day {item['day']} | {label} | {item['release_date']} | "
@@ -128,6 +147,7 @@ def write_status(schedule: dict, ledger: dict) -> None:
                 "",
                 "Days 1-8 v5 workbook keys, student quizzes, and quiz keys are already available in their current day folders.",
                 "The schedule below releases current v5 files; matching v4 keys are retained only in the [archive](../archive/README.md) for work completed before the correction.",
+                "Available means the files are present and recorded in the release ledger. Overdue means the stated boundary has passed but the controlled release has not completed.",
                 "",
                 "| Class day | Release | Date | Time | Status |",
                 "|---|---|---|---:|---|",
@@ -211,20 +231,32 @@ def regenerate_public_reports() -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--phase", required=True, choices=sorted(PHASES))
+    parser.add_argument("--phase", choices=sorted(PHASES))
     parser.add_argument("--date", help="Release date in YYYY-MM-DD; defaults to today in Central Time")
     parser.add_argument("--instructor-repo")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--status-only",
+        action="store_true",
+        help="Refresh the public status from the schedule, ledger, and current Central Time without releasing files.",
+    )
     args = parser.parse_args()
 
     now = datetime.now(TIMEZONE)
-    release_date = args.date or now.date().isoformat()
     schedule = load_json(SCHEDULE_PATH)
+    if args.status_only:
+        if args.phase or args.date or args.dry_run:
+            parser.error("--status-only cannot be combined with --phase, --date, or --dry-run")
+        ledger = load_json(LEDGER_PATH)
+        write_status(schedule, ledger, now=now)
+        print(json.dumps({"status": "STATUS_REFRESHED", "refreshed_at": now.isoformat(timespec="seconds")}, indent=2))
+        return 0
+    if not args.phase:
+        parser.error("--phase is required unless --status-only is used")
+
+    release_date = args.date or now.date().isoformat()
     release = selected_release(schedule, release_date, args.phase)
-    scheduled_clock = time.fromisoformat(release["phases"][args.phase]["time_ct"])
-    scheduled_at = datetime.combine(
-        datetime.fromisoformat(release_date).date(), scheduled_clock, tzinfo=TIMEZONE
-    )
+    scheduled_at = scheduled_datetime(release, args.phase)
     if not args.dry_run and now < scheduled_at:
         raise SystemExit(
             f"Release boundary is still closed until {scheduled_at.isoformat(timespec='minutes')}."

@@ -1,0 +1,35 @@
+name: Refresh delayed-release status
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bridge-release-status
+  cancel-in-progress: false
+
+jobs:
+  refresh-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the student release repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Refresh status from schedule and ledger
+        run: python3 scripts/release_scheduled_materials.py --status-only
+
+      - name: Commit a changed status page
+        shell: bash
+        run: |
+          if git diff --quiet -- release_schedule/CURRENT_RELEASE_STATUS.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add release_schedule/CURRENT_RELEASE_STATUS.md
+          git commit -m "Refresh delayed-release status"
+          git push

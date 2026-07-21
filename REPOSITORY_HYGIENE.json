@@ -1,9 +1,9 @@
 {
   "status": "PASS",
-  "active_pdf_count": 41,
-  "archive_pdf_count": 122,
+  "active_pdf_count": 44,
+  "archive_pdf_count": 130,
   "student_notebook_count": 7,
-  "completed_scheduled_release_count": 16,
+  "completed_scheduled_release_count": 18,
   "scheduled_destination_count": 77,
   "tex_zip_count": 0,
   "exam_artifact_count": 0,
