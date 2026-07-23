@@ -15,7 +15,7 @@ Available means the files are present and recorded in the release ledger. Overdu
 | Day 11 | Quiz + quiz key | 2026-07-21 | 16:00 CT | Overdue - pending release |
 | Day 12 | Workbook key | 2026-07-22 | 14:30 CT | Overdue - pending release |
 | Day 12 | Quiz + quiz key | 2026-07-22 | 16:00 CT | Overdue - pending release |
-| Day 13 | Workbook key | 2026-07-23 | 14:30 CT | Scheduled |
+| Day 13 | Workbook key | 2026-07-23 | 14:30 CT | Overdue - pending release |
 | Day 13 | Quiz + quiz key | 2026-07-23 | 16:00 CT | Scheduled |
 | Day 14 | Workbook key | 2026-07-24 | 14:30 CT | Scheduled |
 | Day 14 | Quiz + quiz key | 2026-07-24 | 16:00 CT | Scheduled |
