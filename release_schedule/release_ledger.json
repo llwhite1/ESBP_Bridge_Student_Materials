@@ -52,6 +52,33 @@
         "archive/legacy_daily_materials_through_20260717/day10/DAY10_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
         "archive/legacy_daily_materials_through_20260717/day10/DAY10_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
       ]
+    },
+    {
+      "release_id": "maintenance:key-layout-correction-20260723",
+      "released_at": "2026-07-23T09:23:05-05:00",
+      "description": "Replaced already-open quiz pairs for Days 1-8 and 10 plus the Day 10 workbook pair with verified same-layout answer keys; no future keys were released.",
+      "changed_paths": [
+        "week01/day01_visible_output_evidence/DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week01/day01_visible_output_evidence/DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week01/day02_variables_expressions_state/DAY02_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week01/day02_variables_expressions_state/DAY02_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week01/day04_comparisons_boundaries/DAY04_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week01/day04_comparisons_boundaries/DAY04_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week01/day05_boolean_combinations_and_week1_closeout/DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week01/day05_boolean_combinations_and_week1_closeout/DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week02/day06_branch_routing/DAY06_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week02/day06_branch_routing/DAY06_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week02/day07_ordered_validation/DAY07_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week02/day07_ordered_validation/DAY07_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week02/day08_debug_test_design/DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week02/day08_debug_test_design/DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week02/day10_recap_input_repetition_launch/DAY10_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week02/day10_recap_input_repetition_launch/DAY10_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf"
+      ]
     }
   ]
 }
