@@ -22,6 +22,6 @@ Available means the files are present and recorded in the release ledger. Overdu
 | Day 15 | Workbook key | 2026-07-27 | 14:30 CT | Overdue - pending release |
 | Day 15 | Quiz + quiz key | 2026-07-27 | 16:00 CT | Overdue - pending release |
 | Day 16 | Workbook key | 2026-07-28 | 14:30 CT | Overdue - pending release |
-| Day 16 | Quiz + quiz key | 2026-07-28 | 16:00 CT | Scheduled |
+| Day 16 | Quiz + quiz key | 2026-07-28 | 16:00 CT | Overdue - pending release |
 
 If a scheduled item is not visible after the stated time, tell the instructor; do not substitute an exam file or an unreleased instructor artifact.
