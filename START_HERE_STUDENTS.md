@@ -7,7 +7,7 @@ Use it as a guided path through the bridge, not as a pile of PDFs. Each day fold
 ## The shortest path
 
 1. Read the [Bridge-to-ENGR 102 Journey](BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md).
-2. Use the [current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md) to find today's files.
+2. Use the [current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md) to find today's files.
 3. Open today's day folder from [the calendar](CALENDAR.md), or use the [direct PDF download page](DOWNLOAD_CURRENT_STUDENT_PDFS.md).
 4. Use the day README before opening the PDF. It tells you what to notice and what evidence to keep.
 5. Open the matching file from the [current VIP notebooks](notebooks/README.md) when the workbook sends you to a lab activity.
@@ -22,7 +22,7 @@ This collection includes the current student-facing learning materials:
 - seven current VIP Module 18 student notebooks;
 - exam and readiness-practice surfaces;
 - checkpoint/practice material;
-- final synthesis, support, and reflection packets;
+- the Day 19 cumulative challenge packet;
 - student guidance and learning-path documents.
 
 Released daily quiz PDFs are included after the time shown in the release schedule. Exam 1 and Exam 2 files and keys are never published here; assessment timing and use still follow the course directions you receive in class or in the course platform.

@@ -116,7 +116,7 @@ def validate() -> dict:
     active_markdown = [
         ROOT / "README.md",
         ROOT / "START_HERE_STUDENTS.md",
-        ROOT / "CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md",
+        ROOT / "CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md",
         ROOT / "DOWNLOAD_CURRENT_STUDENT_PDFS.md",
         ROOT / "DOWNLOAD_CURRENT_STUDENT_NOTEBOOKS.md",
         ROOT / "notebooks/README.md",

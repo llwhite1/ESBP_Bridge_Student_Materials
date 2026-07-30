@@ -1,8 +1,6 @@
 # Current Student Materials Index
 
-> Superseded on 2026-07-30 by the [current v6 index](CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md).
-
-This is the current file picker. Superseded materials have been separated into the [legacy archive](archive/README.md).
+This is the current file picker. Day 18 records what happened in class; Day 19 provides the cumulative challenge packet for Thursday. Superseded materials are in the [archive](archive/README.md).
 
 Use the [Lab Day 1-7 notebooks](notebooks/README.md) for `.ipynb` work and the [release status](release_schedule/CURRENT_RELEASE_STATUS.md) for delayed keys and quizzes.
 
@@ -25,8 +23,8 @@ Use the [Lab Day 1-7 notebooks](notebooks/README.md) for `.ipynb` work and the [
 | 15 | Fri Jul 24 | Strings as sequences: append, concatenation, and slicing | [Workbook](week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) · [release status](release_schedule/CURRENT_RELEASE_STATUS.md) |
 | 16 | Mon Jul 27 | Indexed mutation and independent Exam 2 rehearsal | [Workbook](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) · [release status](release_schedule/CURRENT_RELEASE_STATUS.md) |
 | 17 | Tue Jul 28 | Exam 2 boundary | Exam boundary; no exam or exam key is public. |
-| 18 | Wed Jul 29 | Planned function handoff — not delivered | [Archived plan](archive/planned_day18_not_delivered_07302026/) |
-| 19 | Thu Jul 30 | Superseded support/transition packet | [Archived packet](archive/superseded_day19_transition_07302026/) |
+| 18 | Wed Jul 29 | Exam 2 Q20 debrief and cumulative practice | [Delivered-session record](week04/day18_synthesis/README.md) · no paper packet |
+| 19 | Thu Jul 30 | Cumulative challenge after Exam 2 Q20 | [Challenge battery](week04/day19_support_transition/DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf) |
 | 20 | Fri Jul 31 | Ceremony day / no bridge class meeting | No regular student packet. |
 
 Exam 1 and Exam 2 files and keys remain instructor-controlled.

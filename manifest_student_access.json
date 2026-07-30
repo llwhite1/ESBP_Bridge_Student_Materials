@@ -1,9 +1,9 @@
 {
-  "version": "2026-07-20-v5-construct-evidence-release",
+  "version": "2026-07-30-v6-day19-challenge-release",
   "status": "published_student_release",
-  "active_pdf_count": 44,
+  "active_pdf_count": 43,
   "active_pdf_counts": {
-    "workbook": 16,
+    "workbook": 15,
     "workbook_key": 9,
     "quiz": 9,
     "quiz_key": 9,
@@ -11,273 +11,267 @@
   },
   "student_notebook_count": 7,
   "notebook_activity_count": 32,
-  "archive_pdf_count": 130,
+  "archive_pdf_count": 132,
   "exam_pdf_count": 0,
   "tex_source_count": 0,
   "zip_source_count": 0,
   "active_pdfs": [
     {
       "path": "week01/day01_visible_output_evidence/DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "4374b0eb48682535935704e43bb24da9c5279b5109e88c2cd3d8278bc3db9556",
+      "sha256": "9b6dc26acf8b728764b8a7a0f57e5fd554c707df4e3ce68fd002d0c96466d2e2",
       "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week01/day01_visible_output_evidence/DAY01_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "f12360c40cae9facde56543d01558f072216d10878aeab70935d2e4966cf8621",
+      "sha256": "70c68987d44840298dd2e7d007161a842a26987f6084f33df6fca675eef45da8",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week01/day01_visible_output_evidence/DAY01_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "2104be93d8265de5f2a725b5a55f250668ae4dd7ec67566ea4591d87d1e4b792",
+      "sha256": "04b246b0718ea802baa9b5e9dea7af1582b54fd21cac11bbee984dfca2550d51",
       "pages": 9,
       "category": "workbook_key"
     },
     {
       "path": "week01/day01_visible_output_evidence/DAY01_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "d63a3be8adff4b75fc6193c46a9edfcbb4653874ba92d495dd60ba3b6cc7049e",
+      "sha256": "1cb3e6379d880f5c95bb8798cc53d37d24d93adb573cac16d86778776cf169c9",
       "pages": 9,
       "category": "workbook"
     },
     {
       "path": "week01/day02_variables_expressions_state/DAY02_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "a7895457d62e3f3912524a168677959e8b3e51255f247e963d10cc705e96c659",
+      "sha256": "935fa3d28465d13d4335bde5d231a30f07e655459f273f9562e560433323ad56",
       "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week01/day02_variables_expressions_state/DAY02_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "8e982e427f68f5bea962b022b4c3b72ef504f70bf88583898d6d3d8416e4c287",
+      "sha256": "70ecc08780924f77c16c1a960e13a92ddc767c8990a97a9bc9e9c688bb0393d4",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week01/day02_variables_expressions_state/DAY02_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "0f1ce6355ecc696e1558c30a155802a647982725d249d2f67cca0291b9a7a126",
+      "sha256": "eecd6b9b167503613d1794c5467e911a09abb394ba83202e4b55273775d18b61",
       "pages": 9,
       "category": "workbook_key"
     },
     {
       "path": "week01/day02_variables_expressions_state/DAY02_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "af710db21456bf19ddf4df186548acfeaa2bd2f9d09e0afb64dc7217c5cf23ef",
+      "sha256": "a708a92265fbf5f2da67e97f83b4c53e93c5772bf7c50edc6aa5afd1f981637e",
       "pages": 9,
       "category": "workbook"
     },
     {
       "path": "week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "b895fe3a410737978327cc43dbbfb2e1df8f5331af6ad13ffe3e53dab402d820",
+      "sha256": "39b728e58992e47fe6644945d2e1e09d043293bfe04b6d0b36a666448193cd30",
       "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "b6b03797a5605c246385a72c1c79ab4b69e440badd4ab01007a49864946a48a1",
+      "sha256": "2999c69c6390302dee39bd84e59a05d779373f9eaeb541fb13d5f62f8f5f99d1",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week01/day03_types_casting_truthiness/DAY03_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "d15aecad7dd4afda2ff4a0d64b99af34135e8528a58d7774ac4209dbd423c4b5",
+      "sha256": "adc34756578e99664a39d5a14a008d436a5f8ad9d16c775d78da3aa2c6b9276e",
       "pages": 9,
       "category": "workbook_key"
     },
     {
       "path": "week01/day03_types_casting_truthiness/DAY03_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "06c38c86b16d6f0179c8f22836d0e09fed16b326a3eed844956563973d2a9d1a",
+      "sha256": "6f1566741cb1b08dc89440a379bd36caf3375bfd28d949790b7ec5ba11c96ee9",
       "pages": 9,
       "category": "workbook"
     },
     {
       "path": "week01/day04_comparisons_boundaries/DAY04_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "4ff17a8f7d63fe147261f8edccfe50149e9f5b0d1f13fabdc98ea46ab49b01f6",
+      "sha256": "b1f6b3ed322ee29506ad37e4dbab1204e43cc48fb8b37be91bf64fd8828ebc10",
       "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week01/day04_comparisons_boundaries/DAY04_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "2660d5e9915d39e986ca382cad517aabaadd980299a57323d6461202bc8fca9e",
+      "sha256": "2a0d52e524eaf40f1d0a45fde8fc0a836401b8debc72ff5881b9ab9f17795cfc",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week01/day04_comparisons_boundaries/DAY04_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "ab3a41f601e74876f84cea81d0e8b52ce41b5542f746ebc7dda2acfaa4de0120",
+      "sha256": "53ca5ede11e55d9a706c7bee57d330e15f84b5de8d1921bab52d1936bddfa793",
       "pages": 9,
       "category": "workbook_key"
     },
     {
       "path": "week01/day04_comparisons_boundaries/DAY04_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "d44380740fc9f800faf598aa5d0c4d0d0e6a3808afeb6cf8b9865461e4e2ac5d",
+      "sha256": "9fbf8867287dc57ee428d8f423f1464743a1f16e35074d47ece642ba57feffaa",
       "pages": 9,
       "category": "workbook"
     },
     {
       "path": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "130e4d32fb9960da2924aa4f6f8c260cee42a63e946111124b98a313116c889a",
+      "sha256": "ee6bcdd292c7ec6fdfc5d0193da93a94859473dca7ce776233406649ef496c89",
       "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "1af39a9f4131a1b01116cee2c8c5ee8d704dd2bd1ca1e69b8cb6cb522b243963",
+      "sha256": "5b84f880b8ccb344fa9aa454fddcccf2d0a229f5680728d4d1c233c32582a55b",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "132784a083635e36fa202d97d04dbb95822fc12bae854a205a40de772af5dfaf",
+      "sha256": "f2fdf4153a188184f8cbb221ceaa0475d7132fe7775784870b381a4816b4f726",
       "pages": 9,
       "category": "workbook_key"
     },
     {
       "path": "week01/day05_boolean_combinations_and_week1_closeout/DAY05_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "6d7ae184487907857db3cfb7e5283f6536f0ae83f477cbc98c8824e203b5f601",
+      "sha256": "5bb21c3f16830947f2e22f11670b44dd7dc1554f41bd16a522a50d59f3bfc207",
       "pages": 9,
       "category": "workbook"
     },
     {
       "path": "week02/day06_branch_routing/DAY06_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "d3c0ac1cd2cd68f544c06c1ca0fd402552af3de11b2abb63213eff292ebf6138",
-      "pages": 3,
+      "sha256": "4cae5eae95ad3f8d6509312cb55c3251059bdf8cc4cf2065670288c600a278e8",
+      "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week02/day06_branch_routing/DAY06_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "9235d725a34d91e984be2cbd2d937835406d20d1066c8c725b99dd5b88eb7f5e",
+      "sha256": "b32adba921653d9d1f2698a1042a552277c9d4624eb1f9bac1cb3991fb442dce",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "a13b98e78a3684473f68753fb465f4d6155d37234e9c703b4e8b1669563b78ea",
+      "sha256": "76bec0303dfc62688260a35bc9645154e2b0dcbac1f7db52be02e7369419c009",
       "pages": 10,
       "category": "workbook_key"
     },
     {
       "path": "week02/day06_branch_routing/DAY06_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "1413b96ded21ec4f338eb14a669d6cae2faa505e72427b5059a3f8dc4073e2aa",
+      "sha256": "11363bfc21fc0a56b55debaed44bb270c209b3b337a1748fe8e00c1bd88e75ba",
       "pages": 10,
       "category": "workbook"
     },
     {
       "path": "week02/day07_ordered_validation/DAY07_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "cee5494e6161e67828e10ebe6a338c2e7eb84cd9d5d4d414c73ce29397886dd2",
+      "sha256": "1881f73753c058a274d3ae2c2777df18d6eb472c49c45acae41df0007ce1c58b",
       "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week02/day07_ordered_validation/DAY07_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "4510ccb68b6db09b8bfbafc44b1c003f6ccd1857af7558a939d5dfaceae62924",
+      "sha256": "8a439d993462a849e16d8530235fba501d923b8d61e364a5a841a81d67065873",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "f6b55e260d9d38de03d981701c921b9d3c675f757c6a242944bfd179c9eda418",
+      "sha256": "6486225749a3ba0383becec3f93c8695cbf1a22d7218bda7d7db6d8d5c69560c",
       "pages": 10,
       "category": "workbook_key"
     },
     {
       "path": "week02/day07_ordered_validation/DAY07_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "ebc81f4bf112ebfef80c6b7828d7afa60b6b100121f595799a252856548ad8e0",
+      "sha256": "8d3ef4b7dcfe4446632639a6e6ead41e452d311e5e448fa9dee0f1d156c16b12",
       "pages": 10,
       "category": "workbook"
     },
     {
       "path": "week02/day08_debug_test_design/DAY08_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "84da5314d32da64867b48edbd36dbf9112bf450592ad22d41e7a389c989ec75f",
+      "sha256": "d72e0c8fea38ea055d9e6c14ae60c97a508585668d15170a46d011c6ae5c27be",
       "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week02/day08_debug_test_design/DAY08_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "62cdeda29feb5bbd447b686c98b85f868015904681e8d6ae1f0d7857d7b8b1d7",
+      "sha256": "aeee5eb5357faf08c2247d019f1c48085cd7035feefefaaae548575929392e26",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "a3c86f77c409fb52fdb65a3fc674ef81baa3f3e885dfad0cec4dd83a61da9e80",
+      "sha256": "20e98ed5c8f31508ffaeccc6262ea3976f4eddc969f75c7b476c316c7f8e6659",
       "pages": 10,
       "category": "workbook_key"
     },
     {
       "path": "week02/day08_debug_test_design/DAY08_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "f275484456c392965cd38a05fca3928388211c20ec8cdca78cc1a7fa45103aef",
+      "sha256": "6a34bf9ac1dc3ee7ef141abeda7d0a7a65d90dd31e1899956cb6fc254f73d14a",
       "pages": 10,
       "category": "workbook"
     },
     {
       "path": "week02/day10_recap_input_repetition_launch/DAY10_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "99336ba631c2788e090ecb8b3b2370834ca9cdad266fce723ca3c69cb6ad1137",
-      "pages": 3,
+      "sha256": "403200703544456b7d83a738b3010eb7eb481e0685ea1e9797bfb30b04eae0c6",
+      "pages": 2,
       "category": "quiz_key"
     },
     {
       "path": "week02/day10_recap_input_repetition_launch/DAY10_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
-      "sha256": "32ab3240e5bf9161343f579fe9fb5680ce1f9819fc8a318dba0c13d0e5aad0eb",
+      "sha256": "d936a51f9790388443292952c1b2514cc95ed0598439bbcad9733b62c9f9494c",
       "pages": 2,
       "category": "quiz"
     },
     {
       "path": "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
-      "sha256": "1a75e1eaacbdaf95d6a52b5af70f224515c665d18486e2a7a0b41fd53212c165",
+      "sha256": "b24ce3609a750615c6fffa33137db5e26f0a0dfa008be5d4b5e09c848990a0ac",
       "pages": 7,
       "category": "workbook_key"
     },
     {
       "path": "week02/day10_recap_input_repetition_launch/DAY10_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "a4262196d9ceabdad0c1cc44c13026c245faf5e0064c58a5d34187a3dbd04160",
+      "sha256": "da60681dab5460aa0b8e9a217089b4432deae26fbc80ce643225bcf72b007bb9",
       "pages": 7,
       "category": "workbook"
     },
     {
       "path": "week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "a5dada7ea4a1258cfeaf9f4fe13bd42e4726e7d9a791c9a1f5881d1b9f56b9f7",
+      "sha256": "0fe503880ba81f394d6b0fc6a96802c179fa77ec197dece8afdf59d926e902d8",
       "pages": 7,
       "category": "workbook"
     },
     {
       "path": "week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "de1ad59b979114b5c0e8570e12f76b559c6dacff311789d9160bf69f7296373f",
+      "sha256": "1ab52cf0524494218a9d09b4e354da8e6cc5679160799b9f8a1ef4050b4d108c",
       "pages": 7,
       "category": "workbook"
     },
     {
       "path": "week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "2afdf2e7db3325c5c19647e8f72b84cf3746cf6a00689d6529108dfa5f7b5a7f",
+      "sha256": "5d4ea3b1220ad977e4582b9f4f0b01f6a2a36029c10c8df9d5366fe46a2821cd",
       "pages": 7,
       "category": "workbook"
     },
     {
       "path": "week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "bec263bc6d46e7b5c24fa8142304372846e78b42d893105b0b27911ee4f79bea",
+      "sha256": "0424a3d6c777270450f015128e39ad669553b6b0cbd68e9bc8b6db57c4a0c198",
       "pages": 7,
       "category": "workbook"
     },
     {
       "path": "week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "afd2d26a778c6d2ee05a69cf2f272b08d9dd6531c06128b8cfacb67a70a76a71",
+      "sha256": "06ec0c639b3c6db8cf493fe8e5efc209ef5c5af8148c41ae98a53564996581ac",
       "pages": 7,
       "category": "workbook"
     },
     {
       "path": "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "cc6b532898e476066d9c68a000849c06a5c5df05b4225840d103496b706f4588",
+      "sha256": "91549e147e83fba892339a207e5c94e88eec9c271c90adbec9cb61c050786fd1",
       "pages": 7,
       "category": "workbook"
     },
     {
-      "path": "week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
-      "sha256": "b5ab657eef466e4ae7a7d04d8f3fa7ac9f0b209e06cf94e8aa5e4091b516aa55",
-      "pages": 9,
-      "category": "workbook"
-    },
-    {
-      "path": "week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
-      "sha256": "bb6ece5e52d051949d1c92ebbf091823514b4a6100ab501b1b30735ed9a898e0",
-      "pages": 7,
+      "path": "week04/day19_support_transition/DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf",
+      "sha256": "daa2b92a691b749f39e6fa1c2cd66416aa445f2c07446d22286a55543bd0db56",
+      "pages": 16,
       "category": "support"
     }
   ],
@@ -799,6 +793,16 @@
       "path": "archive/legacy_daily_materials_through_20260717/day18/DAY18_SYNTHESIS_WORKBOOKLET_STUDENT_07012026_v1.pdf",
       "sha256": "a2dee926a7a446dc251a7c010f5e78219890373ec01a80e16049eaf8762f3f55",
       "category": "workbook"
+    },
+    {
+      "path": "archive/planned_day18_not_delivered_07302026/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
+      "sha256": "ec20279803d5dbfff97d68694b43554469902e9ab7d3616e68b8f5411e7013d7",
+      "category": "workbook"
+    },
+    {
+      "path": "archive/superseded_day19_transition_07302026/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf",
+      "sha256": "bb6ece5e52d051949d1c92ebbf091823514b4a6100ab501b1b30735ed9a898e0",
+      "category": "support"
     },
     {
       "path": "archive/superseded_v4_07192026/day01/DAY01_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",

@@ -16,5 +16,5 @@ Released daily quiz PDFs are added after their scheduled time; Exam 1 and Exam 2
 
 - [Start Here for Students](../START_HERE_STUDENTS.md)
 - [Bridge-to-ENGR 102 Journey](../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
-- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
+- [Current Student Materials Index](../CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md)
 - [Student Learning Collections by Competency](../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)

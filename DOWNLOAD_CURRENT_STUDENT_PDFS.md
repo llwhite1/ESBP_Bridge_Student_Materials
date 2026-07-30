@@ -90,10 +90,10 @@ Scheduled files appear here after the release automation copies and validates th
 
 - [DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
 
-## Day 18 — Synthesis workbook
+## Day 18 — Exam 2 Q20 debrief
 
-- [DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
+No paper packet was used. See the [delivered-session record](week04/day18_synthesis/README.md).
 
-## Day 19 — Support and transition
+## Day 19 — Cumulative challenge
 
-- [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf)
+- [DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf](week04/day19_support_transition/DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf)

@@ -1,5 +1,7 @@
 # Current Student Materials Index
 
+> Historical index. Use the [current v6 index](CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md).
+
 This is the current file picker. Superseded materials have been separated into the [legacy archive](archive/README.md).
 
 Use the [Lab Day 1-7 notebooks](notebooks/README.md) for `.ipynb` work and the [release status](release_schedule/CURRENT_RELEASE_STATUS.md) for delayed keys and quizzes.
@@ -23,7 +25,7 @@ Use the [Lab Day 1-7 notebooks](notebooks/README.md) for `.ipynb` work and the [
 | 15 | Fri Jul 24 | Strings as sequences: append, concatenation, and slicing | [Workbook](week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) · [release status](release_schedule/CURRENT_RELEASE_STATUS.md) |
 | 16 | Mon Jul 27 | Indexed mutation and independent Exam 2 rehearsal | [Workbook](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) · [release status](release_schedule/CURRENT_RELEASE_STATUS.md) |
 | 17 | Tue Jul 28 | Exam 2 boundary | Exam boundary; no exam or exam key is public. |
-| 18 | Wed Jul 29 | Post-exam synthesis and function handoff | [Workbook](week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) |
+| 18 | Wed Jul 29 | Planned function handoff — not delivered | [Archived plan](archive/planned_day18_not_delivered_07302026/) |
 | 19 | Thu Jul 30 | Support and transition | [Support packet](week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf) |
 | 20 | Fri Jul 31 | Ceremony day / no bridge class meeting | No regular student packet. |
 

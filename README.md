@@ -4,14 +4,14 @@ This repository is the student release point for the ENGR 102 Summer Bridge mate
 
 ## Use these folders first
 
-- [Current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md) — the current workbooks, released quizzes, and released keys.
+- [Current student materials index](CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md) — the current workbooks, released quizzes, released keys, and Day 19 challenge packet.
 - [Current Lab Day 1-7 notebooks](notebooks/README.md) — the `.ipynb` files submitted to Gradescope.
 - [Release status](release_schedule/CURRENT_RELEASE_STATUS.md) — exactly when delayed workbook and quiz solutions become available.
 - [Legacy archive](archive/README.md) — older versions and their released keys, separated from current work.
 
 ## What is current
 
-The July 20 v5 workbooks are the active workbook sequence for Days 1-8, 10-16, and 18. The July 20 v5 notebooks are the active Lab Day 1-7 sequence. Each workbook names the construct boundary, timing/help trigger, and engineering evidence record; each lab notebook carries the same boundary into scaffolded practice and an Independent Program Studio. Students submit the completed `.ipynb` file.
+The July 20 v5 workbooks remain active for Days 1-8 and 10-16. Day 18 was an in-class Exam 2 Question 20 debrief with no paper packet. The July 30 v10 Day 19 challenge battery is the current cumulative practice packet. The July 20 v5 notebooks remain the active Lab Day 1-7 sequence; no notebook changed in this update.
 
 Days 1-8 v5 workbook keys, student quizzes, and quiz keys are available because those daily activities are complete. For Days 10-16, the v5 student workbook is available before class, the workbook key is released at 2:30 PM on the next business day, and the student quiz plus its key are released at 4:00 PM that day. Superseded v4 files are retained only in the archive.
 
@@ -24,7 +24,7 @@ Exam 1 and Exam 2 files and keys remain instructor-controlled and are not publis
 | 1 | 1-5 | Jul 6-10 | Output, state, types, comparisons, Boolean reasoning |
 | 2 | 6-10 | Jul 13-17 | Branching, validation, debugging, Exam 1, repetition launch |
 | 3 | 11-15 | Jul 20-24 | While loops, for loops, nested tracing, lists, strings |
-| 4 | 16-20 | Jul 27-31 | Exam 2 rehearsal, Exam 2, synthesis, transition |
+| 4 | 16-20 | Jul 27-31 | Exam 2 rehearsal, Exam 2, Q20 debrief, cumulative challenge, ceremony |
 
 See [CALENDAR.md](CALENDAR.md) for the day-by-day schedule.
 

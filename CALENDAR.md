@@ -23,6 +23,6 @@ Released daily quiz PDFs are added after their scheduled time; Exam 1 and Exam 2
 | Week 03 | 15 | Fri Jul 24 | Strings as sequences: append, concatenation, and slicing | [Open day folder](week03/day15_strings_as_sequences/) |
 | Week 04 | 16 | Mon Jul 27 | Indexed mutation and independent Exam 2 rehearsal | [Open day folder](week04/day16_indexed_mutation_exam2_rehearsal/) |
 | Week 04 | 17 | Tue Jul 28 | Exam 2 boundary | [Open day folder](week04/day17_exam2/) |
-| Week 04 | 18 | Wed Jul 29 | Synthesis workbook | [Open day folder](week04/day18_synthesis/) |
-| Week 04 | 19 | Thu Jul 30 | Support and transition | [Open day folder](week04/day19_support_transition/) |
+| Week 04 | 18 | Wed Jul 29 | Exam 2 Q20 debrief and cumulative practice | [Open delivered-session record](week04/day18_synthesis/) |
+| Week 04 | 19 | Thu Jul 30 | Cumulative challenge after Exam 2 Q20 | [Open day folder](week04/day19_support_transition/) |
 | Week 04 | 20 | Fri Jul 31 | Ceremony day / no bridge class meeting | [Open day folder](week04/day20_ceremony_no_class_meeting/) |

@@ -47,7 +47,7 @@ Python operators `and`, `or`, and `not` remain lowercase and appear as bold dark
 
 ## Current navigation
 
-- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
+- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md)
 - [Direct PDF Download Page](../../DOWNLOAD_CURRENT_STUDENT_PDFS.md)
 - [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
 - [Calendar](../../CALENDAR.md)

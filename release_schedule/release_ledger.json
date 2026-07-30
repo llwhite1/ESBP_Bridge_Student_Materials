@@ -18,7 +18,8 @@
     "day08:quiz-package",
     "day08:workbook-key",
     "day10:quiz-package",
-    "day10:workbook-key"
+    "day10:workbook-key",
+    "day19:preclass-student-packet"
   ],
   "events": [
     {
@@ -117,6 +118,16 @@
         "week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
         "week01/day03_types_casting_truthiness/DAY03_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
         "week04/day18_synthesis/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf"
+      ]
+    },
+    {
+      "release_id": "day19:preclass-student-packet",
+      "released_at": "2026-07-30T00:36:08-05:00",
+      "description": "One-time pre-class publication authorized by the course owner after the delivered-sequence correction. Published only the Day 19 student challenge battery; archived the planned Day 18 function workbook and superseded Day 19 transition packet. No quiz, key, exam, notebook, or autograder was released.",
+      "changed_paths": [
+        "week04/day19_support_transition/DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf",
+        "archive/planned_day18_not_delivered_07302026/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
+        "archive/superseded_day19_transition_07302026/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf"
       ]
     }
   ]

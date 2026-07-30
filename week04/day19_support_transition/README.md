@@ -1,41 +1,20 @@
-# Day 19 — Support and transition
+# Day 19 — Cumulative challenge after Exam 2 Question 20
 
 Date: Thu Jul 30
 
-## Start here for this day
+## Current student file
 
-Identify remaining support needs and build a transfer plan for ENGR 102.
+- [Download the Day 19 challenge battery](DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf)
 
-Use this README before opening any files. It tells you what to look for, what evidence to keep, and how this day connects to ENGR 102.
+This packet contains 24 trace problems and 10 complete top-level program problems. It is intentionally larger than one class period. Do not try to finish all 34.
 
-## Current student-facing files
+## How to use it
 
-- [DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf](https://github.com/llwhite1/ESBP_Bridge_Student_Materials/raw/main/week04/day19_support_transition/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf) — support and transition packet
+1. Start with Tier 1 and keep a written state ledger.
+2. Continue until the problems stop being easy; then slow down and explain the state change that controls the result.
+3. For build problems, keep one algorithm and change only the supplied data assignments.
+4. Use the expected output to test, then explain any mismatch before revising.
 
-## What you are learning today
+The packet uses only the cumulative construct boundary practiced through Day 18. It does not require you to write functions.
 
-- Focus: Support and transition.
-- Main evidence to keep: support plan, next step, study plan.
-- Why it matters: Identify remaining support needs and build a transfer plan for ENGR 102.
-
-## Before class / during class / after class
-
-- Before class: Look back at the evidence habits that still need practice.
-- During class: Turn support needs into concrete next steps.
-- After class: Write one support action you can take in the regular semester.
-
-## If you get stuck
-
-If stuck, name the type of help needed rather than saying “I do not get it.”
-
-Try to name the kind of evidence you need before asking for help: output, state, type, branch decision, test, loop pass, list state, or support plan.
-
-## How this connects to ENGR 102
-
-This converts the bridge from a one-time program into a semester support plan.
-
-## Related collection pages
-
-- [Bridge-to-ENGR 102 Journey](../../BRIDGE_TO_ENGR102_JOURNEY_CORE_COMPETENCIES_07082026_v1.md)
-- [Student Learning Collections by Competency](../../STUDENT_LEARNING_COLLECTIONS_BY_COMPETENCY_07152026_v2.md)
-- [Current Student Materials Index](../../CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)
+The Day 19 quiz and all answer keys remain instructor-controlled and are not published here.

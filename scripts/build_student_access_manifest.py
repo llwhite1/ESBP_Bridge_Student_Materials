@@ -73,7 +73,7 @@ def build() -> dict:
     for record in active_pdfs:
         counts[record["category"]] += 1
     manifest = {
-        "version": "2026-07-20-v5-construct-evidence-release",
+        "version": "2026-07-30-v6-day19-challenge-release",
         "status": "published_student_release",
         "active_pdf_count": len(active_pdfs),
         "active_pdf_counts": counts,
@@ -123,7 +123,7 @@ def build() -> dict:
                 "",
                 "## Navigation",
                 "",
-                "- [Current materials index](CURRENT_STUDENT_MATERIALS_INDEX_07202026_v5.md)",
+                "- [Current materials index](CURRENT_STUDENT_MATERIALS_INDEX_07302026_v6.md)",
                 "- [Release status](release_schedule/CURRENT_RELEASE_STATUS.md)",
                 "- [Legacy archive](archive/README.md)",
                 "- [Machine-readable manifest](manifest_student_access.json)",
