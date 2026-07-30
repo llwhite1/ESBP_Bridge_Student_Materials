@@ -25,6 +25,12 @@ ARCHIVE_INDEX = ROOT / "archive/legacy_daily_materials_through_20260717/INDEX.md
 DOWNLOADS_PATH = ROOT / "DOWNLOAD_CURRENT_STUDENT_PDFS.md"
 TIMEZONE = ZoneInfo("America/Chicago")
 PHASES = {"workbook-key", "quiz-package"}
+DAY19_PRECLASS_RELEASE_ID = "day19:preclass-student-packet"
+DAY19_STUDENT_PACKET = (
+    ROOT
+    / "week04/day19_support_transition/"
+    "DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf"
+)
 
 
 def sha256(path: Path) -> str:
@@ -127,6 +133,7 @@ def release_status(item: dict, phase: str, completed: set[str], now: datetime) -
 def write_status(schedule: dict, ledger: dict, *, now: datetime | None = None) -> None:
     now = now or datetime.now(TIMEZONE)
     completed = set(ledger.get("completed_release_ids", []))
+    supplemental_intro: list[str] = []
     rows = []
     for item in schedule["releases"]:
         for phase in ("workbook-key", "quiz-package"):
@@ -137,6 +144,22 @@ def write_status(schedule: dict, ledger: dict, *, now: datetime | None = None) -
                 f"| Day {item['day']} | {label} | {item['release_date']} | "
                 f"{phase_data['time_ct']} CT | {status} |"
             )
+    if DAY19_PRECLASS_RELEASE_ID in completed:
+        if not DAY19_STUDENT_PACKET.is_file():
+            raise FileNotFoundError(
+                "The Day 19 pre-class release is recorded as complete, but its public packet is missing: "
+                f"{DAY19_STUDENT_PACKET.relative_to(ROOT)}"
+            )
+        supplemental_intro.append(
+            "The Day 19 student challenge battery is available before class under a one-time explicit release; "
+            "its quiz and all Day 19 keys remain instructor-controlled."
+        )
+        rows.extend(
+            [
+                "| Day 19 | Student challenge battery | 2026-07-30 | Pre-class | Available |",
+                "| Day 19 | Quiz + all keys | Not scheduled | — | Held - not public |",
+            ]
+        )
     STATUS_PATH.write_text(
         "\n".join(
             [
@@ -146,6 +169,7 @@ def write_status(schedule: dict, ledger: dict, *, now: datetime | None = None) -
                 "Times are America/Chicago (Central Time). Exam 1 and Exam 2 files and keys are not part of this schedule.",
                 "",
                 "Days 1-8 v5 workbook keys, student quizzes, and quiz keys are already available in their current day folders.",
+                *supplemental_intro,
                 "The schedule below releases current v5 files; matching v4 keys are retained only in the [archive](../archive/README.md) for work completed before the correction.",
                 "Available means the files are present and recorded in the release ledger. Overdue means the stated boundary has passed but the controlled release has not completed.",
                 "",

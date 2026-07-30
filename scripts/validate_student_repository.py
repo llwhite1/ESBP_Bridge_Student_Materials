@@ -16,6 +16,10 @@ SCHEDULE = ROOT / "release_schedule/bridge_student_release_schedule_20260720_202
 LEDGER = ROOT / "release_schedule/release_ledger.json"
 JSON_REPORT = ROOT / "REPOSITORY_HYGIENE.json"
 MD_REPORT = ROOT / "REPOSITORY_HYGIENE.md"
+STATUS_PAGE = ROOT / "release_schedule/CURRENT_RELEASE_STATUS.md"
+DAY19_PRECLASS_RELEASE_ID = "day19:preclass-student-packet"
+DAY19_DIRECTORY = ROOT / "week04/day19_support_transition"
+DAY19_STUDENT_PACKET = DAY19_DIRECTORY / "DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf"
 
 
 def sha256(path: Path) -> str:
@@ -98,6 +102,26 @@ def validate() -> dict:
                 elif destination.exists():
                     failures.append(f"Embargoed scheduled file is present early: {record['destination']}")
 
+    day19_held_artifacts = [
+        path.relative_to(ROOT).as_posix()
+        for path in DAY19_DIRECTORY.glob("*.pdf")
+        if "QUIZ" in path.name.upper() or "KEY" in path.name.upper()
+    ]
+    if DAY19_PRECLASS_RELEASE_ID in completed:
+        if not DAY19_STUDENT_PACKET.is_file():
+            failures.append("Recorded Day 19 pre-class packet is missing")
+        status_text = STATUS_PAGE.read_text(encoding="utf-8") if STATUS_PAGE.is_file() else ""
+        required_status_lines = (
+            "| Day 19 | Student challenge battery | 2026-07-30 | Pre-class | Available |",
+            "| Day 19 | Quiz + all keys | Not scheduled | — | Held - not public |",
+        )
+        if not all(line in status_text for line in required_status_lines):
+            failures.append("Day 19 available/held rows are missing from the generated release status")
+    elif DAY19_STUDENT_PACKET.exists():
+        failures.append("Day 19 packet is public without its explicit completed ledger record")
+    if day19_held_artifacts:
+        failures.append(f"Held Day 19 quiz/key artifacts are public: {day19_held_artifacts}")
+
     for day in range(1, 9):
         day_dirs = list(ROOT.glob(f"week*/day{day:02d}_*"))
         if len(day_dirs) != 1:
@@ -154,6 +178,7 @@ def validate() -> dict:
         "tex_zip_count": len(forbidden_sources),
         "exam_artifact_count": len(exam_files),
         "broken_active_link_count": len(broken_links),
+        "day19_held_artifact_count": len(day19_held_artifacts),
         "failures": failures,
     }
     return result
@@ -174,6 +199,7 @@ def write_reports(result: dict) -> None:
         f"- TeX/ZIP artifacts: {result['tex_zip_count']}",
         f"- Exam artifacts: {result['exam_artifact_count']}",
         f"- Broken active links: {result['broken_active_link_count']}",
+        f"- Public held Day 19 artifacts: {result['day19_held_artifact_count']}",
         "",
         "This check validates current and archived hashes, notebook cleanliness, release embargoes, the exam boundary, and public navigation.",
         "",
