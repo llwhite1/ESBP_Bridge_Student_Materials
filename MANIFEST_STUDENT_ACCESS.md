@@ -4,18 +4,18 @@ Status: published student release with a clean active/archive split and schedule
 
 ## Active collection
 
-- Active PDFs: 43
+- Active PDFs: 61
 - Current workbooks: 15
-- Released workbook keys: 9
-- Released student quizzes: 9
-- Released quiz keys: 9
+- Released workbook keys: 15
+- Released student quizzes: 15
+- Released quiz keys: 15
 - Other current support PDFs: 1
 - Current student notebooks: 7
 - Notebook activities: 32
 
 ## Archive and safety boundary
 
-- Archived legacy PDFs: 132
+- Archived legacy PDFs: 180
 - Exam PDFs in the student repo: 0
 - TeX sources in the student repo: 0
 - ZIP/source packages in the student repo: 0

@@ -1,6 +1,6 @@
 # Week 04 Student Materials
 
-Only student workbooks are published for Days 10-16; quizzes and exams remain excluded.
+The v5 student workbook, workbook key, quiz, and quiz key for Day 16 are available. Exam materials and the held Day 19 key and quiz remain excluded.
 
 | Day | Current focus | Folder |
 |---:|---|---|

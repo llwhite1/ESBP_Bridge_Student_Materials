@@ -2,10 +2,10 @@
 
 Disposition: **PASS**
 
-- Active PDFs: 43
-- Archived legacy PDFs: 132
+- Active PDFs: 61
+- Archived legacy PDFs: 180
 - Current notebooks: 7
-- Completed scheduled phases: 19
+- Completed scheduled phases: 31
 - Scheduled destinations: 77
 - TeX/ZIP artifacts: 0
 - Exam artifacts: 0

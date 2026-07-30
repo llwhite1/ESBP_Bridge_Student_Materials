@@ -68,32 +68,46 @@ Scheduled files appear here after the release automation copies and validates th
 
 ## Day 11 — While loops, update order, sentinels, and termination
 
+- [DAY11_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day11_while_loops_update_termination/DAY11_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [DAY11_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](week03/day11_while_loops_update_termination/DAY11_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [DAY11_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
 - [DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
 
 ## Day 12 — For loops, range, counters, and accumulators
 
+- [DAY12_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day12_for_loops_range_accumulators/DAY12_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [DAY12_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](week03/day12_for_loops_range_accumulators/DAY12_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
 - [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
 
 ## Day 13 — Loop design, break, continue, and nested tracing
 
+- [DAY13_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day13_loop_design_break_continue_nested_tracing/DAY13_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [DAY13_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](week03/day13_loop_design_break_continue_nested_tracing/DAY13_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [DAY13_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
 - [DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
 
 ## Day 14 — Lists, length, indexing, mutation, and list loops
 
+- [DAY14_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day14_lists_indexing_mutation/DAY14_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [DAY14_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](week03/day14_lists_indexing_mutation/DAY14_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
 - [DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
 
 ## Day 15 — Strings as sequences: append, concatenation, and slicing
 
+- [DAY15_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day15_strings_as_sequences/DAY15_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [DAY15_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](week03/day15_strings_as_sequences/DAY15_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [DAY15_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
 - [DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
 
 ## Day 16 — Indexed mutation and independent Exam 2 rehearsal
 
+- [DAY16_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [DAY16_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [DAY16_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
 - [DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
 
-## Day 18 — Exam 2 Q20 debrief
-
-No paper packet was used. See the [delivered-session record](week04/day18_synthesis/README.md).
-
-## Day 19 — Cumulative challenge
+## Day 19 — Cumulative challenge after Exam 2 Question 20
 
 - [DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf](week04/day19_support_transition/DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf)

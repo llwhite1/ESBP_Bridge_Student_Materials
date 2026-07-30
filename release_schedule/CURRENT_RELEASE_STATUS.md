@@ -12,18 +12,18 @@ Available means the files are present and recorded in the release ledger. Overdu
 |---|---|---|---:|---|
 | Day 10 | Workbook key | 2026-07-20 | 14:30 CT | Available |
 | Day 10 | Quiz + quiz key | 2026-07-20 | 16:00 CT | Available |
-| Day 11 | Workbook key | 2026-07-21 | 14:30 CT | Overdue - pending release |
-| Day 11 | Quiz + quiz key | 2026-07-21 | 16:00 CT | Overdue - pending release |
-| Day 12 | Workbook key | 2026-07-22 | 14:30 CT | Overdue - pending release |
-| Day 12 | Quiz + quiz key | 2026-07-22 | 16:00 CT | Overdue - pending release |
-| Day 13 | Workbook key | 2026-07-23 | 14:30 CT | Overdue - pending release |
-| Day 13 | Quiz + quiz key | 2026-07-23 | 16:00 CT | Overdue - pending release |
-| Day 14 | Workbook key | 2026-07-24 | 14:30 CT | Overdue - pending release |
-| Day 14 | Quiz + quiz key | 2026-07-24 | 16:00 CT | Overdue - pending release |
-| Day 15 | Workbook key | 2026-07-27 | 14:30 CT | Overdue - pending release |
-| Day 15 | Quiz + quiz key | 2026-07-27 | 16:00 CT | Overdue - pending release |
-| Day 16 | Workbook key | 2026-07-28 | 14:30 CT | Overdue - pending release |
-| Day 16 | Quiz + quiz key | 2026-07-28 | 16:00 CT | Overdue - pending release |
+| Day 11 | Workbook key | 2026-07-21 | 14:30 CT | Available |
+| Day 11 | Quiz + quiz key | 2026-07-21 | 16:00 CT | Available |
+| Day 12 | Workbook key | 2026-07-22 | 14:30 CT | Available |
+| Day 12 | Quiz + quiz key | 2026-07-22 | 16:00 CT | Available |
+| Day 13 | Workbook key | 2026-07-23 | 14:30 CT | Available |
+| Day 13 | Quiz + quiz key | 2026-07-23 | 16:00 CT | Available |
+| Day 14 | Workbook key | 2026-07-24 | 14:30 CT | Available |
+| Day 14 | Quiz + quiz key | 2026-07-24 | 16:00 CT | Available |
+| Day 15 | Workbook key | 2026-07-27 | 14:30 CT | Available |
+| Day 15 | Quiz + quiz key | 2026-07-27 | 16:00 CT | Available |
+| Day 16 | Workbook key | 2026-07-28 | 14:30 CT | Available |
+| Day 16 | Quiz + quiz key | 2026-07-28 | 16:00 CT | Available |
 | Day 19 | Student challenge battery | 2026-07-30 | Pre-class | Available |
 | Day 19 | Quiz + all keys | Not scheduled | — | Held - not public |
 

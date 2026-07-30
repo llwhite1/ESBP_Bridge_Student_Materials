@@ -1,6 +1,6 @@
 # Week 03 Student Materials
 
-Only student workbooks are published for Days 10-16; quizzes and exams remain excluded.
+The v5 student workbooks, workbook keys, quizzes, and quiz keys for Days 11-15 are available. Exam materials remain excluded.
 
 | Day | Current focus | Folder |
 |---:|---|---|

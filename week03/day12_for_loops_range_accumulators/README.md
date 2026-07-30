@@ -4,27 +4,12 @@ Date: Tue Jul 21
 
 ## Current day materials
 
-- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
+- [Student workbook](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
+- [Workbook key](DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [Student quiz](DAY12_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [Quiz key](DAY12_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
 
-Day 12's workbook key is scheduled for 2026-07-22 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
-See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
-Earlier Day 12 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day12/); matching legacy keys appear there after the scheduled release.
-
-## Current day materials
-
-- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
-
-Day 12's workbook key is scheduled for 2026-07-22 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
-See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
-Earlier Day 12 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day12/); matching legacy keys appear there after the scheduled release.
-
-## Current day materials
-
-- [DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY12_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
-
-Day 12's workbook key is scheduled for 2026-07-22 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
-See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
-Earlier Day 12 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day12/); matching legacy keys appear there after the scheduled release.
+All scheduled Day 12 releases are complete and recorded in the [release status](../../release_schedule/CURRENT_RELEASE_STATUS.md). Earlier Day 12 materials and their released keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day12/).
 
 ## VIP lab alignment
 

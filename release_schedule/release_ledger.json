@@ -19,6 +19,18 @@
     "day08:workbook-key",
     "day10:quiz-package",
     "day10:workbook-key",
+    "day11:quiz-package",
+    "day11:workbook-key",
+    "day12:quiz-package",
+    "day12:workbook-key",
+    "day13:quiz-package",
+    "day13:workbook-key",
+    "day14:quiz-package",
+    "day14:workbook-key",
+    "day15:quiz-package",
+    "day15:workbook-key",
+    "day16:quiz-package",
+    "day16:workbook-key",
     "day19:preclass-student-packet"
   ],
   "events": [
@@ -128,6 +140,168 @@
         "week04/day19_support_transition/DAY19_CHALLENGE_BATTERY_STUDENT_07302026_v10.pdf",
         "archive/planned_day18_not_delivered_07302026/DAY18_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf",
         "archive/superseded_day19_transition_07302026/DAY19_SYNTHESIS_SUPPORT_TRANSITION_PACKET_STUDENT_07012026_v1.pdf"
+      ]
+    },
+    {
+      "release_id": "day11:workbook-key",
+      "scheduled_date": "2026-07-21",
+      "scheduled_time_ct": "14:30",
+      "released_at": "2026-07-30T00:44:40-05:00",
+      "changed_paths": [
+        "week03/day11_while_loops_update_termination/DAY11_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day11/DAY11_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day11/DAY11_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07162026_v1.pdf",
+        "archive/legacy_daily_materials_through_20260717/day11/DAY11_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day11/DAY11_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v3.pdf"
+      ]
+    },
+    {
+      "release_id": "day11:quiz-package",
+      "scheduled_date": "2026-07-21",
+      "scheduled_time_ct": "16:00",
+      "released_at": "2026-07-30T00:44:41-05:00",
+      "changed_paths": [
+        "week03/day11_while_loops_update_termination/DAY11_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week03/day11_while_loops_update_termination/DAY11_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day11/DAY11_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
+        "archive/superseded_v4_07192026/day11/DAY11_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day11/DAY11_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day11/DAY11_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
+      ]
+    },
+    {
+      "release_id": "day12:workbook-key",
+      "scheduled_date": "2026-07-22",
+      "scheduled_time_ct": "14:30",
+      "released_at": "2026-07-30T00:44:43-05:00",
+      "changed_paths": [
+        "week03/day12_for_loops_range_accumulators/DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day12/DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day12/DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07162026_v1.pdf",
+        "archive/legacy_daily_materials_through_20260717/day12/DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day12/DAY12_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v3.pdf"
+      ]
+    },
+    {
+      "release_id": "day12:quiz-package",
+      "scheduled_date": "2026-07-22",
+      "scheduled_time_ct": "16:00",
+      "released_at": "2026-07-30T00:44:44-05:00",
+      "changed_paths": [
+        "week03/day12_for_loops_range_accumulators/DAY12_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week03/day12_for_loops_range_accumulators/DAY12_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day12/DAY12_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
+        "archive/superseded_v4_07192026/day12/DAY12_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day12/DAY12_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day12/DAY12_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
+      ]
+    },
+    {
+      "release_id": "day13:workbook-key",
+      "scheduled_date": "2026-07-23",
+      "scheduled_time_ct": "14:30",
+      "released_at": "2026-07-30T00:44:46-05:00",
+      "changed_paths": [
+        "week03/day13_loop_design_break_continue_nested_tracing/DAY13_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day13/DAY13_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day13/DAY13_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07162026_v1.pdf",
+        "archive/legacy_daily_materials_through_20260717/day13/DAY13_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day13/DAY13_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v3.pdf"
+      ]
+    },
+    {
+      "release_id": "day13:quiz-package",
+      "scheduled_date": "2026-07-23",
+      "scheduled_time_ct": "16:00",
+      "released_at": "2026-07-30T00:44:47-05:00",
+      "changed_paths": [
+        "week03/day13_loop_design_break_continue_nested_tracing/DAY13_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week03/day13_loop_design_break_continue_nested_tracing/DAY13_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day13/DAY13_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
+        "archive/superseded_v4_07192026/day13/DAY13_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day13/DAY13_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day13/DAY13_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
+      ]
+    },
+    {
+      "release_id": "day14:workbook-key",
+      "scheduled_date": "2026-07-24",
+      "scheduled_time_ct": "14:30",
+      "released_at": "2026-07-30T00:45:03-05:00",
+      "changed_paths": [
+        "week03/day14_lists_indexing_mutation/DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day14/DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day14/DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07162026_v1.pdf",
+        "archive/legacy_daily_materials_through_20260717/day14/DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day14/DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v3.pdf"
+      ]
+    },
+    {
+      "release_id": "day14:quiz-package",
+      "scheduled_date": "2026-07-24",
+      "scheduled_time_ct": "16:00",
+      "released_at": "2026-07-30T00:45:05-05:00",
+      "changed_paths": [
+        "week03/day14_lists_indexing_mutation/DAY14_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week03/day14_lists_indexing_mutation/DAY14_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day14/DAY14_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
+        "archive/superseded_v4_07192026/day14/DAY14_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day14/DAY14_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day14/DAY14_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
+      ]
+    },
+    {
+      "release_id": "day15:workbook-key",
+      "scheduled_date": "2026-07-27",
+      "scheduled_time_ct": "14:30",
+      "released_at": "2026-07-30T00:45:07-05:00",
+      "changed_paths": [
+        "week03/day15_strings_as_sequences/DAY15_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day15/DAY15_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day15/DAY15_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07162026_v1.pdf",
+        "archive/legacy_daily_materials_through_20260717/day15/DAY15_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day15/DAY15_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v3.pdf"
+      ]
+    },
+    {
+      "release_id": "day15:quiz-package",
+      "scheduled_date": "2026-07-27",
+      "scheduled_time_ct": "16:00",
+      "released_at": "2026-07-30T00:45:08-05:00",
+      "changed_paths": [
+        "week03/day15_strings_as_sequences/DAY15_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week03/day15_strings_as_sequences/DAY15_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day15/DAY15_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
+        "archive/superseded_v4_07192026/day15/DAY15_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day15/DAY15_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day15/DAY15_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
+      ]
+    },
+    {
+      "release_id": "day16:workbook-key",
+      "scheduled_date": "2026-07-28",
+      "scheduled_time_ct": "14:30",
+      "released_at": "2026-07-30T00:45:10-05:00",
+      "changed_paths": [
+        "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day16/DAY16_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day16/DAY16_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07162026_v1.pdf",
+        "archive/legacy_daily_materials_through_20260717/day16/DAY16_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day16/DAY16_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07172026_v3.pdf"
+      ]
+    },
+    {
+      "release_id": "day16:quiz-package",
+      "scheduled_date": "2026-07-28",
+      "scheduled_time_ct": "16:00",
+      "released_at": "2026-07-30T00:45:12-05:00",
+      "changed_paths": [
+        "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf",
+        "week04/day16_indexed_mutation_exam2_rehearsal/DAY16_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf",
+        "archive/superseded_v4_07192026/day16/DAY16_INDEPENDENCE_RAMP_QUIZ_STUDENT_07192026_v4.pdf",
+        "archive/superseded_v4_07192026/day16/DAY16_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07192026_v4.pdf",
+        "archive/legacy_daily_materials_through_20260717/day16/DAY16_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07152026_v2.pdf",
+        "archive/legacy_daily_materials_through_20260717/day16/DAY16_INDEPENDENCE_RAMP_QUIZ_STUDENT_07152026_v2.pdf"
       ]
     }
   ]

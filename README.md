@@ -13,7 +13,7 @@ This repository is the student release point for the ENGR 102 Summer Bridge mate
 
 The July 20 v5 workbooks remain active for Days 1-8 and 10-16. Day 18 was an in-class Exam 2 Question 20 debrief with no paper packet. The July 30 v10 Day 19 challenge battery is the current cumulative practice packet. The July 20 v5 notebooks remain the active Lab Day 1-7 sequence; no notebook changed in this update.
 
-Days 1-8 v5 workbook keys, student quizzes, and quiz keys are available because those daily activities are complete. For Days 10-16, the v5 student workbook is available before class, the workbook key is released at 2:30 PM on the next business day, and the student quiz plus its key are released at 4:00 PM that day. Superseded v4 files are retained only in the archive.
+All scheduled v5 workbook keys, student quizzes, and quiz keys for Days 1-8 and 10-16 are now available. Their exact release events are recorded in the [release ledger](release_schedule/release_ledger.json) and summarized on the [release status page](release_schedule/CURRENT_RELEASE_STATUS.md). Superseded v4 files are retained only in the archive.
 
 Exam 1 and Exam 2 files and keys remain instructor-controlled and are not published here.
 

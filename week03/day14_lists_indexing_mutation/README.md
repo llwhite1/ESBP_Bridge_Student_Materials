@@ -4,27 +4,12 @@ Date: Thu Jul 23
 
 ## Current day materials
 
-- [DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
+- [Student workbook](DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf)
+- [Workbook key](DAY14_LAB_ALIGNED_WORKBOOK_INSTRUCTOR_KEY_07202026_v5.pdf)
+- [Student quiz](DAY14_INDEPENDENCE_RAMP_QUIZ_STUDENT_07202026_v5.pdf)
+- [Quiz key](DAY14_INDEPENDENCE_RAMP_QUIZ_INSTRUCTOR_KEY_07202026_v5.pdf)
 
-Day 14's workbook key is scheduled for 2026-07-24 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
-See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
-Earlier Day 14 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day14/); matching legacy keys appear there after the scheduled release.
-
-## Current day materials
-
-- [DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
-
-Day 14's workbook key is scheduled for 2026-07-24 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
-See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
-Earlier Day 14 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day14/); matching legacy keys appear there after the scheduled release.
-
-## Current day materials
-
-- [DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf](DAY14_LAB_ALIGNED_WORKBOOK_STUDENT_07202026_v5.pdf) — current July 20 v5 student workbook.
-
-Day 14's workbook key is scheduled for 2026-07-24 at 2:30 PM CT. The student quiz and quiz key are scheduled for 4:00 PM CT.
-See the [live release status](../../release_schedule/CURRENT_RELEASE_STATUS.md).
-Earlier Day 14 student materials are in the [archive](../../archive/legacy_daily_materials_through_20260717/day14/); matching legacy keys appear there after the scheduled release.
+All scheduled Day 14 releases are complete and recorded in the [release status](../../release_schedule/CURRENT_RELEASE_STATUS.md). Earlier Day 14 materials and their released keys are in the [archive](../../archive/legacy_daily_materials_through_20260717/day14/).
 
 ## VIP lab alignment
 
