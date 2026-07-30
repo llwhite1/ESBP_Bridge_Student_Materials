@@ -4,7 +4,6 @@ This is the authoritative public status for delayed workbook-key and quiz-packag
 Times are America/Chicago (Central Time). Exam 1 and Exam 2 files and keys are not part of this schedule.
 
 Days 1-8 v5 workbook keys, student quizzes, and quiz keys are already available in their current day folders.
-The Day 19 student challenge battery is available before class under a one-time explicit release; its quiz and all Day 19 keys remain instructor-controlled.
 The schedule below releases current v5 files; matching v4 keys are retained only in the [archive](../archive/README.md) for work completed before the correction.
 Available means the files are present and recorded in the release ledger. Overdue means the stated boundary has passed but the controlled release has not completed.
 
@@ -24,7 +23,5 @@ Available means the files are present and recorded in the release ledger. Overdu
 | Day 15 | Quiz + quiz key | 2026-07-27 | 16:00 CT | Overdue - pending release |
 | Day 16 | Workbook key | 2026-07-28 | 14:30 CT | Overdue - pending release |
 | Day 16 | Quiz + quiz key | 2026-07-28 | 16:00 CT | Overdue - pending release |
-| Day 19 | Student challenge battery | 2026-07-30 | Pre-class | Available |
-| Day 19 | Quiz + all keys | Not scheduled | — | Held - not public |
 
 If a scheduled item is not visible after the stated time, tell the instructor; do not substitute an exam file or an unreleased instructor artifact.
