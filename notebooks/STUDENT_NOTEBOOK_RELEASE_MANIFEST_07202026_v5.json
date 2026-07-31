@@ -3,7 +3,7 @@
   "release_version": "07202026_v5",
   "status": "PASS",
   "source_repository": "SEAS_VIP_Second_Iteration",
-  "source_contract_sha256": "07a04826c975da3255538a0c54371675f4a9afb4549e5db9c744dbca42e4b151",
+  "source_contract_sha256": "5a8d9cacf6599b6e9485d050d5bbe05209ae8e2ce9b9ac1bbe0d5af443149234",
   "notebook_count": 7,
   "activity_count": 32,
   "submission_type": "single_ipynb",
@@ -164,9 +164,9 @@
       "title": "Functions and Integration Checks",
       "filename": "VIP_Module18_Day07_Functions_Integration_Bridge_Student_07202026_v5.ipynb",
       "path": "notebooks/VIP_Module18_Day07_Functions_Integration_Bridge_Student_07202026_v5.ipynb",
-      "sha256": "0e84e65a715569385fab1c316959a490359b89665d66ebef480f17f137f8fe59",
+      "sha256": "b8df6dcb92b7c49798eb52e0fc962c7363b6edd9053327b668c0617d5a0d508d",
       "source_path": "notebooks/drafts/SEAS_VIP_Day07_Functions_Integration_Novice_Draft_07162026_v1.ipynb",
-      "source_sha256": "4b27b50889bb3a09490f1aad9f3fb7b51a11471fed489612fefebef2009b8a2a",
+      "source_sha256": "f6b39200e6ceb4f2dc70408a879809b903c27406d56a55c30a5ff5db6e1fc239",
       "activity_ids": [
         "18.28",
         "18.29",
@@ -187,5 +187,5 @@
     }
   ],
   "failures": [],
-  "release_set_sha256": "88c36e995a58c5c8a906087e9353728b8307e362059f68c0428c6dd6cd00629c"
+  "release_set_sha256": "4070b506c30c28ab3b81dd77eaa94c07f4a79a8e5eb1e87d0436388c9cff6171"
 }
